@@ -120,16 +120,16 @@ Com base na análise de ferramentas de BI open source e gratuitas disponíveis a
 
 | Plataforma | Tipo | Principais Características | Integração SQL | Visualização | Escalabilidade | Custo | Pontos Fortes | Pontos Fracos |
 |---|---|---|:---:|:---:|:---:|---|---|---|
-| **Metabase** | Open Source | Interface simples, dashboards interativos, suporte a 20+ bases de dados, sem necessidade de SQL | ✅ | ✅ | Médio | Gratuito | Interface muito intuitiva; ideal para utilizadores não técnicos; setup rápido | Sem conformidade SOC2 na versão open source; funcionalidades avançadas limitadas |
-| **Apache Superset** | Open Source | 40+ tipos de visualização, construtor no-code, caching de dados, suporte a qualquer base SQL | ✅ | ✅ | Alto | Gratuito | Altamente escalável; grande variedade de visualizações; comunidade ativa | Instalação e configuração complexas; curva de aprendizagem elevada para administradores |
-| **KNIME** | Open Source | ETL integrado, machine learning, suporte a Python/R, 300+ conectores | ✅ | ✅ | Alto | Gratuito | ETL nativo poderoso; suporte a ML e análise avançada; 300+ conectores | Interface mais orientada a data scientists; menos adequado para utilizadores de negócio |
-| **Lightdash** | Open Source | Self-service BI, integração com dbt, análise em linguagem natural, alertas automáticos | ✅ | ✅ | Médio | Gratuito | Integração nativa com dbt; suporte a linguagem natural; alertas automáticos | Requer conhecimento de dbt; ecossistema ainda em maturação |
-| **Redash** | Open Source | SQL client, suporte a NoSQL e Big Data, dashboards partilháveis, gestão de utilizadores | ✅ | ✅ | Médio | Gratuito | Focado em SQL; suporte a NoSQL e Big Data; dashboards partilháveis | Desenvolvimento da versão open source menos ativo; UI menos moderna |
-| **Jaspersoft Community Ed.** | Open Source | Motor de relatórios JasperReports, exportação em PDF/Excel/HTML, suporte a múltiplas fontes | ✅ | ✅ | Médio | Gratuito | Motor de relatórios robusto; múltiplos formatos de exportação | Sem multi-tenancy nem análise in-memory na versão community; interface datada |
-| **BIRT** | Open Source | Relatórios embebidos, múltiplas fontes de dados, scripting em Java/JavaScript | ✅ | ✅ | Médio | Gratuito | Boa integração com aplicações Java; reutilização de relatórios em biblioteca | Tecnologia mais antiga; suporte e comunidade menos ativos |
-| **Looker Studio** | Gratuito | 800+ conectores, templates de relatórios, integração com Google Workspace | ✅ | ✅ | Alto | Gratuito | 800+ conectores; fácil partilha; integração nativa com Google Workspace | Dependência do ecossistema Google; funcionalidades avançadas requerem Looker pago |
-| **Tableau Public** | Freemium | Visualizações interativas, comunidade ativa, exportação limitada | Limitado | ✅ | Baixo | Gratuito (limitado) | Visualizações de alta qualidade; grande comunidade; recursos de aprendizagem gratuitos | Dados obrigatoriamente públicos; sem refresh automático; sem SQL nativo |
-| **Power BI (Free)** | Freemium | Integração com Microsoft 365, 1 GB de capacidade, atualização diária | ✅ | ✅ | Médio | Gratuito (limitado) | Integração com Microsoft 365; interface familiar; segurança robusta | Limite de 1 GB; sem partilha na versão gratuita; requer upgrade para colaboração |
+| **Metabase** | Open Source | Interface simples, dashboards interativos, suporte a 20+ bases de dados, sem necessidade de SQL | ✔️ | ✔️ | Médio | Gratuito | Interface muito intuitiva; ideal para utilizadores não técnicos; setup rápido | Sem conformidade SOC2 na versão open source; funcionalidades avançadas limitadas |
+| **Apache Superset** | Open Source | 40+ tipos de visualização, construtor no-code, caching de dados, suporte a qualquer base SQL | ✔️ | ✔️ | Alto | Gratuito | Altamente escalável; grande variedade de visualizações; comunidade ativa | Instalação e configuração complexas; curva de aprendizagem elevada para administradores |
+| **KNIME** | Open Source | ETL integrado, machine learning, suporte a Python/R, 300+ conectores | ✔️ | ✔️ | Alto | Gratuito | ETL nativo poderoso; suporte a ML e análise avançada; 300+ conectores | Interface mais orientada a data scientists; menos adequado para utilizadores de negócio |
+| **Lightdash** | Open Source | Self-service BI, integração com dbt, análise em linguagem natural, alertas automáticos | ✔️ | ✔️ | Médio | Gratuito | Integração nativa com dbt; suporte a linguagem natural; alertas automáticos | Requer conhecimento de dbt; ecossistema ainda em maturação |
+| **Redash** | Open Source | SQL client, suporte a NoSQL e Big Data, dashboards partilháveis, gestão de utilizadores | ✔️ | ✔️ | Médio | Gratuito | Focado em SQL; suporte a NoSQL e Big Data; dashboards partilháveis | Desenvolvimento da versão open source menos ativo; UI menos moderna |
+| **Jaspersoft Community Ed.** | Open Source | Motor de relatórios JasperReports, exportação em PDF/Excel/HTML, suporte a múltiplas fontes | ✔️ | ✔️ | Médio | Gratuito | Motor de relatórios robusto; múltiplos formatos de exportação | Sem multi-tenancy nem análise in-memory na versão community; interface datada |
+| **BIRT** | Open Source | Relatórios embebidos, múltiplas fontes de dados, scripting em Java/JavaScript | ✔️ | ✔️ | Médio | Gratuito | Boa integração com aplicações Java; reutilização de relatórios em biblioteca | Tecnologia mais antiga; suporte e comunidade menos ativos |
+| **Looker Studio** | Gratuito | 800+ conectores, templates de relatórios, integração com Google Workspace | ✔️ | ✔️ | Alto | Gratuito | 800+ conectores; fácil partilha; integração nativa com Google Workspace | Dependência do ecossistema Google; funcionalidades avançadas requerem Looker pago |
+| **Tableau Public** | Freemium | Visualizações interativas, comunidade ativa, exportação limitada | Limitado | ✔️ | Baixo | Gratuito (limitado) | Visualizações de alta qualidade; grande comunidade; recursos de aprendizagem gratuitos | Dados obrigatoriamente públicos; sem refresh automático; sem SQL nativo |
+| **Power BI (Free)** | Freemium | Integração com Microsoft 365, 1 GB de capacidade, atualização diária | ✔️ | ✔️ | Médio | Gratuito (limitado) | Integração com Microsoft 365; interface familiar; segurança robusta | Limite de 1 GB; sem partilha na versão gratuita; requer upgrade para colaboração |
 
 > Fonte: [Domo – 10 Best Open Source & Free BI Tools for 2025](https://www.domo.com/learn/article/open-source-bi-tools)
 
@@ -142,18 +142,18 @@ Para identificar a plataforma mais adequada ao contexto da UA, foram definidos c
 | Critério | Peso | Justificação |
 |---|---|---|
 | Integração com múltiplas fontes | Alto | A UA possui vários sistemas heterogéneos (SIGACAD, SIGEF, RHumo, etc.) |
-| Suporte a SQL | Alto | O Data Warehouse da UA terá natureza relacional |
+| Suporte a SQL | Alto | O Data Warehouse terá de ser relacional |
 | Capacidade de visualização | Alto | Dashboards e KPIs são requisitos centrais do sistema |
-| Facilidade de utilização | Médio | Deve ser acessível a utilizadores não técnicos |
+| Facilidade de utilização | Médio | Deve ser acessível a qualquer tipo de utilizadores |
 | Escalabilidade | Médio | Volume crescente de dados académicos, financeiros e de RH |
-| Suporte a relatórios ad-hoc | Médio | Necessidade de relatórios sob demanda |
+| Suporte a relatórios ad-hoc | Médio | Necessidade da elaboração de relatórios |
 | Custo | Alto | Contexto universitário público, preferência por soluções open source |
-| Comunidade e suporte | Médio | Facilita a manutenção e evolução do sistema |
+| Comunidade e suporte | Médio | Procura de facilitar a manutenção e evolução do sistema |
 | Segurança e controlo de acessos | Alto | Dados sensíveis de alunos, funcionários e finanças |
 
 ---
 
-## 5.3 Plataforma Selecionada: Apache Superset
+# 6. Plataforma Selecionada: Apache Superset
 
 Após análise comparativa das plataformas identificadas e aplicação dos critérios definidos, a plataforma selecionada para o contexto da UA é o **Apache Superset**.
 
