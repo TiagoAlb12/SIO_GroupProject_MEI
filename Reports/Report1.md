@@ -108,3 +108,6 @@ Após esta completa análise, desde o contexto da aplicação até à arquitetur
 ---
 
 Desta forma, os requisitos apresentados servirão como base para a análise das ferramentas disponíveis no mercado e para a seleção da solução de BI mais adequada ao nosso contexto.
+
+
+## 5. Estudo das Plataformas disponíveis no Mercado
