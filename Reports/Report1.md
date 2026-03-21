@@ -1,6 +1,6 @@
-# Report 1 – Business Intelligence System for UA
+# Relatório 1 – Sistema de Business Intelligence para a Universidade de Aveiro
 
-## 1. Introduction
+## 1. Introdução
 
 Hoje em dia, as organizações dependem muito de dados e informações para tomar decisões. No entanto, com tantos sistemas de informação diferentes e independentes, é difícil ter uma visão clara e completa.
 
@@ -21,7 +21,9 @@ Atualmente, a UA utiliza vários sistemas independentes, nomeadamente:
 * Sistema de Gestão de Projetos
 * RIA – Repositório Institucional
 
-Cada sistema tem sua própria área de atuação e funciona de forma independente. Isso dispersa as informações em várias plataformas e dificulta ter uma visão geral da organização.
+Cada sistema tem a sua própria área de atuação e funciona de forma independente. Esta realidade conduz à dispersão as informações em várias plataformas e dificulta ter uma visão geral da organização.
+
+Neste contexto, torna-se evidente a necessidade de uma solução de Business Intelligence capaz de integrar estas fontes de dados e disponibilizar informação consolidada.
 
 ## 3. Business Intelligence
 
@@ -32,7 +34,7 @@ De seguida, detalhamos as principais funcionalidades associadas a este tipo de s
 * **Dashboards e Visualização de dados** – permitem a visualização de informação de forma gráfica e mais intuitiva;
 * **KPIs (Key Performance Indicators)** – permitem definir e monitorizar indicadores importantes para a organização;
 * **Reporting** – geração de relatórios, tanto ad-hoc, ou seja, relatórios que são criados mediante solicitações, como periódicos, com base nos dados disponíveis;
-* **Análise interativa** – permite explorar os dados em mais detalhes para análises mais aprofundadas;
+* **Análise interativa** – permite explorar os dados em maior detalhes para análises mais aprofundadas;
 * **Integração de dados** – processos de extração e transformação de dados provenientes de diferentes fontes.
 
 Estas funcionalidades permitem transformar grandes volumes de dados em informação compreensível, facilitando a identificação de padrões, tendências e oportunidades.
@@ -51,7 +53,7 @@ Desta forma, este tipo de arquitetura permite transformar dados provenientes de 
 
 ## 4. Especificações
 
-Após esta completa análise, desde o contexto da aplicação até à arquitetura do sistema de BI e respetivas funcionalidades, estamos aptos para avançar para a definição de um conjunto de requisitos que a mesma deverá cumprir.
+Após toda esta análise realizada, desde o contexto da aplicação até à arquitetura do sistema de BI e respetivas funcionalidades, estamos aptos para avançar para a definição de um conjunto de requisitos que a mesma deverá cumprir.
 
 ### 4.1 Requisitos Funcionais
 
@@ -73,7 +75,7 @@ Após esta completa análise, desde o contexto da aplicação até à arquitetur
 | Requisito                           | Descrição                                         |
 | ----------------------------------- | ------------------------------------------------- |
 | Suporte a múltiplas fontes de dados | Capacidade de ligação a diferentes bases de dados |
-| Integração com SQL                  | Possibilidade de executar queries SQL (nota: normalmente a Data Warehouse é relacional)             |
+| Suporte a mecanismos de consulta de dados (ex: SQL)                  | Possibilidade de executar queries SQL              |
 | Escalabilidade                      | Capacidade de lidar com grandes volumes de dados  |
 | Performance                         | Tempo de resposta adequado na análise de dados    |
 
