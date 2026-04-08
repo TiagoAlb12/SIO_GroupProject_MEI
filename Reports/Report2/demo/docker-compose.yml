@@ -1,0 +1,38 @@
+services:
+  db:
+    image: postgres:15
+    container_name: biua_postgres
+    environment:
+      POSTGRES_USER: superset
+      POSTGRES_PASSWORD: superset
+      POSTGRES_DB: biua_dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./postgres-init:/docker-entrypoint-initdb.d
+      - ./data:/data
+
+  redis:
+    image: redis:7
+    container_name: biua_redis
+
+  superset:
+    image: apache/superset:6.0.0-dev
+    container_name: biua_superset
+    ports:
+      - "8088:8088"
+    environment:
+      SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
+    depends_on:
+      - db
+      - redis
+    volumes:
+      - superset_home:/app/superset_home
+      - ./init.sh:/app/init.sh
+      - ./superset_config.py:/app/pythonpath/superset_config.py
+    command: ["/bin/sh", "-c", "/app/init.sh"]
+
+volumes:
+  postgres_data:
+  superset_home:
