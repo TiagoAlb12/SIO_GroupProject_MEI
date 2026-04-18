@@ -26,5 +26,9 @@ replay_pid*
 # Sensitive variables
 .env
 
-# all data
+# All data
 data/
+
+# Backups
+backup/*.zip
+backup/*.sql
