@@ -27,7 +27,7 @@ replay_pid*
 .env
 
 # All data
-data/
+#data/
 
 # Backups
 backup/*.zip

@@ -1,0 +1,31 @@
+uc_id,designacao,ects,departamento,ano_curricular,semestre,obrigatoria
+ALGA,Álgebra Linear,6,DF,1,1,True
+ANAC,Análise Matemática,6,DQ,3,2,True
+PROG,Programação,6,DEGEIT,5,1,True
+BDAD,Bases de Dados,6,DETI,3,1,True
+SOFT,Engenharia de Software,6,DGEO,2,2,True
+REDES,Redes,6,DGEO,2,1,True
+SINA,Sinais e Sistemas,6,DEP,5,2,False
+MICR,Microeconomia,6,DETI,1,1,True
+MACR,Macroeconomia,6,DEP,3,1,True
+CONT,Contabilidade,6,DCM,1,2,True
+FINA,Finanças Empresariais,6,DEGEIT,1,1,False
+MKTG,Marketing,6,DF,2,1,False
+PSIC,Psicologia Geral,6,DEGEIT,2,1,True
+EDUC,Teorias da Educação,6,DETI,4,1,False
+ING1,Inglês Académico,6,DCM,3,1,True
+TRAD,Tecnologias de Tradução,6,DF,1,2,True
+BIOC,Bioquímica,6,DLC,4,2,True
+GENE,Genética,6,DCM,3,2,False
+QUIM,Química Orgânica,6,DGEO,1,1,False
+FIS1,Física I,6,DETI,3,2,True
+FIS2,Física II,6,DEP,4,2,True
+CALC,Cálculo,6,DMAT,1,1,True
+ESTA,Estatística,6,DEP,5,2,True
+DSCI,Introdução à Ciência de Dados,6,DEGEIT,1,1,True
+MLAB,Machine Learning,6,DLC,2,1,True
+BIAR,Arquitetura de BI,6,DMAT,4,1,True
+DWHS,Data Warehousing,6,DBIO,3,2,True
+PROJ,Projeto,12,DQ,4,2,False
+ESTG,Estágio,30,DGEO,3,2,False
+SEMI,Seminário,3,DMAT,2,2,True

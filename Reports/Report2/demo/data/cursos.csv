@@ -1,0 +1,17 @@
+curso_id,designacao,departamento,ects_totais,numero_vagas,numero_inscritos_atual,grau,ativo
+LEI,Licenciatura em Engenharia Informática,DETI,180,140,105,Licenciatura,True
+MIEEC,Mestrado Integrado em Eng. Eletrotécnica e de Computadores,DETI,300,90,59,Mestrado,True
+LGT,Licenciatura em Gestão,DEGEIT,180,160,139,Licenciatura,True
+LEM,Licenciatura em Economia,DEGEIT,180,120,93,Licenciatura,True
+LT,Licenciatura em Turismo,DEGEIT,180,95,75,Licenciatura,True
+LPE,Licenciatura em Psicologia,DEP,180,85,63,Licenciatura,True
+LEB,Licenciatura em Biologia,DBIO,180,100,71,Licenciatura,True
+LQ,Licenciatura em Química,DQ,180,75,82,Licenciatura,True
+LF,Licenciatura em Física,DF,180,60,41,Licenciatura,True
+LMAT,Licenciatura em Matemática,DMAT,180,55,53,Licenciatura,True
+MEC,Mestrado em Engenharia de Computadores,DETI,120,60,52,Mestrado,True
+MDS,Mestrado em Data Science,DETI,120,40,27,Mestrado,True
+MMKT,Mestrado em Marketing,DEGEIT,120,50,32,Mestrado,True
+MFIN,Mestrado em Finanças,DEGEIT,120,35,24,Mestrado,True
+MED,Mestrado em Educação,DEP,120,45,35,Mestrado,True
+MTR,Mestrado em Tradução,DLC,120,30,22,Mestrado,True

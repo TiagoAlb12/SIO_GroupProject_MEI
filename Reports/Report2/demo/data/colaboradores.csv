@@ -1,0 +1,621 @@
+colaborador_id,nome_completo,categoria,departamento,regime,data_inicio_contrato,tipo_contrato,estado
+C00001,Ana Cardoso,Não-docente,DLC,Tempo integral,2005-10-06,Sem termo,Ativo
+C00002,Diogo Moreira,Não-docente,DMAT,Tempo integral,2009-02-01,Sem termo,Ativo
+C00003,Diogo Correia,Docente,DCM,Tempo integral,2016-06-02,Sem termo,Ativo
+C00004,Filipa Silva,Não-docente,DMAT,Tempo parcial,2024-01-18,Bolseiro,Ativo
+C00005,Leonor Fernandes,Docente,DCM,Tempo integral,2005-11-05,Sem termo,Ativo
+C00006,João Pereira,Não-docente,DQ,Tempo integral,2024-04-06,Sem termo,Suspenso
+C00007,Filipa Gonçalves,Não-docente,DETI,Tempo integral,2005-12-23,Termo certo,Ativo
+C00008,Inês Moreira,Não-docente,DETI,Tempo integral,2022-03-29,Termo certo,Ativo
+C00009,Gonçalo Costa,Não-docente,DETI,Tempo integral,2023-12-06,Sem termo,Ativo
+C00010,Diogo Costa,Docente,DF,Tempo integral,2023-11-29,Bolseiro,Ativo
+C00011,Tiago Pereira,Docente,DETI,Tempo integral,2011-08-03,Sem termo,Ativo
+C00012,Ana Rodrigues,Não-docente,DQ,Tempo integral,2018-04-12,Termo certo,Ativo
+C00013,Rita Gonçalves,Não-docente,DMAT,Tempo integral,2011-10-02,Bolseiro,Ativo
+C00014,Beatriz Cardoso,Não-docente,DBIO,Tempo parcial,2024-10-20,Termo certo,Cessado
+C00015,Sofia Pereira,Docente,DETI,Tempo integral,2014-02-02,Termo certo,Ativo
+C00016,João Silva,Docente,DMAT,Tempo integral,2013-07-03,Sem termo,Ativo
+C00017,Marta Martins,Docente,DETI,Tempo integral,2024-07-04,Sem termo,Ativo
+C00018,André Costa,Docente,DCM,Tempo parcial,2010-08-07,Bolseiro,Ativo
+C00019,Miguel Ferreira,Docente,DGEO,Tempo integral,2009-04-11,Sem termo,Ativo
+C00020,Inês Vieira,Docente,DETI,Tempo integral,2009-05-06,Sem termo,Ativo
+C00021,Leonor Oliveira,Não-docente,DETI,Tempo integral,2010-05-16,Termo certo,Ativo
+C00022,Inês Rodrigues,Docente,DQ,Tempo integral,2016-05-14,Sem termo,Ativo
+C00023,Rodrigo Ferreira,Não-docente,DEP,Tempo integral,2013-11-28,Bolseiro,Ativo
+C00024,Tomás Costa,Docente,DF,Tempo integral,2007-09-26,Bolseiro,Ativo
+C00025,Maria Neves,Docente,DF,Tempo integral,2023-02-23,Sem termo,Ativo
+C00026,Leonor Rodrigues,Não-docente,DEGEIT,Tempo parcial,2000-11-19,Termo certo,Ativo
+C00027,Tomás Correia,Não-docente,DBIO,Tempo integral,2008-03-04,Sem termo,Ativo
+C00028,Gonçalo Sousa,Não-docente,DEGEIT,Tempo integral,2006-04-19,Sem termo,Ativo
+C00029,Afonso Santos,Não-docente,DEGEIT,Tempo integral,2024-09-17,Sem termo,Ativo
+C00030,Leonor Santos,Docente,DQ,Tempo integral,2015-09-27,Bolseiro,Ativo
+C00031,Sofia Vieira,Não-docente,DBIO,Tempo integral,2025-02-13,Sem termo,Ativo
+C00032,Diogo Neves,Docente,DEGEIT,Tempo integral,2007-12-22,Bolseiro,Ativo
+C00033,Luís Ferreira,Não-docente,DCM,Tempo integral,2011-03-21,Termo certo,Ativo
+C00034,André Oliveira,Docente,DGEO,Tempo integral,2023-09-03,Termo certo,Ativo
+C00035,Tiago Correia,Não-docente,DCM,Tempo integral,2004-10-23,Sem termo,Ativo
+C00036,André Costa,Não-docente,DEGEIT,Tempo parcial,2022-07-24,Termo certo,Ativo
+C00037,Luís Moreira,Não-docente,DMAT,Tempo integral,2007-01-03,Sem termo,Ativo
+C00038,Miguel Jesus,Docente,DMAT,Tempo integral,2000-09-19,Sem termo,Ativo
+C00039,Diogo Pereira,Não-docente,DGEO,Tempo integral,2019-07-09,Sem termo,Ativo
+C00040,Beatriz Monteiro,Não-docente,DEGEIT,Tempo integral,2017-09-16,Sem termo,Ativo
+C00041,Gonçalo Rodrigues,Docente,DBIO,Tempo integral,2006-06-15,Sem termo,Cessado
+C00042,Filipa Monteiro,Docente,DEP,Tempo integral,2019-09-11,Termo certo,Ativo
+C00043,Rita Jesus,Não-docente,DETI,Tempo integral,2013-07-19,Sem termo,Ativo
+C00044,Mariana Vieira,Docente,DEGEIT,Tempo integral,2010-08-06,Termo certo,Ativo
+C00045,Maria Sousa,Não-docente,DGEO,Tempo parcial,2015-04-24,Termo certo,Ativo
+C00046,Leonor Monteiro,Docente,DQ,Tempo integral,2016-09-30,Termo certo,Ativo
+C00047,Filipa Correia,Docente,DGEO,Tempo integral,2021-02-20,Termo certo,Ativo
+C00048,Beatriz Cardoso,Não-docente,DQ,Tempo integral,2004-02-21,Sem termo,Ativo
+C00049,Beatriz Sousa,Não-docente,DEGEIT,Tempo parcial,2018-08-10,Sem termo,Ativo
+C00050,Diogo Oliveira,Docente,DF,Tempo parcial,2019-08-02,Termo certo,Ativo
+C00051,Marta Sousa,Não-docente,DLC,Tempo integral,2020-11-21,Sem termo,Ativo
+C00052,Ana Silva,Não-docente,DEGEIT,Tempo integral,2018-01-25,Termo certo,Ativo
+C00053,André Neves,Não-docente,DBIO,Tempo parcial,2011-04-27,Sem termo,Ativo
+C00054,Inês Monteiro,Não-docente,DBIO,Tempo integral,2020-12-30,Bolseiro,Ativo
+C00055,Ana Moreira,Docente,DEP,Tempo integral,2016-02-18,Termo certo,Ativo
+C00056,André Neves,Docente,DQ,Tempo integral,2018-10-20,Prestação de serviços,Ativo
+C00057,Ana Moreira,Não-docente,DLC,Tempo integral,2019-02-05,Termo certo,Ativo
+C00058,Tiago Oliveira,Docente,DMAT,Tempo integral,2007-10-17,Termo certo,Ativo
+C00059,Filipa Almeida,Não-docente,DMAT,Tempo integral,2021-03-25,Termo certo,Ativo
+C00060,Matilde Gonçalves,Não-docente,DETI,Tempo integral,2017-05-16,Sem termo,Ativo
+C00061,Tomás Pereira,Docente,DCM,Tempo parcial,2012-11-28,Sem termo,Ativo
+C00062,Gonçalo Jesus,Não-docente,DMAT,Tempo integral,2021-04-30,Sem termo,Suspenso
+C00063,Inês Costa,Docente,DETI,Tempo integral,2024-07-20,Sem termo,Ativo
+C00064,Rodrigo Almeida,Docente,DETI,Tempo integral,2014-06-22,Sem termo,Ativo
+C00065,Matilde Monteiro,Não-docente,DLC,Tempo integral,2002-11-08,Prestação de serviços,Ativo
+C00066,Marta Santos,Docente,DCM,Tempo integral,2019-07-16,Sem termo,Ativo
+C00067,Marta Monteiro,Não-docente,DBIO,Tempo integral,2000-02-06,Sem termo,Ativo
+C00068,Filipa Pereira,Docente,DCM,Tempo integral,2012-11-24,Sem termo,Ativo
+C00069,Rodrigo Gonçalves,Docente,DMAT,Tempo integral,2018-04-29,Sem termo,Ativo
+C00070,Catarina Rocha,Docente,DEGEIT,Tempo integral,2004-08-14,Bolseiro,Ativo
+C00071,Rodrigo Rodrigues,Não-docente,DGEO,Tempo integral,2013-09-21,Sem termo,Ativo
+C00072,João Fernandes,Docente,DQ,Tempo integral,2009-08-09,Prestação de serviços,Ativo
+C00073,Marta Ferreira,Docente,DF,Tempo integral,2024-10-16,Sem termo,Ativo
+C00074,Diogo Jesus,Não-docente,DLC,Tempo integral,2017-09-22,Bolseiro,Ativo
+C00075,Mariana Costa,Docente,DEP,Tempo integral,2013-12-19,Termo certo,Ativo
+C00076,Mariana Jesus,Não-docente,DF,Tempo integral,2004-04-19,Sem termo,Ativo
+C00077,Rodrigo Moreira,Docente,DETI,Tempo parcial,2011-01-24,Bolseiro,Ativo
+C00078,Carolina Ferreira,Docente,DEGEIT,Tempo integral,2022-03-01,Termo certo,Ativo
+C00079,Tiago Neves,Não-docente,DQ,Tempo integral,2021-02-11,Termo certo,Ativo
+C00080,Rodrigo Fernandes,Não-docente,DLC,Tempo integral,2004-06-27,Sem termo,Ativo
+C00081,João Vieira,Não-docente,DGEO,Tempo parcial,2009-08-14,Sem termo,Ativo
+C00082,João Sousa,Não-docente,DLC,Tempo integral,2020-05-06,Termo certo,Ativo
+C00083,Maria Correia,Docente,DCM,Tempo parcial,2003-11-09,Termo certo,Ativo
+C00084,Inês Oliveira,Docente,DEP,Tempo integral,2018-09-16,Sem termo,Ativo
+C00085,Beatriz Vieira,Não-docente,DCM,Tempo integral,2020-04-08,Bolseiro,Ativo
+C00086,Rita Silva,Docente,DETI,Tempo integral,2000-08-12,Termo certo,Ativo
+C00087,Ana Moreira,Docente,DQ,Tempo integral,2017-08-08,Sem termo,Ativo
+C00088,Marta Rodrigues,Docente,DGEO,Tempo parcial,2023-10-15,Sem termo,Cessado
+C00089,Gonçalo Gonçalves,Não-docente,DGEO,Tempo integral,2009-12-04,Sem termo,Ativo
+C00090,Rodrigo Gonçalves,Não-docente,DLC,Tempo integral,2008-06-03,Sem termo,Ativo
+C00091,Matilde Gonçalves,Não-docente,DETI,Tempo parcial,2018-06-03,Sem termo,Ativo
+C00092,Afonso Correia,Docente,DQ,Tempo parcial,2021-05-01,Termo certo,Ativo
+C00093,Tomás Almeida,Docente,DBIO,Tempo integral,2006-09-02,Bolseiro,Suspenso
+C00094,Catarina Jesus,Docente,DBIO,Tempo integral,2022-06-28,Sem termo,Ativo
+C00095,João Silva,Não-docente,DBIO,Tempo integral,2010-08-07,Sem termo,Ativo
+C00096,Miguel Monteiro,Docente,DLC,Tempo integral,2018-07-17,Sem termo,Ativo
+C00097,Matilde Cardoso,Docente,DMAT,Tempo integral,2004-06-30,Sem termo,Ativo
+C00098,Miguel Ferreira,Docente,DCM,Tempo integral,2009-11-21,Sem termo,Ativo
+C00099,Rita Correia,Docente,DBIO,Tempo integral,2002-11-06,Termo certo,Cessado
+C00100,Tiago Cardoso,Não-docente,DCM,Tempo integral,2010-04-21,Bolseiro,Ativo
+C00101,Rodrigo Moreira,Docente,DMAT,Tempo integral,2018-10-31,Prestação de serviços,Ativo
+C00102,Gonçalo Costa,Não-docente,DF,Tempo integral,2011-05-29,Bolseiro,Ativo
+C00103,Rita Costa,Não-docente,DQ,Tempo integral,2024-05-19,Sem termo,Ativo
+C00104,Ana Gonçalves,Docente,DEGEIT,Tempo integral,2000-10-19,Termo certo,Ativo
+C00105,Tiago Vieira,Docente,DF,Tempo integral,2013-12-31,Sem termo,Ativo
+C00106,Marta Ferreira,Docente,DEGEIT,Tempo integral,2018-07-23,Termo certo,Ativo
+C00107,Beatriz Almeida,Não-docente,DF,Tempo parcial,2004-10-11,Sem termo,Ativo
+C00108,Miguel Oliveira,Não-docente,DF,Tempo integral,2016-10-03,Sem termo,Ativo
+C00109,Ana Costa,Docente,DEP,Tempo integral,2003-08-17,Prestação de serviços,Ativo
+C00110,Pedro Rodrigues,Não-docente,DBIO,Tempo integral,2012-06-10,Termo certo,Ativo
+C00111,Rodrigo Cardoso,Docente,DCM,Tempo integral,2023-09-08,Sem termo,Ativo
+C00112,Tiago Silva,Docente,DF,Tempo parcial,2009-03-06,Sem termo,Ativo
+C00113,Beatriz Oliveira,Docente,DLC,Tempo integral,2005-06-25,Sem termo,Ativo
+C00114,Tiago Almeida,Docente,DLC,Tempo parcial,2019-04-19,Termo certo,Ativo
+C00115,André Monteiro,Não-docente,DEP,Tempo integral,2017-06-04,Termo certo,Ativo
+C00116,Filipa Costa,Docente,DQ,Tempo integral,2000-03-19,Termo certo,Ativo
+C00117,Tomás Almeida,Docente,DMAT,Tempo integral,2004-06-14,Sem termo,Ativo
+C00118,Tomás Almeida,Não-docente,DLC,Tempo integral,2007-10-13,Bolseiro,Ativo
+C00119,Tomás Santos,Não-docente,DGEO,Tempo integral,2024-10-19,Sem termo,Cessado
+C00120,Tiago Rocha,Docente,DMAT,Tempo integral,2019-01-20,Termo certo,Cessado
+C00121,Rodrigo Sousa,Não-docente,DF,Tempo integral,2001-11-10,Termo certo,Ativo
+C00122,Mariana Pereira,Docente,DGEO,Tempo integral,2019-08-15,Termo certo,Ativo
+C00123,Tiago Oliveira,Docente,DF,Tempo integral,2022-03-18,Prestação de serviços,Ativo
+C00124,André Correia,Docente,DLC,Tempo integral,2006-01-19,Bolseiro,Ativo
+C00125,João Ferreira,Docente,DGEO,Tempo integral,2011-05-04,Termo certo,Ativo
+C00126,Sofia Rocha,Docente,DBIO,Tempo integral,2008-05-08,Sem termo,Ativo
+C00127,Marta Santos,Docente,DETI,Tempo integral,2019-07-18,Sem termo,Ativo
+C00128,Beatriz Oliveira,Docente,DGEO,Tempo integral,2010-09-24,Prestação de serviços,Ativo
+C00129,Miguel Vieira,Docente,DQ,Tempo integral,2005-09-03,Sem termo,Cessado
+C00130,André Monteiro,Docente,DBIO,Tempo integral,2020-02-08,Sem termo,Ativo
+C00131,Catarina Costa,Docente,DQ,Tempo integral,2010-01-25,Sem termo,Ativo
+C00132,Tomás Sousa,Docente,DEGEIT,Tempo integral,2013-04-23,Sem termo,Ativo
+C00133,Tomás Correia,Docente,DF,Tempo parcial,2001-07-15,Sem termo,Ativo
+C00134,Ana Moreira,Docente,DGEO,Tempo integral,2000-06-22,Termo certo,Ativo
+C00135,Inês Rodrigues,Docente,DETI,Tempo integral,2013-01-13,Termo certo,Ativo
+C00136,Inês Sousa,Docente,DEP,Tempo integral,2022-08-08,Termo certo,Ativo
+C00137,Miguel Neves,Não-docente,DQ,Tempo parcial,2005-11-16,Sem termo,Ativo
+C00138,Matilde Sousa,Docente,DF,Tempo integral,2014-07-20,Sem termo,Ativo
+C00139,Tomás Oliveira,Docente,DEGEIT,Tempo integral,2023-10-05,Sem termo,Ativo
+C00140,Luís Silva,Docente,DETI,Tempo integral,2010-09-09,Sem termo,Ativo
+C00141,Filipa Ferreira,Docente,DMAT,Tempo integral,2024-08-26,Sem termo,Suspenso
+C00142,Tomás Correia,Docente,DBIO,Tempo integral,2005-06-25,Termo certo,Ativo
+C00143,Diogo Oliveira,Não-docente,DCM,Tempo integral,2016-03-15,Bolseiro,Ativo
+C00144,Ana Correia,Docente,DMAT,Tempo integral,2018-09-21,Termo certo,Ativo
+C00145,Matilde Jesus,Docente,DGEO,Tempo integral,2009-06-12,Sem termo,Ativo
+C00146,Carolina Jesus,Não-docente,DEGEIT,Tempo integral,2004-05-13,Sem termo,Ativo
+C00147,Tiago Pereira,Docente,DQ,Tempo integral,2015-04-05,Sem termo,Ativo
+C00148,Marta Neves,Docente,DQ,Tempo integral,2015-07-21,Bolseiro,Ativo
+C00149,Gonçalo Monteiro,Não-docente,DEGEIT,Tempo integral,2005-10-11,Sem termo,Ativo
+C00150,Carolina Almeida,Docente,DBIO,Tempo integral,2006-11-13,Sem termo,Ativo
+C00151,João Sousa,Não-docente,DLC,Tempo integral,2023-05-16,Bolseiro,Ativo
+C00152,Tomás Santos,Não-docente,DMAT,Tempo integral,2017-11-03,Sem termo,Ativo
+C00153,João Silva,Docente,DEP,Tempo integral,2002-11-12,Bolseiro,Ativo
+C00154,Mariana Rodrigues,Não-docente,DEGEIT,Tempo integral,2023-01-01,Termo certo,Ativo
+C00155,Inês Correia,Docente,DCM,Tempo integral,2021-06-20,Bolseiro,Ativo
+C00156,Marta Martins,Docente,DMAT,Tempo integral,2011-12-27,Sem termo,Ativo
+C00157,Maria Monteiro,Docente,DETI,Tempo parcial,2021-03-05,Sem termo,Cessado
+C00158,Beatriz Jesus,Docente,DMAT,Tempo integral,2002-01-22,Termo certo,Ativo
+C00159,Marta Monteiro,Docente,DEGEIT,Tempo integral,2016-09-23,Sem termo,Ativo
+C00160,Rita Martins,Docente,DLC,Tempo parcial,2003-08-25,Sem termo,Ativo
+C00161,Matilde Rodrigues,Não-docente,DBIO,Tempo integral,2017-03-15,Sem termo,Ativo
+C00162,Mariana Moreira,Não-docente,DGEO,Tempo parcial,2016-01-29,Sem termo,Ativo
+C00163,Catarina Pereira,Docente,DEGEIT,Tempo integral,2002-08-08,Sem termo,Ativo
+C00164,Matilde Monteiro,Não-docente,DGEO,Tempo integral,2009-04-18,Sem termo,Ativo
+C00165,Matilde Correia,Não-docente,DEGEIT,Tempo integral,2008-04-09,Termo certo,Ativo
+C00166,Matilde Neves,Docente,DEGEIT,Tempo integral,2001-04-10,Bolseiro,Ativo
+C00167,Luís Correia,Docente,DF,Tempo integral,2004-10-24,Termo certo,Ativo
+C00168,Afonso Vieira,Docente,DBIO,Tempo integral,2009-07-07,Sem termo,Ativo
+C00169,Marta Santos,Não-docente,DGEO,Tempo integral,2013-04-05,Sem termo,Ativo
+C00170,Mariana Santos,Docente,DGEO,Tempo integral,2008-04-29,Prestação de serviços,Ativo
+C00171,Catarina Oliveira,Não-docente,DF,Tempo integral,2016-06-29,Termo certo,Ativo
+C00172,Sofia Vieira,Não-docente,DF,Tempo integral,2004-09-25,Termo certo,Ativo
+C00173,Luís Jesus,Docente,DCM,Tempo integral,2022-03-17,Termo certo,Ativo
+C00174,Rita Rodrigues,Não-docente,DGEO,Tempo integral,2014-04-15,Termo certo,Suspenso
+C00175,Rita Neves,Não-docente,DEGEIT,Tempo integral,2014-08-06,Sem termo,Ativo
+C00176,Marta Ferreira,Docente,DCM,Tempo integral,2001-11-08,Sem termo,Ativo
+C00177,Inês Silva,Não-docente,DBIO,Tempo integral,2010-06-20,Sem termo,Ativo
+C00178,Mariana Rodrigues,Docente,DF,Tempo integral,2017-07-21,Sem termo,Ativo
+C00179,Marta Rodrigues,Docente,DCM,Tempo integral,2013-07-10,Sem termo,Ativo
+C00180,Afonso Fernandes,Docente,DCM,Tempo integral,2006-01-22,Bolseiro,Ativo
+C00181,Miguel Rodrigues,Não-docente,DBIO,Tempo integral,2009-06-27,Sem termo,Ativo
+C00182,Leonor Fernandes,Docente,DQ,Tempo parcial,2024-01-15,Termo certo,Ativo
+C00183,Tiago Silva,Docente,DF,Tempo integral,2010-10-24,Sem termo,Ativo
+C00184,João Jesus,Docente,DGEO,Tempo parcial,2010-04-12,Sem termo,Ativo
+C00185,Pedro Moreira,Docente,DCM,Tempo parcial,2013-11-10,Termo certo,Ativo
+C00186,Miguel Neves,Docente,DQ,Tempo integral,2007-08-29,Termo certo,Ativo
+C00187,Matilde Pereira,Não-docente,DEP,Tempo parcial,2016-11-10,Termo certo,Cessado
+C00188,Marta Correia,Não-docente,DMAT,Tempo integral,2016-09-18,Sem termo,Ativo
+C00189,André Neves,Docente,DGEO,Tempo integral,2015-01-03,Sem termo,Ativo
+C00190,Pedro Martins,Não-docente,DETI,Tempo parcial,2019-08-06,Sem termo,Ativo
+C00191,Luís Ferreira,Docente,DF,Tempo integral,2020-01-21,Sem termo,Ativo
+C00192,Catarina Jesus,Docente,DETI,Tempo parcial,2001-09-01,Sem termo,Ativo
+C00193,Gonçalo Rodrigues,Docente,DLC,Tempo integral,2008-12-14,Sem termo,Ativo
+C00194,Diogo Gonçalves,Docente,DBIO,Tempo parcial,2009-10-05,Termo certo,Cessado
+C00195,Luís Santos,Não-docente,DLC,Tempo integral,2013-05-16,Sem termo,Cessado
+C00196,Maria Fernandes,Docente,DCM,Tempo parcial,2008-04-01,Termo certo,Ativo
+C00197,Filipa Monteiro,Não-docente,DGEO,Tempo integral,2016-03-29,Termo certo,Ativo
+C00198,Marta Costa,Docente,DEP,Tempo integral,2019-06-07,Prestação de serviços,Ativo
+C00199,Beatriz Costa,Não-docente,DGEO,Tempo integral,2011-08-12,Bolseiro,Ativo
+C00200,Mariana Fernandes,Não-docente,DF,Tempo integral,2018-09-08,Sem termo,Ativo
+C00201,Mariana Silva,Não-docente,DEP,Tempo integral,2001-06-04,Bolseiro,Ativo
+C00202,Tomás Silva,Docente,DF,Tempo parcial,2023-07-31,Sem termo,Ativo
+C00203,Mariana Costa,Docente,DMAT,Tempo integral,2014-12-04,Sem termo,Ativo
+C00204,Rita Almeida,Docente,DQ,Tempo integral,2003-11-15,Sem termo,Suspenso
+C00205,Tiago Santos,Docente,DMAT,Tempo integral,2016-07-31,Sem termo,Ativo
+C00206,Matilde Silva,Docente,DEP,Tempo integral,2001-12-11,Sem termo,Suspenso
+C00207,Marta Rodrigues,Docente,DEGEIT,Tempo integral,2014-10-02,Sem termo,Ativo
+C00208,Marta Cardoso,Não-docente,DF,Tempo integral,2003-04-14,Sem termo,Ativo
+C00209,Maria Vieira,Não-docente,DETI,Tempo integral,2021-06-03,Termo certo,Cessado
+C00210,Rita Monteiro,Docente,DEP,Tempo integral,2006-08-13,Sem termo,Ativo
+C00211,Marta Moreira,Não-docente,DETI,Tempo integral,2015-09-06,Termo certo,Ativo
+C00212,Marta Rocha,Não-docente,DCM,Tempo integral,2005-12-16,Sem termo,Ativo
+C00213,Inês Oliveira,Docente,DLC,Tempo integral,2019-07-03,Prestação de serviços,Ativo
+C00214,Filipa Rocha,Docente,DLC,Tempo integral,2002-07-17,Sem termo,Cessado
+C00215,Afonso Costa,Não-docente,DETI,Tempo integral,2017-08-16,Sem termo,Ativo
+C00216,João Cardoso,Não-docente,DEGEIT,Tempo integral,2004-05-02,Sem termo,Ativo
+C00217,Rita Jesus,Não-docente,DBIO,Tempo integral,2020-10-28,Sem termo,Ativo
+C00218,Inês Neves,Docente,DETI,Tempo integral,2021-01-31,Sem termo,Ativo
+C00219,Inês Pereira,Não-docente,DEP,Tempo integral,2022-04-01,Bolseiro,Ativo
+C00220,Ana Gonçalves,Não-docente,DF,Tempo integral,2011-12-07,Bolseiro,Suspenso
+C00221,Catarina Rodrigues,Não-docente,DMAT,Tempo integral,2020-06-13,Sem termo,Ativo
+C00222,Maria Oliveira,Docente,DEP,Tempo parcial,2005-11-17,Sem termo,Ativo
+C00223,Maria Oliveira,Docente,DLC,Tempo integral,2024-12-22,Sem termo,Ativo
+C00224,Carolina Cardoso,Não-docente,DEGEIT,Tempo integral,2015-08-15,Sem termo,Ativo
+C00225,Carolina Cardoso,Docente,DBIO,Tempo integral,2018-10-14,Termo certo,Ativo
+C00226,Afonso Moreira,Docente,DETI,Tempo parcial,2021-05-04,Sem termo,Ativo
+C00227,Inês Fernandes,Docente,DMAT,Tempo integral,2018-10-01,Sem termo,Ativo
+C00228,Carolina Moreira,Não-docente,DETI,Tempo parcial,2015-01-11,Sem termo,Ativo
+C00229,Sofia Martins,Docente,DETI,Tempo integral,2017-07-05,Termo certo,Ativo
+C00230,João Santos,Docente,DCM,Tempo integral,2020-01-11,Sem termo,Ativo
+C00231,Rodrigo Monteiro,Não-docente,DETI,Tempo integral,2004-12-09,Termo certo,Ativo
+C00232,Afonso Santos,Docente,DLC,Tempo integral,2005-11-06,Sem termo,Ativo
+C00233,Miguel Gonçalves,Docente,DBIO,Tempo integral,2002-10-21,Termo certo,Ativo
+C00234,Pedro Correia,Não-docente,DEGEIT,Tempo integral,2015-11-07,Termo certo,Ativo
+C00235,Marta Rocha,Docente,DQ,Tempo integral,2008-06-08,Sem termo,Ativo
+C00236,Maria Martins,Não-docente,DF,Tempo integral,2003-06-11,Sem termo,Ativo
+C00237,Rita Almeida,Não-docente,DEP,Tempo integral,2023-11-10,Sem termo,Ativo
+C00238,Leonor Neves,Docente,DETI,Tempo integral,2009-12-24,Termo certo,Ativo
+C00239,Pedro Monteiro,Não-docente,DEP,Tempo integral,2019-04-09,Sem termo,Ativo
+C00240,Miguel Moreira,Docente,DGEO,Tempo integral,2003-08-27,Prestação de serviços,Ativo
+C00241,Leonor Vieira,Não-docente,DMAT,Tempo integral,2007-06-28,Bolseiro,Ativo
+C00242,Tomás Gonçalves,Não-docente,DF,Tempo integral,2003-03-27,Sem termo,Ativo
+C00243,Miguel Silva,Não-docente,DQ,Tempo integral,2008-08-31,Sem termo,Ativo
+C00244,Sofia Moreira,Docente,DMAT,Tempo integral,2011-05-31,Termo certo,Ativo
+C00245,Luís Cardoso,Docente,DF,Tempo parcial,2017-09-14,Sem termo,Ativo
+C00246,Afonso Sousa,Não-docente,DLC,Tempo integral,2007-12-26,Bolseiro,Ativo
+C00247,Inês Rocha,Não-docente,DQ,Tempo integral,2002-08-05,Sem termo,Ativo
+C00248,Filipa Jesus,Docente,DGEO,Tempo parcial,2025-02-08,Termo certo,Ativo
+C00249,Ana Almeida,Docente,DGEO,Tempo integral,2018-09-03,Sem termo,Ativo
+C00250,Miguel Almeida,Não-docente,DETI,Tempo parcial,2023-12-15,Sem termo,Suspenso
+C00251,Catarina Monteiro,Docente,DCM,Tempo integral,2004-02-19,Sem termo,Ativo
+C00252,Carolina Moreira,Não-docente,DMAT,Tempo integral,2024-07-07,Termo certo,Ativo
+C00253,Marta Moreira,Docente,DEP,Tempo integral,2014-10-02,Sem termo,Ativo
+C00254,Afonso Jesus,Docente,DF,Tempo integral,2002-05-29,Bolseiro,Ativo
+C00255,Matilde Fernandes,Não-docente,DEGEIT,Tempo integral,2000-11-01,Sem termo,Ativo
+C00256,Ana Jesus,Docente,DETI,Tempo integral,2000-11-19,Bolseiro,Ativo
+C00257,Afonso Oliveira,Não-docente,DQ,Tempo parcial,2011-12-01,Sem termo,Ativo
+C00258,Tomás Fernandes,Não-docente,DGEO,Tempo integral,2018-09-27,Sem termo,Ativo
+C00259,Inês Gonçalves,Não-docente,DLC,Tempo integral,2009-08-16,Sem termo,Ativo
+C00260,Matilde Correia,Não-docente,DBIO,Tempo integral,2009-10-25,Sem termo,Ativo
+C00261,Matilde Rodrigues,Não-docente,DETI,Tempo integral,2020-06-12,Sem termo,Ativo
+C00262,Miguel Moreira,Não-docente,DEP,Tempo integral,2019-03-01,Termo certo,Ativo
+C00263,Diogo Correia,Docente,DF,Tempo integral,2006-02-09,Termo certo,Ativo
+C00264,Catarina Monteiro,Não-docente,DEP,Tempo integral,2014-05-31,Termo certo,Ativo
+C00265,Ana Oliveira,Docente,DEGEIT,Tempo integral,2009-09-01,Sem termo,Ativo
+C00266,Leonor Monteiro,Docente,DQ,Tempo parcial,2017-10-19,Sem termo,Cessado
+C00267,Mariana Costa,Não-docente,DCM,Tempo integral,2019-03-06,Bolseiro,Suspenso
+C00268,Sofia Oliveira,Docente,DF,Tempo integral,2021-04-11,Sem termo,Suspenso
+C00269,Carolina Silva,Não-docente,DEP,Tempo integral,2014-07-28,Termo certo,Ativo
+C00270,Maria Vieira,Docente,DCM,Tempo integral,2014-03-15,Sem termo,Cessado
+C00271,Leonor Sousa,Docente,DEGEIT,Tempo integral,2003-03-21,Sem termo,Ativo
+C00272,Carolina Vieira,Docente,DMAT,Tempo integral,2012-05-18,Termo certo,Ativo
+C00273,André Gonçalves,Não-docente,DBIO,Tempo integral,2014-02-08,Sem termo,Ativo
+C00274,João Silva,Docente,DEGEIT,Tempo integral,2012-11-13,Sem termo,Ativo
+C00275,André Correia,Não-docente,DF,Tempo integral,2007-10-17,Sem termo,Ativo
+C00276,Pedro Martins,Não-docente,DF,Tempo integral,2018-04-28,Prestação de serviços,Ativo
+C00277,Tomás Jesus,Docente,DBIO,Tempo integral,2012-03-22,Bolseiro,Ativo
+C00278,Ana Gonçalves,Não-docente,DGEO,Tempo integral,2005-10-21,Sem termo,Ativo
+C00279,João Vieira,Não-docente,DEP,Tempo integral,2015-03-19,Sem termo,Ativo
+C00280,Filipa Rodrigues,Docente,DEGEIT,Tempo integral,2018-01-16,Sem termo,Ativo
+C00281,João Oliveira,Não-docente,DGEO,Tempo integral,2014-05-20,Termo certo,Ativo
+C00282,Luís Ferreira,Docente,DEGEIT,Tempo integral,2024-08-20,Prestação de serviços,Ativo
+C00283,Mariana Silva,Docente,DBIO,Tempo integral,2008-08-18,Termo certo,Ativo
+C00284,Rita Costa,Docente,DEGEIT,Tempo integral,2009-06-29,Sem termo,Cessado
+C00285,Tomás Jesus,Docente,DGEO,Tempo integral,2007-06-16,Termo certo,Ativo
+C00286,Mariana Almeida,Docente,DEP,Tempo integral,2001-03-16,Sem termo,Ativo
+C00287,Rita Silva,Não-docente,DCM,Tempo integral,2024-03-20,Sem termo,Ativo
+C00288,Gonçalo Sousa,Não-docente,DBIO,Tempo integral,2007-04-11,Sem termo,Ativo
+C00289,Maria Santos,Docente,DEP,Tempo integral,2013-04-17,Sem termo,Ativo
+C00290,Tomás Oliveira,Não-docente,DETI,Tempo integral,2011-01-25,Bolseiro,Ativo
+C00291,Marta Silva,Não-docente,DEGEIT,Tempo integral,2004-05-02,Sem termo,Ativo
+C00292,Luís Silva,Não-docente,DF,Tempo integral,2025-02-28,Sem termo,Ativo
+C00293,Leonor Costa,Não-docente,DETI,Tempo integral,2017-08-06,Sem termo,Ativo
+C00294,Marta Ferreira,Não-docente,DETI,Tempo integral,2006-07-26,Sem termo,Ativo
+C00295,Miguel Jesus,Docente,DBIO,Tempo integral,2011-04-20,Sem termo,Ativo
+C00296,Gonçalo Pereira,Não-docente,DBIO,Tempo parcial,2024-01-01,Termo certo,Ativo
+C00297,Matilde Rocha,Docente,DEP,Tempo integral,2019-06-23,Sem termo,Cessado
+C00298,Tomás Costa,Docente,DEP,Tempo integral,2019-12-24,Sem termo,Ativo
+C00299,Pedro Oliveira,Não-docente,DGEO,Tempo integral,2012-07-12,Sem termo,Ativo
+C00300,Maria Vieira,Docente,DLC,Tempo integral,2009-10-05,Sem termo,Ativo
+C00301,Afonso Ferreira,Docente,DETI,Tempo integral,2020-12-28,Termo certo,Cessado
+C00302,Catarina Martins,Docente,DBIO,Tempo integral,2009-08-05,Sem termo,Ativo
+C00303,Marta Rodrigues,Não-docente,DMAT,Tempo parcial,2018-02-28,Sem termo,Ativo
+C00304,Catarina Neves,Docente,DMAT,Tempo integral,2007-09-18,Sem termo,Ativo
+C00305,Rita Santos,Docente,DEGEIT,Tempo integral,2021-03-08,Prestação de serviços,Ativo
+C00306,Mariana Jesus,Não-docente,DEP,Tempo integral,2019-09-27,Sem termo,Ativo
+C00307,Rita Santos,Não-docente,DETI,Tempo integral,2015-11-27,Sem termo,Ativo
+C00308,Maria Jesus,Não-docente,DBIO,Tempo integral,2014-03-26,Termo certo,Ativo
+C00309,Miguel Almeida,Docente,DGEO,Tempo parcial,2024-01-27,Termo certo,Ativo
+C00310,Gonçalo Monteiro,Docente,DETI,Tempo integral,2015-12-15,Sem termo,Ativo
+C00311,Marta Gonçalves,Docente,DGEO,Tempo integral,2005-07-10,Sem termo,Ativo
+C00312,Sofia Monteiro,Não-docente,DEGEIT,Tempo integral,2021-12-07,Sem termo,Ativo
+C00313,Tiago Rocha,Docente,DEGEIT,Tempo integral,2021-10-10,Sem termo,Ativo
+C00314,Inês Rocha,Docente,DETI,Tempo integral,2020-10-04,Sem termo,Ativo
+C00315,João Rodrigues,Docente,DGEO,Tempo integral,2010-04-24,Sem termo,Ativo
+C00316,Ana Costa,Docente,DQ,Tempo parcial,2006-08-27,Sem termo,Cessado
+C00317,Sofia Monteiro,Docente,DEGEIT,Tempo integral,2009-07-05,Sem termo,Ativo
+C00318,Filipa Almeida,Não-docente,DF,Tempo integral,2001-05-08,Sem termo,Ativo
+C00319,Catarina Moreira,Docente,DEP,Tempo integral,2017-05-18,Sem termo,Ativo
+C00320,Tomás Santos,Docente,DETI,Tempo integral,2000-04-05,Termo certo,Ativo
+C00321,Filipa Santos,Docente,DEGEIT,Tempo integral,2003-01-12,Termo certo,Ativo
+C00322,Pedro Silva,Docente,DCM,Tempo integral,2005-11-26,Sem termo,Ativo
+C00323,Afonso Ferreira,Docente,DBIO,Tempo integral,2005-10-06,Sem termo,Ativo
+C00324,Carolina Vieira,Docente,DLC,Tempo integral,2021-05-15,Sem termo,Ativo
+C00325,Filipa Sousa,Não-docente,DMAT,Tempo integral,2006-07-01,Sem termo,Cessado
+C00326,André Rodrigues,Não-docente,DQ,Tempo integral,2005-06-15,Sem termo,Ativo
+C00327,Maria Vieira,Docente,DBIO,Tempo integral,2000-03-21,Sem termo,Cessado
+C00328,Mariana Sousa,Docente,DGEO,Tempo integral,2007-03-18,Termo certo,Ativo
+C00329,Beatriz Jesus,Não-docente,DCM,Tempo parcial,2019-09-09,Termo certo,Ativo
+C00330,Luís Rodrigues,Docente,DMAT,Tempo integral,2021-04-13,Sem termo,Ativo
+C00331,André Santos,Não-docente,DMAT,Tempo integral,2004-08-18,Sem termo,Ativo
+C00332,Catarina Cardoso,Docente,DLC,Tempo integral,2005-01-11,Bolseiro,Ativo
+C00333,André Fernandes,Docente,DBIO,Tempo integral,2003-07-04,Prestação de serviços,Ativo
+C00334,Carolina Jesus,Docente,DMAT,Tempo integral,2016-07-17,Sem termo,Ativo
+C00335,Inês Ferreira,Docente,DEP,Tempo integral,2007-09-19,Sem termo,Suspenso
+C00336,Rita Ferreira,Docente,DQ,Tempo integral,2023-08-03,Prestação de serviços,Ativo
+C00337,Mariana Correia,Docente,DGEO,Tempo integral,2002-01-30,Sem termo,Cessado
+C00338,Inês Santos,Não-docente,DEGEIT,Tempo integral,2017-12-14,Sem termo,Ativo
+C00339,Miguel Almeida,Docente,DMAT,Tempo integral,2012-03-16,Sem termo,Ativo
+C00340,Ana Cardoso,Docente,DMAT,Tempo integral,2000-02-14,Sem termo,Cessado
+C00341,Pedro Jesus,Não-docente,DCM,Tempo integral,2006-03-19,Sem termo,Ativo
+C00342,Carolina Monteiro,Docente,DLC,Tempo integral,2020-05-18,Bolseiro,Ativo
+C00343,Diogo Rocha,Docente,DEP,Tempo integral,2001-10-24,Sem termo,Ativo
+C00344,Leonor Jesus,Não-docente,DLC,Tempo integral,2014-04-18,Sem termo,Ativo
+C00345,André Vieira,Docente,DCM,Tempo integral,2012-12-20,Prestação de serviços,Ativo
+C00346,Maria Rocha,Não-docente,DBIO,Tempo integral,2011-09-23,Sem termo,Cessado
+C00347,Matilde Costa,Docente,DGEO,Tempo integral,2011-03-28,Sem termo,Ativo
+C00348,Miguel Jesus,Docente,DETI,Tempo integral,2004-11-17,Termo certo,Ativo
+C00349,Catarina Rocha,Docente,DQ,Tempo parcial,2022-04-25,Sem termo,Cessado
+C00350,Filipa Monteiro,Docente,DBIO,Tempo integral,2006-07-11,Sem termo,Suspenso
+C00351,Tomás Correia,Não-docente,DF,Tempo integral,2014-10-15,Sem termo,Ativo
+C00352,Maria Santos,Docente,DCM,Tempo parcial,2000-02-08,Sem termo,Ativo
+C00353,Inês Sousa,Docente,DCM,Tempo integral,2021-10-25,Sem termo,Ativo
+C00354,Afonso Rocha,Docente,DF,Tempo integral,2019-03-23,Sem termo,Ativo
+C00355,Ana Cardoso,Não-docente,DLC,Tempo integral,2016-11-14,Sem termo,Ativo
+C00356,Tomás Martins,Docente,DEP,Tempo integral,2019-03-11,Prestação de serviços,Cessado
+C00357,Gonçalo Santos,Não-docente,DETI,Tempo parcial,2001-08-01,Sem termo,Ativo
+C00358,Matilde Oliveira,Não-docente,DLC,Tempo integral,2015-08-10,Termo certo,Suspenso
+C00359,Beatriz Rocha,Não-docente,DETI,Tempo integral,2011-06-24,Termo certo,Ativo
+C00360,Ana Monteiro,Docente,DEGEIT,Tempo parcial,2022-12-25,Sem termo,Ativo
+C00361,Filipa Gonçalves,Docente,DEP,Tempo integral,2016-01-15,Termo certo,Ativo
+C00362,Filipa Rocha,Docente,DQ,Tempo integral,2007-05-14,Sem termo,Cessado
+C00363,Marta Neves,Não-docente,DEP,Tempo integral,2016-07-22,Prestação de serviços,Ativo
+C00364,João Rocha,Não-docente,DMAT,Tempo integral,2004-12-22,Sem termo,Ativo
+C00365,Afonso Pereira,Docente,DBIO,Tempo integral,2008-12-31,Sem termo,Ativo
+C00366,Ana Monteiro,Não-docente,DETI,Tempo integral,2022-01-21,Sem termo,Ativo
+C00367,Rita Ferreira,Docente,DCM,Tempo parcial,2019-08-12,Sem termo,Ativo
+C00368,Luís Silva,Docente,DETI,Tempo parcial,2009-01-02,Sem termo,Ativo
+C00369,Maria Rodrigues,Docente,DETI,Tempo integral,2011-10-16,Sem termo,Ativo
+C00370,Marta Almeida,Não-docente,DBIO,Tempo integral,2017-06-12,Sem termo,Ativo
+C00371,Carolina Neves,Docente,DCM,Tempo integral,2009-08-12,Sem termo,Ativo
+C00372,Rodrigo Santos,Docente,DETI,Tempo integral,2004-12-23,Sem termo,Ativo
+C00373,Mariana Costa,Não-docente,DETI,Tempo integral,2013-10-27,Sem termo,Ativo
+C00374,Sofia Jesus,Docente,DEGEIT,Tempo integral,2018-10-27,Sem termo,Ativo
+C00375,Rodrigo Gonçalves,Não-docente,DBIO,Tempo parcial,2012-04-10,Termo certo,Ativo
+C00376,Rita Almeida,Docente,DQ,Tempo integral,2012-08-01,Sem termo,Ativo
+C00377,Maria Ferreira,Não-docente,DEP,Tempo integral,2013-06-01,Sem termo,Ativo
+C00378,Diogo Rodrigues,Não-docente,DBIO,Tempo integral,2021-06-18,Termo certo,Ativo
+C00379,Rita Cardoso,Docente,DEP,Tempo integral,2004-10-24,Termo certo,Ativo
+C00380,Tomás Moreira,Docente,DQ,Tempo integral,2005-01-16,Termo certo,Ativo
+C00381,Luís Martins,Não-docente,DEP,Tempo integral,2008-08-27,Sem termo,Ativo
+C00382,Matilde Sousa,Não-docente,DEGEIT,Tempo integral,2005-07-23,Sem termo,Ativo
+C00383,Beatriz Martins,Docente,DEGEIT,Tempo integral,2022-06-12,Sem termo,Ativo
+C00384,Pedro Jesus,Docente,DCM,Tempo parcial,2019-03-28,Sem termo,Ativo
+C00385,Gonçalo Rocha,Docente,DLC,Tempo parcial,2024-08-02,Sem termo,Ativo
+C00386,Gonçalo Moreira,Não-docente,DBIO,Tempo parcial,2025-02-07,Sem termo,Ativo
+C00387,Catarina Martins,Não-docente,DETI,Tempo parcial,2001-10-03,Bolseiro,Ativo
+C00388,Miguel Ferreira,Não-docente,DLC,Tempo integral,2006-07-11,Sem termo,Ativo
+C00389,Tiago Fernandes,Docente,DEGEIT,Tempo integral,2011-06-26,Sem termo,Ativo
+C00390,João Martins,Docente,DQ,Tempo parcial,2011-04-16,Sem termo,Ativo
+C00391,Leonor Silva,Não-docente,DCM,Tempo integral,2008-03-27,Sem termo,Ativo
+C00392,Mariana Monteiro,Não-docente,DMAT,Tempo integral,2019-11-28,Termo certo,Ativo
+C00393,Luís Correia,Não-docente,DETI,Tempo integral,2000-06-24,Sem termo,Cessado
+C00394,Inês Rocha,Docente,DCM,Tempo integral,2012-09-11,Sem termo,Ativo
+C00395,Sofia Ferreira,Não-docente,DBIO,Tempo parcial,2016-01-25,Sem termo,Ativo
+C00396,Rita Cardoso,Não-docente,DLC,Tempo integral,2014-04-09,Sem termo,Ativo
+C00397,Beatriz Moreira,Não-docente,DEGEIT,Tempo integral,2012-01-15,Bolseiro,Ativo
+C00398,Maria Costa,Não-docente,DETI,Tempo integral,2000-08-30,Sem termo,Ativo
+C00399,André Rodrigues,Não-docente,DF,Tempo integral,2018-08-04,Sem termo,Ativo
+C00400,André Almeida,Docente,DEGEIT,Tempo integral,2004-05-12,Termo certo,Ativo
+C00401,Tiago Monteiro,Docente,DEP,Tempo parcial,2024-10-05,Sem termo,Ativo
+C00402,Filipa Correia,Não-docente,DCM,Tempo parcial,2012-12-01,Sem termo,Ativo
+C00403,Rita Rodrigues,Não-docente,DBIO,Tempo integral,2005-09-07,Sem termo,Ativo
+C00404,Maria Martins,Não-docente,DF,Tempo integral,2017-07-20,Sem termo,Ativo
+C00405,Matilde Neves,Não-docente,DCM,Tempo integral,2012-01-07,Sem termo,Ativo
+C00406,Tomás Moreira,Docente,DETI,Tempo parcial,2004-02-09,Sem termo,Ativo
+C00407,Sofia Gonçalves,Não-docente,DF,Tempo integral,2011-05-03,Sem termo,Ativo
+C00408,Sofia Jesus,Não-docente,DEP,Tempo integral,2009-11-30,Sem termo,Ativo
+C00409,Diogo Sousa,Docente,DEGEIT,Tempo integral,2005-03-20,Termo certo,Ativo
+C00410,Luís Martins,Docente,DBIO,Tempo integral,2007-03-23,Sem termo,Ativo
+C00411,Maria Costa,Não-docente,DBIO,Tempo integral,2021-09-03,Bolseiro,Ativo
+C00412,Beatriz Rodrigues,Docente,DEP,Tempo integral,2020-03-08,Sem termo,Ativo
+C00413,Maria Almeida,Não-docente,DCM,Tempo integral,2014-11-30,Bolseiro,Ativo
+C00414,Leonor Santos,Não-docente,DLC,Tempo integral,2024-08-23,Bolseiro,Ativo
+C00415,Tiago Santos,Não-docente,DEP,Tempo parcial,2006-10-06,Sem termo,Ativo
+C00416,Rodrigo Silva,Não-docente,DF,Tempo parcial,2006-03-18,Sem termo,Ativo
+C00417,Catarina Costa,Não-docente,DBIO,Tempo integral,2023-10-30,Termo certo,Ativo
+C00418,Pedro Martins,Docente,DF,Tempo integral,2000-04-11,Sem termo,Ativo
+C00419,Inês Moreira,Docente,DQ,Tempo integral,2011-04-03,Sem termo,Ativo
+C00420,Marta Ferreira,Não-docente,DF,Tempo parcial,2000-10-13,Sem termo,Ativo
+C00421,Ana Moreira,Docente,DMAT,Tempo integral,2001-01-17,Sem termo,Ativo
+C00422,Leonor Costa,Docente,DEP,Tempo integral,2003-02-03,Sem termo,Ativo
+C00423,André Gonçalves,Docente,DBIO,Tempo integral,2024-02-26,Sem termo,Suspenso
+C00424,Marta Oliveira,Não-docente,DMAT,Tempo integral,2011-04-17,Sem termo,Ativo
+C00425,Sofia Pereira,Docente,DCM,Tempo integral,2000-07-10,Sem termo,Ativo
+C00426,Carolina Cardoso,Docente,DF,Tempo integral,2005-04-22,Sem termo,Ativo
+C00427,Carolina Silva,Docente,DEP,Tempo integral,2004-07-25,Sem termo,Ativo
+C00428,Tiago Almeida,Docente,DMAT,Tempo integral,2009-03-19,Sem termo,Ativo
+C00429,Gonçalo Gonçalves,Docente,DCM,Tempo integral,2005-01-02,Termo certo,Ativo
+C00430,Pedro Almeida,Não-docente,DBIO,Tempo parcial,2011-03-14,Sem termo,Ativo
+C00431,Luís Costa,Não-docente,DMAT,Tempo integral,2005-08-14,Sem termo,Ativo
+C00432,Afonso Correia,Docente,DF,Tempo integral,2000-11-28,Bolseiro,Ativo
+C00433,Inês Oliveira,Docente,DMAT,Tempo integral,2014-01-05,Sem termo,Ativo
+C00434,Mariana Rodrigues,Docente,DCM,Tempo integral,2016-01-10,Sem termo,Ativo
+C00435,Tiago Gonçalves,Não-docente,DCM,Tempo integral,2012-10-18,Sem termo,Ativo
+C00436,Mariana Vieira,Docente,DMAT,Tempo integral,2012-03-07,Sem termo,Ativo
+C00437,Sofia Martins,Docente,DCM,Tempo integral,2006-07-09,Sem termo,Ativo
+C00438,Rodrigo Monteiro,Docente,DBIO,Tempo integral,2010-03-26,Bolseiro,Ativo
+C00439,Inês Almeida,Não-docente,DBIO,Tempo integral,2011-05-09,Sem termo,Ativo
+C00440,Maria Rocha,Docente,DETI,Tempo integral,2013-03-21,Termo certo,Ativo
+C00441,Mariana Ferreira,Docente,DEP,Tempo parcial,2003-07-28,Sem termo,Cessado
+C00442,Diogo Rodrigues,Docente,DEP,Tempo integral,2002-08-06,Bolseiro,Ativo
+C00443,Ana Santos,Docente,DF,Tempo integral,2008-08-12,Sem termo,Ativo
+C00444,Maria Moreira,Não-docente,DETI,Tempo integral,2013-02-24,Sem termo,Ativo
+C00445,Luís Ferreira,Não-docente,DQ,Tempo integral,2002-05-09,Sem termo,Ativo
+C00446,Marta Sousa,Não-docente,DETI,Tempo integral,2000-02-17,Sem termo,Ativo
+C00447,Rita Silva,Não-docente,DETI,Tempo integral,2001-12-26,Sem termo,Ativo
+C00448,André Santos,Docente,DLC,Tempo integral,2017-02-11,Sem termo,Ativo
+C00449,Filipa Martins,Docente,DETI,Tempo integral,2023-07-18,Termo certo,Ativo
+C00450,Mariana Sousa,Docente,DMAT,Tempo integral,2001-06-01,Prestação de serviços,Ativo
+C00451,Tiago Monteiro,Não-docente,DQ,Tempo parcial,2007-03-01,Sem termo,Ativo
+C00452,Mariana Cardoso,Não-docente,DCM,Tempo integral,2008-03-13,Sem termo,Suspenso
+C00453,Matilde Sousa,Docente,DEP,Tempo integral,2008-11-11,Sem termo,Ativo
+C00454,Carolina Moreira,Docente,DEP,Tempo parcial,2001-08-11,Bolseiro,Ativo
+C00455,Rodrigo Rodrigues,Docente,DLC,Tempo integral,2017-02-10,Sem termo,Ativo
+C00456,Rita Santos,Não-docente,DCM,Tempo integral,2016-12-27,Sem termo,Ativo
+C00457,Gonçalo Sousa,Não-docente,DLC,Tempo integral,2016-07-28,Sem termo,Ativo
+C00458,Mariana Correia,Docente,DLC,Tempo integral,2024-06-17,Termo certo,Ativo
+C00459,Gonçalo Pereira,Não-docente,DCM,Tempo integral,2019-07-20,Sem termo,Ativo
+C00460,Tomás Almeida,Docente,DMAT,Tempo integral,2010-06-10,Sem termo,Ativo
+C00461,Leonor Rocha,Não-docente,DEGEIT,Tempo integral,2021-06-18,Bolseiro,Ativo
+C00462,Carolina Ferreira,Docente,DF,Tempo parcial,2016-01-31,Termo certo,Ativo
+C00463,Mariana Costa,Não-docente,DBIO,Tempo integral,2011-01-02,Bolseiro,Ativo
+C00464,Diogo Ferreira,Docente,DEGEIT,Tempo integral,2004-07-19,Termo certo,Ativo
+C00465,João Monteiro,Docente,DETI,Tempo integral,2013-05-18,Sem termo,Ativo
+C00466,Ana Correia,Não-docente,DMAT,Tempo integral,2013-12-24,Sem termo,Ativo
+C00467,Ana Santos,Não-docente,DEP,Tempo integral,2012-10-06,Sem termo,Ativo
+C00468,Marta Rocha,Não-docente,DEGEIT,Tempo integral,2015-09-19,Bolseiro,Ativo
+C00469,Rita Rocha,Não-docente,DMAT,Tempo integral,2005-12-13,Sem termo,Ativo
+C00470,Rodrigo Moreira,Docente,DLC,Tempo integral,2009-08-01,Sem termo,Ativo
+C00471,Leonor Almeida,Não-docente,DMAT,Tempo integral,2022-12-17,Termo certo,Suspenso
+C00472,Tomás Gonçalves,Docente,DEGEIT,Tempo integral,2004-11-24,Sem termo,Ativo
+C00473,Tomás Cardoso,Docente,DF,Tempo parcial,2020-08-15,Sem termo,Ativo
+C00474,Matilde Monteiro,Docente,DBIO,Tempo parcial,2019-12-09,Sem termo,Ativo
+C00475,Filipa Pereira,Não-docente,DCM,Tempo integral,2020-03-30,Prestação de serviços,Ativo
+C00476,Mariana Almeida,Docente,DETI,Tempo integral,2000-10-10,Termo certo,Ativo
+C00477,Afonso Fernandes,Docente,DCM,Tempo integral,2021-07-23,Sem termo,Ativo
+C00478,Rita Correia,Não-docente,DF,Tempo parcial,2005-07-22,Sem termo,Ativo
+C00479,João Rodrigues,Não-docente,DQ,Tempo integral,2013-09-12,Termo certo,Ativo
+C00480,Inês Pereira,Docente,DBIO,Tempo integral,2011-08-04,Bolseiro,Ativo
+C00481,Marta Silva,Docente,DETI,Tempo integral,2004-06-25,Sem termo,Ativo
+C00482,Leonor Gonçalves,Docente,DETI,Tempo integral,2002-10-20,Termo certo,Ativo
+C00483,Pedro Silva,Docente,DF,Tempo integral,2002-06-20,Sem termo,Ativo
+C00484,Diogo Martins,Docente,DF,Tempo integral,2009-02-06,Sem termo,Ativo
+C00485,Carolina Correia,Docente,DCM,Tempo integral,2004-11-22,Sem termo,Ativo
+C00486,Maria Moreira,Docente,DMAT,Tempo integral,2007-07-12,Termo certo,Ativo
+C00487,Rodrigo Vieira,Docente,DBIO,Tempo integral,2007-06-20,Bolseiro,Ativo
+C00488,Ana Monteiro,Docente,DGEO,Tempo integral,2022-01-24,Sem termo,Ativo
+C00489,Marta Costa,Não-docente,DBIO,Tempo integral,2006-10-22,Sem termo,Cessado
+C00490,Ana Moreira,Não-docente,DLC,Tempo integral,2008-02-23,Sem termo,Ativo
+C00491,Beatriz Moreira,Não-docente,DGEO,Tempo integral,2013-05-31,Sem termo,Ativo
+C00492,André Monteiro,Docente,DEGEIT,Tempo integral,2008-01-11,Bolseiro,Ativo
+C00493,Mariana Martins,Docente,DEP,Tempo integral,2003-08-08,Sem termo,Ativo
+C00494,Leonor Rodrigues,Docente,DCM,Tempo integral,2012-10-04,Sem termo,Ativo
+C00495,Beatriz Moreira,Não-docente,DLC,Tempo integral,2021-06-09,Sem termo,Ativo
+C00496,Miguel Martins,Docente,DGEO,Tempo integral,2005-08-17,Sem termo,Ativo
+C00497,Matilde Monteiro,Docente,DCM,Tempo integral,2008-02-15,Sem termo,Ativo
+C00498,Miguel Oliveira,Docente,DLC,Tempo parcial,2020-10-29,Sem termo,Ativo
+C00499,Luís Silva,Não-docente,DLC,Tempo integral,2019-06-07,Sem termo,Ativo
+C00500,Rodrigo Sousa,Docente,DQ,Tempo integral,2022-03-06,Sem termo,Ativo
+C00501,Matilde Fernandes,Docente,DETI,Tempo integral,2013-03-13,Sem termo,Ativo
+C00502,João Ferreira,Docente,DF,Tempo integral,2017-06-17,Sem termo,Ativo
+C00503,Tiago Silva,Não-docente,DGEO,Tempo integral,2018-03-08,Sem termo,Ativo
+C00504,João Cardoso,Não-docente,DETI,Tempo integral,2002-05-25,Termo certo,Ativo
+C00505,Rodrigo Gonçalves,Docente,DQ,Tempo integral,2008-10-20,Termo certo,Ativo
+C00506,Rita Rodrigues,Docente,DEP,Tempo integral,2007-02-17,Sem termo,Ativo
+C00507,Tomás Cardoso,Não-docente,DCM,Tempo integral,2018-01-18,Sem termo,Ativo
+C00508,João Sousa,Docente,DLC,Tempo integral,2022-08-20,Sem termo,Ativo
+C00509,Tomás Costa,Docente,DQ,Tempo integral,2023-03-28,Sem termo,Ativo
+C00510,João Jesus,Não-docente,DCM,Tempo parcial,2011-03-04,Sem termo,Ativo
+C00511,Beatriz Santos,Docente,DF,Tempo integral,2010-12-29,Sem termo,Ativo
+C00512,Inês Rodrigues,Não-docente,DEP,Tempo integral,2007-04-24,Sem termo,Cessado
+C00513,Catarina Gonçalves,Docente,DQ,Tempo integral,2011-11-23,Bolseiro,Ativo
+C00514,Sofia Rodrigues,Docente,DMAT,Tempo parcial,2014-03-08,Termo certo,Cessado
+C00515,Miguel Rodrigues,Não-docente,DETI,Tempo integral,2005-04-07,Termo certo,Ativo
+C00516,Mariana Silva,Docente,DLC,Tempo integral,2013-10-26,Sem termo,Ativo
+C00517,Carolina Moreira,Não-docente,DCM,Tempo parcial,2015-08-29,Sem termo,Ativo
+C00518,Mariana Martins,Docente,DEP,Tempo integral,2006-03-24,Sem termo,Ativo
+C00519,Afonso Costa,Docente,DEP,Tempo integral,2016-03-28,Sem termo,Ativo
+C00520,Beatriz Correia,Não-docente,DF,Tempo integral,2015-02-22,Sem termo,Ativo
+C00521,Afonso Neves,Docente,DEGEIT,Tempo integral,2008-06-15,Sem termo,Ativo
+C00522,Sofia Pereira,Docente,DGEO,Tempo integral,2020-04-07,Termo certo,Ativo
+C00523,André Rodrigues,Não-docente,DETI,Tempo integral,2013-08-17,Termo certo,Cessado
+C00524,Tomás Silva,Docente,DMAT,Tempo integral,2019-04-14,Termo certo,Ativo
+C00525,Afonso Rocha,Docente,DEGEIT,Tempo integral,2009-10-03,Sem termo,Ativo
+C00526,Tiago Gonçalves,Não-docente,DEP,Tempo integral,2009-11-05,Sem termo,Ativo
+C00527,Marta Oliveira,Docente,DEP,Tempo integral,2017-02-25,Termo certo,Ativo
+C00528,Carolina Neves,Docente,DCM,Tempo integral,2006-01-24,Sem termo,Ativo
+C00529,Gonçalo Almeida,Docente,DEGEIT,Tempo integral,2016-09-19,Prestação de serviços,Ativo
+C00530,Matilde Moreira,Docente,DEP,Tempo integral,2025-03-01,Sem termo,Ativo
+C00531,Sofia Monteiro,Docente,DLC,Tempo integral,2013-11-06,Sem termo,Ativo
+C00532,Gonçalo Vieira,Docente,DMAT,Tempo parcial,2011-08-12,Sem termo,Ativo
+C00533,Tiago Almeida,Não-docente,DQ,Tempo integral,2012-05-07,Termo certo,Ativo
+C00534,Marta Vieira,Não-docente,DCM,Tempo integral,2019-03-09,Sem termo,Ativo
+C00535,Leonor Rocha,Docente,DETI,Tempo integral,2008-01-27,Termo certo,Ativo
+C00536,Mariana Rodrigues,Docente,DETI,Tempo integral,2005-10-25,Sem termo,Ativo
+C00537,Luís Rocha,Não-docente,DCM,Tempo integral,2018-04-21,Bolseiro,Ativo
+C00538,Sofia Pereira,Não-docente,DMAT,Tempo integral,2000-08-22,Sem termo,Ativo
+C00539,João Monteiro,Docente,DQ,Tempo integral,2008-07-26,Sem termo,Ativo
+C00540,Tiago Jesus,Não-docente,DMAT,Tempo integral,2010-05-04,Bolseiro,Cessado
+C00541,Rodrigo Rodrigues,Não-docente,DBIO,Tempo integral,2023-12-25,Sem termo,Ativo
+C00542,Matilde Moreira,Não-docente,DQ,Tempo integral,2006-03-14,Prestação de serviços,Ativo
+C00543,Diogo Silva,Docente,DBIO,Tempo integral,2023-02-07,Termo certo,Ativo
+C00544,Diogo Vieira,Docente,DCM,Tempo integral,2024-11-30,Sem termo,Ativo
+C00545,Catarina Martins,Não-docente,DBIO,Tempo integral,2013-11-18,Termo certo,Ativo
+C00546,Luís Santos,Não-docente,DEP,Tempo integral,2024-05-07,Sem termo,Ativo
+C00547,Maria Almeida,Docente,DETI,Tempo integral,2008-04-05,Sem termo,Ativo
+C00548,Maria Costa,Docente,DEP,Tempo integral,2008-08-09,Sem termo,Ativo
+C00549,Tiago Oliveira,Não-docente,DCM,Tempo parcial,2015-09-19,Bolseiro,Ativo
+C00550,Beatriz Correia,Docente,DLC,Tempo integral,2016-06-18,Sem termo,Ativo
+C00551,Gonçalo Rodrigues,Não-docente,DMAT,Tempo integral,2017-01-13,Bolseiro,Ativo
+C00552,Ana Gonçalves,Docente,DETI,Tempo integral,2023-09-26,Sem termo,Ativo
+C00553,Luís Rodrigues,Docente,DBIO,Tempo integral,2009-04-12,Sem termo,Ativo
+C00554,Tomás Gonçalves,Docente,DMAT,Tempo integral,2011-02-28,Termo certo,Ativo
+C00555,João Costa,Docente,DMAT,Tempo parcial,2018-06-18,Sem termo,Ativo
+C00556,Matilde Santos,Docente,DF,Tempo integral,2009-09-25,Sem termo,Suspenso
+C00557,João Martins,Não-docente,DCM,Tempo integral,2012-05-22,Sem termo,Ativo
+C00558,Rodrigo Almeida,Docente,DGEO,Tempo integral,2019-10-01,Sem termo,Ativo
+C00559,Gonçalo Monteiro,Docente,DEP,Tempo parcial,2004-05-06,Termo certo,Ativo
+C00560,Pedro Ferreira,Docente,DLC,Tempo integral,2003-10-23,Sem termo,Suspenso
+C00561,Mariana Rodrigues,Docente,DF,Tempo integral,2000-12-14,Prestação de serviços,Ativo
+C00562,André Vieira,Docente,DEGEIT,Tempo parcial,2019-06-12,Sem termo,Ativo
+C00563,João Rodrigues,Docente,DBIO,Tempo integral,2018-05-15,Termo certo,Ativo
+C00564,Sofia Almeida,Docente,DEGEIT,Tempo integral,2018-05-03,Sem termo,Ativo
+C00565,Tiago Ferreira,Não-docente,DCM,Tempo integral,2005-01-30,Sem termo,Ativo
+C00566,Diogo Santos,Não-docente,DF,Tempo integral,2009-12-18,Termo certo,Ativo
+C00567,Filipa Oliveira,Não-docente,DEGEIT,Tempo integral,2011-01-16,Sem termo,Ativo
+C00568,Luís Cardoso,Docente,DEP,Tempo integral,2023-08-11,Termo certo,Ativo
+C00569,Pedro Silva,Não-docente,DF,Tempo integral,2000-09-14,Sem termo,Ativo
+C00570,Miguel Rocha,Não-docente,DCM,Tempo integral,2002-10-01,Sem termo,Ativo
+C00571,Sofia Fernandes,Docente,DEP,Tempo integral,2013-04-07,Sem termo,Ativo
+C00572,Marta Cardoso,Docente,DQ,Tempo integral,2022-07-19,Sem termo,Ativo
+C00573,Marta Gonçalves,Não-docente,DGEO,Tempo integral,2000-09-21,Sem termo,Ativo
+C00574,Tiago Cardoso,Não-docente,DF,Tempo integral,2003-01-28,Sem termo,Ativo
+C00575,Ana Almeida,Não-docente,DGEO,Tempo integral,2007-03-23,Termo certo,Cessado
+C00576,Inês Jesus,Docente,DMAT,Tempo integral,2015-07-12,Sem termo,Ativo
+C00577,Maria Almeida,Não-docente,DEP,Tempo integral,2000-12-06,Bolseiro,Ativo
+C00578,Afonso Ferreira,Docente,DQ,Tempo integral,2005-05-01,Sem termo,Ativo
+C00579,Filipa Oliveira,Não-docente,DMAT,Tempo integral,2024-10-13,Sem termo,Ativo
+C00580,Catarina Correia,Não-docente,DETI,Tempo integral,2012-10-16,Termo certo,Ativo
+C00581,Leonor Oliveira,Não-docente,DETI,Tempo integral,2018-10-23,Termo certo,Ativo
+C00582,Sofia Sousa,Docente,DBIO,Tempo integral,2001-11-28,Sem termo,Suspenso
+C00583,João Sousa,Docente,DEGEIT,Tempo integral,2020-11-24,Sem termo,Ativo
+C00584,Sofia Almeida,Docente,DQ,Tempo integral,2013-07-28,Sem termo,Ativo
+C00585,Beatriz Almeida,Docente,DQ,Tempo integral,2000-12-08,Sem termo,Ativo
+C00586,Sofia Ferreira,Docente,DCM,Tempo integral,2021-03-31,Sem termo,Ativo
+C00587,Diogo Silva,Não-docente,DBIO,Tempo integral,2022-07-20,Prestação de serviços,Ativo
+C00588,Inês Correia,Docente,DEP,Tempo integral,2000-01-03,Termo certo,Ativo
+C00589,Beatriz Rodrigues,Docente,DCM,Tempo integral,2009-04-01,Termo certo,Ativo
+C00590,André Neves,Não-docente,DMAT,Tempo integral,2005-07-07,Termo certo,Ativo
+C00591,Ana Costa,Não-docente,DEGEIT,Tempo integral,2009-07-28,Sem termo,Ativo
+C00592,Tiago Sousa,Docente,DGEO,Tempo integral,2012-10-31,Sem termo,Ativo
+C00593,Catarina Moreira,Não-docente,DCM,Tempo parcial,2020-12-12,Sem termo,Ativo
+C00594,Mariana Jesus,Não-docente,DGEO,Tempo integral,2017-09-04,Sem termo,Ativo
+C00595,Diogo Correia,Não-docente,DEGEIT,Tempo integral,2018-09-29,Sem termo,Ativo
+C00596,Pedro Martins,Não-docente,DF,Tempo integral,2007-04-14,Sem termo,Ativo
+C00597,Diogo Gonçalves,Não-docente,DBIO,Tempo integral,2017-07-27,Sem termo,Ativo
+C00598,João Santos,Não-docente,DF,Tempo integral,2007-09-03,Sem termo,Ativo
+C00599,Pedro Almeida,Docente,DGEO,Tempo integral,2010-01-06,Sem termo,Ativo
+C00600,Mariana Almeida,Não-docente,DCM,Tempo integral,2013-01-15,Bolseiro,Ativo
+C00601,Tomás Costa,Docente,DQ,Tempo integral,2002-01-15,Termo certo,Ativo
+C00602,Luís Silva,Não-docente,DMAT,Tempo integral,2013-08-08,Sem termo,Ativo
+C00603,Sofia Martins,Docente,DCM,Tempo parcial,2020-09-22,Termo certo,Ativo
+C00604,Mariana Sousa,Não-docente,DLC,Tempo integral,2020-08-24,Prestação de serviços,Ativo
+C00605,Afonso Martins,Não-docente,DMAT,Tempo integral,2002-11-11,Sem termo,Ativo
+C00606,Catarina Moreira,Docente,DF,Tempo integral,2012-11-21,Bolseiro,Ativo
+C00607,Filipa Monteiro,Docente,DF,Tempo integral,2008-10-07,Prestação de serviços,Ativo
+C00608,João Cardoso,Não-docente,DQ,Tempo parcial,2018-04-22,Prestação de serviços,Ativo
+C00609,Afonso Fernandes,Não-docente,DEGEIT,Tempo integral,2014-11-21,Termo certo,Ativo
+C00610,Gonçalo Gonçalves,Não-docente,DETI,Tempo integral,2015-07-03,Termo certo,Ativo
+C00611,Luís Jesus,Não-docente,DLC,Tempo integral,2017-11-17,Bolseiro,Ativo
+C00612,Ana Cardoso,Não-docente,DETI,Tempo integral,2022-02-06,Prestação de serviços,Ativo
+C00613,Carolina Neves,Docente,DEP,Tempo integral,2004-04-17,Termo certo,Ativo
+C00614,Miguel Moreira,Não-docente,DEGEIT,Tempo integral,2020-05-30,Sem termo,Ativo
+C00615,André Sousa,Não-docente,DEP,Tempo integral,2022-11-03,Sem termo,Ativo
+C00616,Maria Martins,Docente,DGEO,Tempo parcial,2013-04-13,Prestação de serviços,Ativo
+C00617,João Sousa,Não-docente,DMAT,Tempo integral,2014-08-11,Termo certo,Cessado
+C00618,André Neves,Não-docente,DETI,Tempo integral,2010-02-01,Sem termo,Ativo
+C00619,Tomás Santos,Não-docente,DBIO,Tempo parcial,2023-07-02,Sem termo,Ativo
+C00620,Rita Almeida,Docente,DBIO,Tempo integral,2021-08-16,Termo certo,Ativo

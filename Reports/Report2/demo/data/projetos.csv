@@ -1,0 +1,181 @@
+projeto_id,titulo,departamento_lider,fonte_financiamento,orcamento_total,data_inicio,data_fim,estado,equipa_elementos
+P0001,Projeto de Investigação 001,DMAT,Interreg,1789696.4,2023-07-03,2024-01-10,Em execução,18
+P0002,Projeto de Investigação 002,DMAT,ERASMUS+,970701.13,2023-06-23,2027-05-13,Concluído,11
+P0003,Projeto de Investigação 003,DF,Interreg,513489.54,2026-01-10,2026-09-01,Em execução,27
+P0004,Projeto de Investigação 004,DF,Interreg,1821077.24,2023-12-18,2025-08-28,Em execução,3
+P0005,Projeto de Investigação 005,DMAT,Horizon Europe,1693663.53,2024-01-14,2027-02-07,Concluído,4
+P0006,Projeto de Investigação 006,DQ,Portugal 2030,336683.33,2024-09-19,2027-05-02,Em execução,14
+P0007,Projeto de Investigação 007,DEP,ANI,1271650.67,2024-08-14,2026-11-14,Em execução,13
+P0008,Projeto de Investigação 008,DBIO,Horizon Europe,1297976.71,2025-08-13,2027-04-22,Em execução,6
+P0009,Projeto de Investigação 009,DMAT,Portugal 2030,455196.72,2025-06-05,2028-06-09,Concluído,10
+P0010,Projeto de Investigação 010,DBIO,ANI,921112.32,2022-06-12,2023-11-22,Aprovado,26
+P0011,Projeto de Investigação 011,DMAT,FCT,1930349.41,2023-09-06,2024-08-23,Em execução,23
+P0012,Projeto de Investigação 012,DCM,ERASMUS+,1439138.54,2022-02-16,2023-05-28,Concluído,22
+P0013,Projeto de Investigação 013,DMAT,PRR,1187383.04,2024-11-26,2027-06-24,Em execução,4
+P0014,Projeto de Investigação 014,DCM,ANI,552837.75,2024-05-16,2025-10-24,Em execução,10
+P0015,Projeto de Investigação 015,DCM,PRR,781568.78,2023-11-15,2026-05-17,Suspenso,26
+P0016,Projeto de Investigação 016,DBIO,Portugal 2030,1309120.82,2022-01-14,2025-03-21,Em execução,27
+P0017,Projeto de Investigação 017,DBIO,Fundação Calouste Gulbenkian,2023946.84,2023-02-22,2024-12-10,Aprovado,15
+P0018,Projeto de Investigação 018,DMAT,Horizon Europe,1851669.52,2022-02-13,2025-09-09,Concluído,21
+P0019,Projeto de Investigação 019,DEP,Horizon Europe,2160580.2,2022-07-22,2026-06-12,Concluído,3
+P0020,Projeto de Investigação 020,DF,FCT,1554381.24,2022-10-10,2023-05-14,Aprovado,15
+P0021,Projeto de Investigação 021,DCM,PRR,1159179.56,2023-08-03,2025-09-05,Concluído,12
+P0022,Projeto de Investigação 022,DQ,ANI,2414077.51,2022-03-25,2025-10-13,Concluído,18
+P0023,Projeto de Investigação 023,DQ,Interreg,2338604.95,2023-07-20,2024-04-21,Suspenso,4
+P0024,Projeto de Investigação 024,DQ,Fundação Calouste Gulbenkian,434112.36,2023-07-13,2025-04-05,Aprovado,24
+P0025,Projeto de Investigação 025,DEP,FCT,1553668.36,2022-11-30,2024-07-13,Concluído,22
+P0026,Projeto de Investigação 026,DEGEIT,ERASMUS+,374495.81,2022-10-23,2026-04-25,Em execução,8
+P0027,Projeto de Investigação 027,DF,ERASMUS+,565180.58,2022-02-23,2025-07-30,Em execução,12
+P0028,Projeto de Investigação 028,DLC,Fundação Calouste Gulbenkian,2024869.89,2021-01-19,2024-06-16,Suspenso,20
+P0029,Projeto de Investigação 029,DQ,ANI,163200.01,2025-10-05,2028-09-03,Em execução,14
+P0030,Projeto de Investigação 030,DETI,Portugal 2030,2117629.27,2024-05-23,2025-11-08,Concluído,4
+P0031,Projeto de Investigação 031,DETI,Interreg,775313.13,2024-09-27,2027-10-01,Em execução,21
+P0032,Projeto de Investigação 032,DF,PRR,708473.65,2023-10-25,2025-09-27,Em execução,16
+P0033,Projeto de Investigação 033,DCM,Horizon Europe,1356858.79,2024-04-28,2026-06-16,Em execução,23
+P0034,Projeto de Investigação 034,DGEO,Fundação Calouste Gulbenkian,1957836.73,2021-10-18,2022-10-05,Concluído,20
+P0035,Projeto de Investigação 035,DBIO,Fundação Calouste Gulbenkian,2013092.68,2023-09-07,2026-01-21,Em execução,9
+P0036,Projeto de Investigação 036,DLC,ERASMUS+,839575.64,2023-09-25,2026-09-20,Concluído,16
+P0037,Projeto de Investigação 037,DETI,Horizon Europe,834293.94,2025-01-02,2026-04-06,Concluído,7
+P0038,Projeto de Investigação 038,DEGEIT,Interreg,1573358.66,2022-06-28,2024-04-21,Aprovado,7
+P0039,Projeto de Investigação 039,DLC,ANI,1913220.2,2024-05-22,2028-05-09,Concluído,27
+P0040,Projeto de Investigação 040,DGEO,Fundação Calouste Gulbenkian,83207.39,2021-03-08,2023-08-17,Em execução,11
+P0041,Projeto de Investigação 041,DEP,ERASMUS+,152745.31,2022-07-29,2024-08-21,Em execução,3
+P0042,Projeto de Investigação 042,DQ,Horizon Europe,1860595.33,2024-06-29,2028-05-29,Em execução,3
+P0043,Projeto de Investigação 043,DMAT,Fundação Calouste Gulbenkian,55997.13,2023-11-10,2024-07-31,Em execução,5
+P0044,Projeto de Investigação 044,DEP,ERASMUS+,1978514.95,2024-04-05,2027-03-23,Concluído,4
+P0045,Projeto de Investigação 045,DQ,Interreg,618342.13,2025-03-12,2025-12-03,Concluído,21
+P0046,Projeto de Investigação 046,DF,Horizon Europe,1795464.58,2023-09-17,2024-07-04,Concluído,20
+P0047,Projeto de Investigação 047,DQ,ANI,2084251.31,2024-02-16,2025-02-27,Em execução,8
+P0048,Projeto de Investigação 048,DEP,Portugal 2030,1943932.97,2024-10-17,2025-06-18,Concluído,19
+P0049,Projeto de Investigação 049,DF,PRR,1108740.29,2025-02-27,2026-07-22,Em execução,21
+P0050,Projeto de Investigação 050,DLC,Portugal 2030,1115852.4,2022-10-30,2024-09-08,Concluído,14
+P0051,Projeto de Investigação 051,DQ,Fundação Calouste Gulbenkian,156218.1,2023-07-21,2026-09-21,Em execução,12
+P0052,Projeto de Investigação 052,DGEO,PRR,748996.87,2025-04-01,2026-08-04,Aprovado,26
+P0053,Projeto de Investigação 053,DCM,Interreg,1335996.58,2021-04-19,2021-11-05,Em execução,24
+P0054,Projeto de Investigação 054,DEGEIT,FCT,2167491.72,2022-04-22,2025-12-21,Aprovado,21
+P0055,Projeto de Investigação 055,DGEO,Horizon Europe,793190.42,2021-12-10,2024-03-09,Em execução,12
+P0056,Projeto de Investigação 056,DCM,ANI,147043.76,2024-02-08,2027-07-01,Em execução,20
+P0057,Projeto de Investigação 057,DGEO,ANI,2162726.55,2024-08-23,2027-08-20,Em execução,18
+P0058,Projeto de Investigação 058,DETI,Portugal 2030,50577.21,2024-10-01,2028-09-18,Suspenso,3
+P0059,Projeto de Investigação 059,DF,Horizon Europe,636545.41,2021-06-29,2025-01-08,Aprovado,15
+P0060,Projeto de Investigação 060,DBIO,Portugal 2030,1940727.77,2023-04-23,2026-10-13,Em execução,11
+P0061,Projeto de Investigação 061,DEP,ERASMUS+,207255.92,2024-01-31,2025-07-18,Concluído,12
+P0062,Projeto de Investigação 062,DCM,ERASMUS+,1859479.5,2025-06-22,2027-05-13,Em execução,4
+P0063,Projeto de Investigação 063,DGEO,Horizon Europe,339648.49,2022-06-17,2025-07-05,Concluído,8
+P0064,Projeto de Investigação 064,DETI,Fundação Calouste Gulbenkian,2263980.38,2023-01-28,2026-11-14,Em execução,6
+P0065,Projeto de Investigação 065,DETI,Interreg,273083.95,2025-04-07,2028-10-02,Em execução,28
+P0066,Projeto de Investigação 066,DGEO,ERASMUS+,1392857.77,2021-04-23,2025-03-06,Em execução,22
+P0067,Projeto de Investigação 067,DCM,PRR,2166629.49,2023-11-13,2024-07-02,Aprovado,15
+P0068,Projeto de Investigação 068,DLC,Fundação Calouste Gulbenkian,502794.17,2022-06-06,2024-06-29,Em execução,7
+P0069,Projeto de Investigação 069,DF,Portugal 2030,368311.17,2022-10-18,2024-10-28,Suspenso,13
+P0070,Projeto de Investigação 070,DCM,Interreg,628949.75,2025-08-07,2029-06-01,Em execução,3
+P0071,Projeto de Investigação 071,DEP,Fundação Calouste Gulbenkian,2062956.76,2022-06-14,2024-04-16,Aprovado,19
+P0072,Projeto de Investigação 072,DEP,FCT,600957.38,2023-11-26,2026-12-11,Concluído,28
+P0073,Projeto de Investigação 073,DEP,ANI,1801635.12,2023-07-14,2025-07-18,Em execução,23
+P0074,Projeto de Investigação 074,DBIO,Portugal 2030,2057065.3,2024-12-03,2027-03-28,Em execução,4
+P0075,Projeto de Investigação 075,DF,PRR,889986.36,2022-08-10,2024-01-29,Em execução,7
+P0076,Projeto de Investigação 076,DGEO,ERASMUS+,1859639.54,2025-01-15,2026-08-17,Em execução,16
+P0077,Projeto de Investigação 077,DEGEIT,ERASMUS+,2170492.83,2023-03-01,2024-08-31,Em execução,3
+P0078,Projeto de Investigação 078,DBIO,Horizon Europe,1566282.02,2025-03-21,2025-10-07,Em execução,5
+P0079,Projeto de Investigação 079,DQ,ANI,1438151.83,2022-06-19,2023-07-07,Concluído,26
+P0080,Projeto de Investigação 080,DQ,Fundação Calouste Gulbenkian,495488.19,2024-05-12,2027-09-08,Suspenso,4
+P0081,Projeto de Investigação 081,DGEO,ERASMUS+,854891.79,2024-03-08,2024-12-24,Em execução,24
+P0082,Projeto de Investigação 082,DGEO,PRR,1693350.0,2023-08-29,2027-08-13,Aprovado,4
+P0083,Projeto de Investigação 083,DLC,ERASMUS+,2339054.47,2021-09-09,2024-11-17,Concluído,7
+P0084,Projeto de Investigação 084,DETI,Interreg,2082530.61,2021-10-20,2024-04-19,Em execução,16
+P0085,Projeto de Investigação 085,DF,Interreg,283888.91,2024-07-22,2025-04-30,Em execução,21
+P0086,Projeto de Investigação 086,DQ,Horizon Europe,96186.18,2021-10-10,2023-06-03,Em execução,12
+P0087,Projeto de Investigação 087,DCM,PRR,607366.67,2025-01-28,2029-01-01,Aprovado,3
+P0088,Projeto de Investigação 088,DQ,FCT,1824214.29,2022-11-16,2025-09-09,Concluído,5
+P0089,Projeto de Investigação 089,DMAT,PRR,2224173.12,2022-09-23,2025-11-30,Em execução,20
+P0090,Projeto de Investigação 090,DEP,Interreg,218407.19,2023-05-01,2026-11-07,Em execução,4
+P0091,Projeto de Investigação 091,DEGEIT,ERASMUS+,1946328.91,2025-11-18,2028-09-27,Em execução,19
+P0092,Projeto de Investigação 092,DLC,FCT,2046190.72,2024-07-26,2026-03-07,Em execução,26
+P0093,Projeto de Investigação 093,DMAT,ANI,1170771.76,2025-10-30,2029-04-21,Concluído,14
+P0094,Projeto de Investigação 094,DBIO,Horizon Europe,2018158.0,2023-04-21,2024-09-01,Em execução,25
+P0095,Projeto de Investigação 095,DMAT,Interreg,626173.83,2025-12-27,2028-05-14,Suspenso,22
+P0096,Projeto de Investigação 096,DEGEIT,PRR,871989.33,2023-06-30,2024-01-05,Concluído,7
+P0097,Projeto de Investigação 097,DQ,ANI,113651.54,2024-05-31,2025-04-06,Concluído,27
+P0098,Projeto de Investigação 098,DMAT,Fundação Calouste Gulbenkian,1575727.84,2022-01-22,2024-02-19,Concluído,18
+P0099,Projeto de Investigação 099,DEGEIT,Portugal 2030,1512748.87,2026-01-28,2027-04-05,Em execução,12
+P0100,Projeto de Investigação 100,DEGEIT,PRR,607400.34,2022-03-04,2025-06-04,Em execução,11
+P0101,Projeto de Investigação 101,DLC,Portugal 2030,1369081.65,2024-03-05,2025-05-03,Em execução,15
+P0102,Projeto de Investigação 102,DETI,Portugal 2030,1580463.8,2024-10-27,2028-04-05,Em execução,4
+P0103,Projeto de Investigação 103,DLC,PRR,1500040.92,2022-07-19,2025-01-01,Concluído,12
+P0104,Projeto de Investigação 104,DGEO,Fundação Calouste Gulbenkian,516267.26,2024-01-16,2027-08-12,Concluído,24
+P0105,Projeto de Investigação 105,DEGEIT,Fundação Calouste Gulbenkian,1439477.65,2024-12-23,2028-12-12,Concluído,10
+P0106,Projeto de Investigação 106,DMAT,Fundação Calouste Gulbenkian,1310129.39,2021-10-06,2022-12-10,Em execução,19
+P0107,Projeto de Investigação 107,DEGEIT,ERASMUS+,311751.81,2023-03-16,2023-10-03,Aprovado,23
+P0108,Projeto de Investigação 108,DEGEIT,Fundação Calouste Gulbenkian,185173.33,2022-12-13,2024-02-29,Aprovado,8
+P0109,Projeto de Investigação 109,DGEO,ANI,284475.44,2022-07-24,2025-03-20,Em execução,25
+P0110,Projeto de Investigação 110,DETI,Fundação Calouste Gulbenkian,503525.42,2022-11-01,2024-04-18,Em execução,7
+P0111,Projeto de Investigação 111,DMAT,PRR,2192122.54,2022-08-01,2026-05-14,Em execução,24
+P0112,Projeto de Investigação 112,DETI,PRR,2336110.32,2025-03-13,2025-12-06,Em execução,13
+P0113,Projeto de Investigação 113,DMAT,PRR,422260.97,2022-12-26,2024-02-19,Concluído,26
+P0114,Projeto de Investigação 114,DEGEIT,FCT,2244167.72,2023-09-16,2026-07-24,Aprovado,12
+P0115,Projeto de Investigação 115,DMAT,Portugal 2030,2436911.82,2021-07-11,2023-03-26,Em execução,12
+P0116,Projeto de Investigação 116,DQ,Portugal 2030,2144836.22,2024-10-13,2026-03-29,Concluído,28
+P0117,Projeto de Investigação 117,DEGEIT,Interreg,2480736.42,2022-04-01,2025-04-25,Em execução,10
+P0118,Projeto de Investigação 118,DF,Portugal 2030,610519.45,2025-04-23,2026-07-09,Em execução,27
+P0119,Projeto de Investigação 119,DMAT,PRR,295928.19,2024-06-15,2026-08-11,Em execução,21
+P0120,Projeto de Investigação 120,DGEO,Fundação Calouste Gulbenkian,456486.57,2022-10-17,2025-08-14,Aprovado,25
+P0121,Projeto de Investigação 121,DCM,Interreg,1213553.5,2026-01-15,2029-01-11,Concluído,11
+P0122,Projeto de Investigação 122,DEP,FCT,1804799.19,2021-03-30,2023-02-18,Em execução,8
+P0123,Projeto de Investigação 123,DETI,Portugal 2030,526336.17,2021-03-17,2024-04-24,Concluído,28
+P0124,Projeto de Investigação 124,DCM,ANI,1022505.68,2022-10-24,2023-05-14,Em execução,26
+P0125,Projeto de Investigação 125,DEGEIT,ANI,1772884.72,2021-05-08,2022-10-22,Em execução,20
+P0126,Projeto de Investigação 126,DLC,FCT,1892512.65,2021-07-14,2024-06-26,Em execução,27
+P0127,Projeto de Investigação 127,DEGEIT,Fundação Calouste Gulbenkian,513391.13,2024-07-16,2027-01-04,Em execução,4
+P0128,Projeto de Investigação 128,DCM,ERASMUS+,2019883.05,2023-08-23,2026-06-24,Em execução,21
+P0129,Projeto de Investigação 129,DETI,PRR,1513504.27,2022-07-08,2024-08-21,Em execução,5
+P0130,Projeto de Investigação 130,DEP,Interreg,2496603.4,2021-05-03,2023-01-29,Concluído,14
+P0131,Projeto de Investigação 131,DEGEIT,Horizon Europe,1199635.13,2023-11-07,2026-07-19,Concluído,20
+P0132,Projeto de Investigação 132,DLC,Horizon Europe,338936.59,2024-05-14,2026-03-01,Em execução,14
+P0133,Projeto de Investigação 133,DF,Portugal 2030,763156.13,2025-12-20,2029-02-21,Aprovado,27
+P0134,Projeto de Investigação 134,DEP,Fundação Calouste Gulbenkian,1081870.34,2022-06-26,2023-02-28,Aprovado,7
+P0135,Projeto de Investigação 135,DBIO,FCT,532901.0,2025-11-24,2028-07-11,Em execução,4
+P0136,Projeto de Investigação 136,DEP,Fundação Calouste Gulbenkian,1653969.86,2024-06-16,2025-05-26,Concluído,9
+P0137,Projeto de Investigação 137,DCM,PRR,584565.5,2025-03-26,2025-10-11,Aprovado,8
+P0138,Projeto de Investigação 138,DF,PRR,705135.02,2023-03-27,2026-03-03,Concluído,22
+P0139,Projeto de Investigação 139,DMAT,FCT,1551362.64,2025-03-25,2029-01-29,Concluído,19
+P0140,Projeto de Investigação 140,DLC,Portugal 2030,985587.11,2025-12-30,2028-10-15,Concluído,7
+P0141,Projeto de Investigação 141,DF,Fundação Calouste Gulbenkian,624742.63,2022-04-15,2025-08-01,Em execução,23
+P0142,Projeto de Investigação 142,DCM,Fundação Calouste Gulbenkian,285010.48,2021-01-31,2022-08-04,Aprovado,18
+P0143,Projeto de Investigação 143,DGEO,ERASMUS+,813962.58,2023-07-31,2027-04-04,Suspenso,12
+P0144,Projeto de Investigação 144,DBIO,ANI,2439654.35,2024-05-06,2027-01-09,Em execução,3
+P0145,Projeto de Investigação 145,DGEO,Fundação Calouste Gulbenkian,1857052.75,2025-01-30,2027-10-16,Em execução,10
+P0146,Projeto de Investigação 146,DCM,Horizon Europe,2433766.83,2022-05-20,2024-02-21,Em execução,22
+P0147,Projeto de Investigação 147,DMAT,FCT,1791258.48,2022-08-12,2025-03-08,Em execução,15
+P0148,Projeto de Investigação 148,DEGEIT,Portugal 2030,739876.57,2024-01-31,2024-09-06,Em execução,10
+P0149,Projeto de Investigação 149,DBIO,Portugal 2030,1843646.59,2022-02-12,2024-04-07,Aprovado,7
+P0150,Projeto de Investigação 150,DQ,ANI,1694244.66,2022-08-07,2025-07-26,Em execução,27
+P0151,Projeto de Investigação 151,DF,FCT,2229865.19,2021-05-21,2023-12-04,Em execução,25
+P0152,Projeto de Investigação 152,DCM,FCT,147811.66,2022-01-28,2024-09-18,Em execução,20
+P0153,Projeto de Investigação 153,DBIO,FCT,2429192.75,2023-11-29,2024-06-29,Em execução,22
+P0154,Projeto de Investigação 154,DEGEIT,ERASMUS+,1363088.57,2024-03-05,2024-11-13,Em execução,19
+P0155,Projeto de Investigação 155,DCM,ANI,523422.47,2022-06-10,2025-11-22,Aprovado,3
+P0156,Projeto de Investigação 156,DGEO,Horizon Europe,2452505.89,2024-01-08,2025-09-28,Em execução,21
+P0157,Projeto de Investigação 157,DEGEIT,Horizon Europe,1568766.36,2023-12-12,2024-06-10,Concluído,16
+P0158,Projeto de Investigação 158,DCM,ANI,906926.99,2024-10-31,2025-08-09,Em execução,8
+P0159,Projeto de Investigação 159,DMAT,ANI,263076.18,2022-07-30,2024-11-06,Em execução,26
+P0160,Projeto de Investigação 160,DCM,FCT,2214955.97,2021-10-20,2023-05-25,Concluído,17
+P0161,Projeto de Investigação 161,DETI,ERASMUS+,760691.17,2023-03-13,2023-12-19,Em execução,25
+P0162,Projeto de Investigação 162,DETI,ERASMUS+,1320648.31,2022-08-13,2023-02-22,Concluído,9
+P0163,Projeto de Investigação 163,DBIO,Fundação Calouste Gulbenkian,317291.53,2024-01-22,2025-10-15,Concluído,14
+P0164,Projeto de Investigação 164,DGEO,Portugal 2030,1913351.08,2025-05-03,2027-03-30,Concluído,22
+P0165,Projeto de Investigação 165,DF,Interreg,2061315.93,2021-12-22,2023-10-05,Em execução,10
+P0166,Projeto de Investigação 166,DEP,Fundação Calouste Gulbenkian,1789534.59,2022-11-09,2025-08-02,Em execução,3
+P0167,Projeto de Investigação 167,DF,ERASMUS+,1899777.69,2023-05-27,2024-01-08,Concluído,22
+P0168,Projeto de Investigação 168,DGEO,FCT,2078843.14,2021-09-21,2025-06-11,Concluído,10
+P0169,Projeto de Investigação 169,DCM,Horizon Europe,556115.42,2024-07-28,2025-07-10,Em execução,28
+P0170,Projeto de Investigação 170,DCM,PRR,1923721.58,2024-06-29,2027-12-17,Em execução,26
+P0171,Projeto de Investigação 171,DQ,Fundação Calouste Gulbenkian,2158072.01,2022-04-10,2023-04-25,Em execução,21
+P0172,Projeto de Investigação 172,DBIO,ERASMUS+,1170160.11,2025-03-07,2027-10-18,Concluído,15
+P0173,Projeto de Investigação 173,DF,Interreg,632346.0,2021-02-07,2024-02-09,Concluído,18
+P0174,Projeto de Investigação 174,DF,PRR,476353.11,2025-07-23,2029-02-22,Aprovado,25
+P0175,Projeto de Investigação 175,DBIO,Portugal 2030,2484733.16,2021-02-08,2024-06-19,Em execução,9
+P0176,Projeto de Investigação 176,DLC,Horizon Europe,2156199.09,2024-08-09,2028-05-03,Suspenso,23
+P0177,Projeto de Investigação 177,DCM,FCT,1989079.51,2024-10-26,2028-09-10,Suspenso,5
+P0178,Projeto de Investigação 178,DCM,FCT,725465.09,2024-06-14,2028-04-02,Em execução,20
+P0179,Projeto de Investigação 179,DBIO,ERASMUS+,2141883.98,2024-12-31,2026-12-17,Concluído,27
+P0180,Projeto de Investigação 180,DLC,ERASMUS+,588716.5,2022-05-15,2025-03-12,Em execução,3

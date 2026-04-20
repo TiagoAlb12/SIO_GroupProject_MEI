@@ -1,0 +1,1201 @@
+ria_id,titulo,tipo_publicacao,departamento,data_publicacao,ano_publicacao,autores_numero,downloads,citacoes,licenca_acesso
+RIA00001,Publicação Científica 0001,Dissertação,DETI,2021-01-25,2021,3,5018,106,Open Access
+RIA00002,Publicação Científica 0002,Dissertação,DETI,2025-11-22,2025,4,2650,341,Open Access
+RIA00003,Publicação Científica 0003,Artigo,DEGEIT,2022-10-09,2022,9,5590,27,Restrito
+RIA00004,Publicação Científica 0004,Artigo,DBIO,2020-05-29,2020,1,241,89,Open Access
+RIA00005,Publicação Científica 0005,Relatório,DEP,2023-03-08,2023,9,7932,310,Restrito
+RIA00006,Publicação Científica 0006,Dissertação,DF,2020-11-19,2020,9,1502,447,Restrito
+RIA00007,Publicação Científica 0007,Tese,DBIO,2022-03-06,2022,2,7989,64,Embargado
+RIA00008,Publicação Científica 0008,Tese,DBIO,2024-10-24,2024,8,8669,319,Open Access
+RIA00009,Publicação Científica 0009,Dissertação,DGEO,2018-01-10,2018,7,11884,219,Open Access
+RIA00010,Publicação Científica 0010,Capítulo,DF,2025-05-02,2025,8,8084,255,Open Access
+RIA00011,Publicação Científica 0011,Dissertação,DMAT,2024-07-17,2024,6,5316,43,Embargado
+RIA00012,Publicação Científica 0012,Artigo,DETI,2018-04-26,2018,7,4017,395,Embargado
+RIA00013,Publicação Científica 0013,Tese,DQ,2025-08-06,2025,2,7430,121,Embargado
+RIA00014,Publicação Científica 0014,Capítulo,DETI,2025-03-23,2025,3,6570,226,Embargado
+RIA00015,Publicação Científica 0015,Artigo,DEGEIT,2022-09-25,2022,2,6937,141,Restrito
+RIA00016,Publicação Científica 0016,Dissertação,DLC,2021-02-23,2021,4,4768,427,Open Access
+RIA00017,Publicação Científica 0017,Artigo,DLC,2022-04-07,2022,5,10666,253,Restrito
+RIA00018,Publicação Científica 0018,Artigo,DQ,2019-12-06,2019,7,2839,37,Embargado
+RIA00019,Publicação Científica 0019,Tese,DLC,2023-07-22,2023,8,8612,144,Open Access
+RIA00020,Publicação Científica 0020,Artigo,DQ,2018-11-17,2018,6,9849,257,Restrito
+RIA00021,Publicação Científica 0021,Tese,DQ,2021-12-20,2021,4,10261,159,Embargado
+RIA00022,Publicação Científica 0022,Dissertação,DGEO,2019-02-25,2019,8,6184,301,Open Access
+RIA00023,Publicação Científica 0023,Artigo,DLC,2020-08-30,2020,1,9523,120,Embargado
+RIA00024,Publicação Científica 0024,Artigo,DMAT,2025-10-22,2025,7,8875,434,Embargado
+RIA00025,Publicação Científica 0025,Artigo,DMAT,2023-10-30,2023,9,5878,183,Open Access
+RIA00026,Publicação Científica 0026,Artigo,DQ,2021-11-23,2021,8,9275,3,Open Access
+RIA00027,Publicação Científica 0027,Artigo,DEP,2020-12-09,2020,4,11088,338,Embargado
+RIA00028,Publicação Científica 0028,Artigo,DEP,2023-01-04,2023,8,1396,354,Open Access
+RIA00029,Publicação Científica 0029,Artigo,DBIO,2020-12-16,2020,6,11542,342,Restrito
+RIA00030,Publicação Científica 0030,Artigo,DCM,2019-07-13,2019,5,4219,123,Embargado
+RIA00031,Publicação Científica 0031,Capítulo,DBIO,2025-12-27,2025,1,5694,360,Open Access
+RIA00032,Publicação Científica 0032,Artigo,DMAT,2025-07-21,2025,4,9270,328,Embargado
+RIA00033,Publicação Científica 0033,Dissertação,DLC,2019-12-28,2019,7,9526,404,Open Access
+RIA00034,Publicação Científica 0034,Artigo,DQ,2022-12-28,2022,6,8563,390,Restrito
+RIA00035,Publicação Científica 0035,Artigo,DETI,2023-07-29,2023,8,489,350,Open Access
+RIA00036,Publicação Científica 0036,Artigo,DLC,2018-08-08,2018,7,4247,180,Embargado
+RIA00037,Publicação Científica 0037,Artigo,DGEO,2018-10-01,2018,2,7910,147,Embargado
+RIA00038,Publicação Científica 0038,Artigo,DQ,2019-03-25,2019,3,8995,217,Embargado
+RIA00039,Publicação Científica 0039,Relatório,DEP,2026-03-22,2026,5,7862,141,Embargado
+RIA00040,Publicação Científica 0040,Artigo,DCM,2023-11-17,2023,7,4808,161,Open Access
+RIA00041,Publicação Científica 0041,Capítulo,DBIO,2019-05-28,2019,8,5010,31,Open Access
+RIA00042,Publicação Científica 0042,Capítulo,DF,2023-03-22,2023,1,1478,155,Restrito
+RIA00043,Publicação Científica 0043,Artigo,DBIO,2023-09-12,2023,1,6380,256,Embargado
+RIA00044,Publicação Científica 0044,Artigo,DEP,2023-12-25,2023,9,11010,250,Restrito
+RIA00045,Publicação Científica 0045,Artigo,DBIO,2024-02-07,2024,7,5718,176,Restrito
+RIA00046,Publicação Científica 0046,Artigo,DCM,2023-12-22,2023,6,8841,11,Embargado
+RIA00047,Publicação Científica 0047,Tese,DEP,2025-10-12,2025,6,2981,49,Open Access
+RIA00048,Publicação Científica 0048,Artigo,DETI,2023-07-10,2023,6,104,257,Restrito
+RIA00049,Publicação Científica 0049,Tese,DCM,2018-06-20,2018,3,4445,92,Open Access
+RIA00050,Publicação Científica 0050,Tese,DMAT,2025-07-21,2025,6,10145,199,Embargado
+RIA00051,Publicação Científica 0051,Capítulo,DEP,2018-06-01,2018,2,2719,31,Restrito
+RIA00052,Publicação Científica 0052,Relatório,DF,2024-04-05,2024,5,6948,106,Open Access
+RIA00053,Publicação Científica 0053,Artigo,DBIO,2019-06-29,2019,5,8941,215,Restrito
+RIA00054,Publicação Científica 0054,Artigo,DMAT,2021-10-10,2021,3,9986,240,Open Access
+RIA00055,Publicação Científica 0055,Artigo,DLC,2018-09-05,2018,1,4424,242,Open Access
+RIA00056,Publicação Científica 0056,Artigo,DGEO,2022-01-10,2022,5,654,173,Open Access
+RIA00057,Publicação Científica 0057,Capítulo,DBIO,2018-08-30,2018,2,11100,189,Embargado
+RIA00058,Publicação Científica 0058,Capítulo,DGEO,2024-09-20,2024,9,9797,224,Restrito
+RIA00059,Publicação Científica 0059,Tese,DEGEIT,2025-06-02,2025,8,641,149,Open Access
+RIA00060,Publicação Científica 0060,Artigo,DEGEIT,2018-05-18,2018,1,660,351,Open Access
+RIA00061,Publicação Científica 0061,Dissertação,DMAT,2025-10-08,2025,6,4497,205,Embargado
+RIA00062,Publicação Científica 0062,Tese,DQ,2022-06-03,2022,3,2766,119,Open Access
+RIA00063,Publicação Científica 0063,Artigo,DETI,2020-04-14,2020,9,1949,261,Restrito
+RIA00064,Publicação Científica 0064,Artigo,DBIO,2019-12-07,2019,5,1072,44,Embargado
+RIA00065,Publicação Científica 0065,Artigo,DBIO,2019-10-17,2019,5,6680,238,Restrito
+RIA00066,Publicação Científica 0066,Dissertação,DEGEIT,2022-06-10,2022,2,1742,400,Embargado
+RIA00067,Publicação Científica 0067,Capítulo,DETI,2020-08-22,2020,1,4005,89,Embargado
+RIA00068,Publicação Científica 0068,Tese,DF,2019-03-16,2019,6,9878,37,Embargado
+RIA00069,Publicação Científica 0069,Artigo,DGEO,2022-10-05,2022,4,1741,103,Restrito
+RIA00070,Publicação Científica 0070,Relatório,DGEO,2021-01-02,2021,1,855,340,Embargado
+RIA00071,Publicação Científica 0071,Artigo,DMAT,2023-08-03,2023,9,11590,91,Open Access
+RIA00072,Publicação Científica 0072,Artigo,DEP,2022-03-26,2022,8,100,223,Embargado
+RIA00073,Publicação Científica 0073,Dissertação,DBIO,2022-02-09,2022,2,3527,136,Embargado
+RIA00074,Publicação Científica 0074,Artigo,DEP,2025-09-04,2025,8,3063,431,Open Access
+RIA00075,Publicação Científica 0075,Artigo,DF,2022-04-16,2022,3,2816,450,Embargado
+RIA00076,Publicação Científica 0076,Artigo,DEP,2019-07-18,2019,9,8198,259,Restrito
+RIA00077,Publicação Científica 0077,Tese,DEP,2025-10-26,2025,3,8448,278,Embargado
+RIA00078,Publicação Científica 0078,Tese,DLC,2018-05-02,2018,8,7559,411,Restrito
+RIA00079,Publicação Científica 0079,Dissertação,DETI,2018-11-28,2018,7,2502,234,Open Access
+RIA00080,Publicação Científica 0080,Artigo,DBIO,2022-01-14,2022,6,9193,42,Restrito
+RIA00081,Publicação Científica 0081,Artigo,DQ,2023-01-02,2023,2,2775,260,Open Access
+RIA00082,Publicação Científica 0082,Tese,DETI,2019-04-25,2019,6,145,289,Embargado
+RIA00083,Publicação Científica 0083,Tese,DCM,2022-05-19,2022,5,8010,286,Restrito
+RIA00084,Publicação Científica 0084,Dissertação,DBIO,2021-03-13,2021,3,1840,85,Embargado
+RIA00085,Publicação Científica 0085,Artigo,DQ,2020-11-15,2020,5,146,348,Open Access
+RIA00086,Publicação Científica 0086,Dissertação,DQ,2023-05-22,2023,4,5976,57,Embargado
+RIA00087,Publicação Científica 0087,Dissertação,DBIO,2021-07-26,2021,7,6237,202,Restrito
+RIA00088,Publicação Científica 0088,Relatório,DF,2025-06-12,2025,5,5664,81,Open Access
+RIA00089,Publicação Científica 0089,Artigo,DEP,2020-07-16,2020,2,3507,317,Restrito
+RIA00090,Publicação Científica 0090,Tese,DEP,2023-12-04,2023,5,940,165,Embargado
+RIA00091,Publicação Científica 0091,Artigo,DF,2018-12-16,2018,2,5368,428,Open Access
+RIA00092,Publicação Científica 0092,Dissertação,DBIO,2024-03-08,2024,3,4425,269,Open Access
+RIA00093,Publicação Científica 0093,Tese,DGEO,2026-02-24,2026,6,268,331,Embargado
+RIA00094,Publicação Científica 0094,Relatório,DCM,2018-07-04,2018,4,7622,331,Open Access
+RIA00095,Publicação Científica 0095,Relatório,DMAT,2019-10-04,2019,3,159,48,Restrito
+RIA00096,Publicação Científica 0096,Capítulo,DMAT,2018-08-18,2018,3,928,400,Open Access
+RIA00097,Publicação Científica 0097,Relatório,DEP,2021-07-21,2021,3,6858,345,Embargado
+RIA00098,Publicação Científica 0098,Artigo,DLC,2019-02-25,2019,1,5948,130,Restrito
+RIA00099,Publicação Científica 0099,Dissertação,DGEO,2023-10-09,2023,3,1486,105,Embargado
+RIA00100,Publicação Científica 0100,Artigo,DQ,2024-07-26,2024,5,7173,233,Open Access
+RIA00101,Publicação Científica 0101,Artigo,DEGEIT,2018-11-17,2018,9,3000,75,Restrito
+RIA00102,Publicação Científica 0102,Artigo,DLC,2023-08-18,2023,8,3478,403,Open Access
+RIA00103,Publicação Científica 0103,Artigo,DBIO,2023-02-25,2023,7,8546,82,Restrito
+RIA00104,Publicação Científica 0104,Artigo,DGEO,2022-12-18,2022,5,6625,341,Open Access
+RIA00105,Publicação Científica 0105,Tese,DQ,2019-04-11,2019,3,3243,83,Restrito
+RIA00106,Publicação Científica 0106,Artigo,DLC,2020-06-27,2020,7,9302,170,Embargado
+RIA00107,Publicação Científica 0107,Dissertação,DQ,2025-03-14,2025,6,9030,85,Restrito
+RIA00108,Publicação Científica 0108,Artigo,DBIO,2023-04-28,2023,4,3360,52,Restrito
+RIA00109,Publicação Científica 0109,Artigo,DETI,2020-06-01,2020,1,7385,308,Embargado
+RIA00110,Publicação Científica 0110,Tese,DCM,2024-04-15,2024,1,6827,288,Open Access
+RIA00111,Publicação Científica 0111,Tese,DF,2025-09-18,2025,9,11497,132,Restrito
+RIA00112,Publicação Científica 0112,Artigo,DGEO,2022-08-15,2022,9,341,72,Open Access
+RIA00113,Publicação Científica 0113,Relatório,DBIO,2018-09-26,2018,9,738,333,Open Access
+RIA00114,Publicação Científica 0114,Artigo,DEGEIT,2024-04-15,2024,9,7544,328,Open Access
+RIA00115,Publicação Científica 0115,Relatório,DGEO,2023-12-26,2023,5,2129,377,Embargado
+RIA00116,Publicação Científica 0116,Artigo,DQ,2018-03-14,2018,3,550,157,Embargado
+RIA00117,Publicação Científica 0117,Artigo,DEP,2019-03-17,2019,5,8200,318,Open Access
+RIA00118,Publicação Científica 0118,Tese,DEP,2021-04-23,2021,4,7118,199,Open Access
+RIA00119,Publicação Científica 0119,Artigo,DLC,2024-07-05,2024,7,8214,246,Restrito
+RIA00120,Publicação Científica 0120,Tese,DETI,2020-11-28,2020,2,8271,337,Restrito
+RIA00121,Publicação Científica 0121,Artigo,DGEO,2021-04-04,2021,2,1445,326,Open Access
+RIA00122,Publicação Científica 0122,Artigo,DQ,2024-06-16,2024,9,11208,411,Restrito
+RIA00123,Publicação Científica 0123,Artigo,DQ,2021-08-23,2021,4,7794,383,Embargado
+RIA00124,Publicação Científica 0124,Dissertação,DEP,2019-05-21,2019,6,5305,74,Restrito
+RIA00125,Publicação Científica 0125,Artigo,DEGEIT,2018-12-14,2018,4,1102,381,Open Access
+RIA00126,Publicação Científica 0126,Dissertação,DEP,2019-03-28,2019,6,9135,81,Embargado
+RIA00127,Publicação Científica 0127,Capítulo,DEP,2021-02-02,2021,1,930,77,Open Access
+RIA00128,Publicação Científica 0128,Tese,DMAT,2019-03-07,2019,5,103,271,Embargado
+RIA00129,Publicação Científica 0129,Relatório,DGEO,2019-10-09,2019,8,7209,191,Restrito
+RIA00130,Publicação Científica 0130,Artigo,DCM,2019-04-23,2019,5,10813,253,Embargado
+RIA00131,Publicação Científica 0131,Artigo,DMAT,2022-09-19,2022,4,928,402,Restrito
+RIA00132,Publicação Científica 0132,Tese,DGEO,2019-06-30,2019,8,3820,26,Embargado
+RIA00133,Publicação Científica 0133,Relatório,DCM,2021-03-19,2021,2,9107,385,Restrito
+RIA00134,Publicação Científica 0134,Artigo,DETI,2021-09-29,2021,6,3514,159,Open Access
+RIA00135,Publicação Científica 0135,Artigo,DGEO,2020-11-09,2020,4,7685,435,Embargado
+RIA00136,Publicação Científica 0136,Artigo,DETI,2022-01-11,2022,2,5170,97,Embargado
+RIA00137,Publicação Científica 0137,Artigo,DLC,2018-06-03,2018,6,1496,147,Open Access
+RIA00138,Publicação Científica 0138,Artigo,DQ,2023-10-29,2023,6,4726,43,Restrito
+RIA00139,Publicação Científica 0139,Artigo,DGEO,2024-01-13,2024,2,2765,353,Open Access
+RIA00140,Publicação Científica 0140,Capítulo,DEGEIT,2022-02-15,2022,4,5032,265,Open Access
+RIA00141,Publicação Científica 0141,Capítulo,DEGEIT,2025-02-23,2025,4,3197,413,Embargado
+RIA00142,Publicação Científica 0142,Artigo,DETI,2022-10-10,2022,5,10550,149,Open Access
+RIA00143,Publicação Científica 0143,Artigo,DEP,2021-08-07,2021,7,11530,236,Open Access
+RIA00144,Publicação Científica 0144,Capítulo,DMAT,2022-10-05,2022,6,2328,62,Restrito
+RIA00145,Publicação Científica 0145,Artigo,DBIO,2025-11-13,2025,2,477,68,Restrito
+RIA00146,Publicação Científica 0146,Artigo,DMAT,2024-02-17,2024,1,4956,205,Open Access
+RIA00147,Publicação Científica 0147,Artigo,DMAT,2020-12-15,2020,9,1217,388,Restrito
+RIA00148,Publicação Científica 0148,Artigo,DEP,2022-09-28,2022,3,11684,283,Open Access
+RIA00149,Publicação Científica 0149,Artigo,DMAT,2018-09-17,2018,3,3648,281,Embargado
+RIA00150,Publicação Científica 0150,Dissertação,DETI,2021-03-04,2021,4,8043,265,Restrito
+RIA00151,Publicação Científica 0151,Artigo,DEGEIT,2021-01-13,2021,5,3504,71,Restrito
+RIA00152,Publicação Científica 0152,Artigo,DMAT,2018-01-25,2018,6,6755,63,Restrito
+RIA00153,Publicação Científica 0153,Artigo,DETI,2019-07-27,2019,2,5389,37,Embargado
+RIA00154,Publicação Científica 0154,Artigo,DCM,2025-09-06,2025,7,339,68,Open Access
+RIA00155,Publicação Científica 0155,Dissertação,DLC,2020-05-07,2020,1,11998,71,Embargado
+RIA00156,Publicação Científica 0156,Dissertação,DLC,2021-10-27,2021,4,8823,189,Open Access
+RIA00157,Publicação Científica 0157,Capítulo,DEGEIT,2021-03-30,2021,9,8317,431,Restrito
+RIA00158,Publicação Científica 0158,Artigo,DQ,2023-10-02,2023,3,11192,74,Embargado
+RIA00159,Publicação Científica 0159,Artigo,DETI,2019-01-23,2019,4,8178,154,Embargado
+RIA00160,Publicação Científica 0160,Artigo,DEGEIT,2024-12-25,2024,5,5368,14,Open Access
+RIA00161,Publicação Científica 0161,Artigo,DEP,2021-06-16,2021,4,10915,376,Open Access
+RIA00162,Publicação Científica 0162,Dissertação,DEGEIT,2021-04-12,2021,1,10803,165,Open Access
+RIA00163,Publicação Científica 0163,Artigo,DBIO,2022-12-25,2022,7,5788,65,Open Access
+RIA00164,Publicação Científica 0164,Artigo,DEP,2019-02-17,2019,4,6362,105,Embargado
+RIA00165,Publicação Científica 0165,Artigo,DETI,2020-04-24,2020,6,2338,125,Restrito
+RIA00166,Publicação Científica 0166,Tese,DGEO,2024-11-27,2024,8,41,44,Restrito
+RIA00167,Publicação Científica 0167,Artigo,DLC,2024-09-07,2024,7,7320,414,Embargado
+RIA00168,Publicação Científica 0168,Dissertação,DLC,2024-12-31,2024,5,5182,73,Embargado
+RIA00169,Publicação Científica 0169,Artigo,DQ,2024-12-13,2024,5,3695,23,Restrito
+RIA00170,Publicação Científica 0170,Capítulo,DBIO,2024-08-14,2024,4,1925,118,Embargado
+RIA00171,Publicação Científica 0171,Relatório,DEGEIT,2022-05-27,2022,9,9509,188,Open Access
+RIA00172,Publicação Científica 0172,Artigo,DF,2021-05-20,2021,4,3642,213,Open Access
+RIA00173,Publicação Científica 0173,Tese,DEGEIT,2024-10-04,2024,9,4236,419,Embargado
+RIA00174,Publicação Científica 0174,Artigo,DGEO,2025-10-09,2025,6,11146,259,Restrito
+RIA00175,Publicação Científica 0175,Artigo,DQ,2022-07-15,2022,3,7673,419,Restrito
+RIA00176,Publicação Científica 0176,Relatório,DBIO,2025-05-23,2025,8,8886,186,Restrito
+RIA00177,Publicação Científica 0177,Artigo,DEGEIT,2023-10-21,2023,6,6629,285,Open Access
+RIA00178,Publicação Científica 0178,Artigo,DGEO,2020-01-12,2020,8,3763,349,Restrito
+RIA00179,Publicação Científica 0179,Artigo,DLC,2022-10-30,2022,3,1241,130,Open Access
+RIA00180,Publicação Científica 0180,Tese,DETI,2025-12-09,2025,6,5123,438,Open Access
+RIA00181,Publicação Científica 0181,Relatório,DEGEIT,2022-12-16,2022,2,10063,415,Open Access
+RIA00182,Publicação Científica 0182,Tese,DGEO,2020-02-11,2020,2,6808,377,Restrito
+RIA00183,Publicação Científica 0183,Capítulo,DBIO,2020-02-15,2020,1,1442,128,Embargado
+RIA00184,Publicação Científica 0184,Relatório,DLC,2025-04-13,2025,6,4534,96,Open Access
+RIA00185,Publicação Científica 0185,Relatório,DF,2021-12-20,2021,3,4997,246,Embargado
+RIA00186,Publicação Científica 0186,Artigo,DF,2023-08-04,2023,6,758,92,Restrito
+RIA00187,Publicação Científica 0187,Capítulo,DF,2023-12-04,2023,6,7562,321,Open Access
+RIA00188,Publicação Científica 0188,Artigo,DBIO,2024-03-09,2024,3,768,379,Restrito
+RIA00189,Publicação Científica 0189,Artigo,DETI,2023-08-23,2023,9,11668,1,Restrito
+RIA00190,Publicação Científica 0190,Artigo,DCM,2021-05-09,2021,9,11987,297,Restrito
+RIA00191,Publicação Científica 0191,Artigo,DMAT,2021-06-09,2021,7,1379,122,Embargado
+RIA00192,Publicação Científica 0192,Artigo,DGEO,2018-04-20,2018,3,8660,197,Open Access
+RIA00193,Publicação Científica 0193,Artigo,DQ,2019-07-11,2019,5,4369,111,Embargado
+RIA00194,Publicação Científica 0194,Artigo,DLC,2025-11-14,2025,7,1430,167,Open Access
+RIA00195,Publicação Científica 0195,Artigo,DBIO,2021-07-25,2021,6,6239,13,Open Access
+RIA00196,Publicação Científica 0196,Tese,DLC,2023-02-24,2023,5,2910,386,Restrito
+RIA00197,Publicação Científica 0197,Tese,DMAT,2023-10-29,2023,5,4163,179,Open Access
+RIA00198,Publicação Científica 0198,Dissertação,DLC,2020-10-22,2020,5,285,195,Embargado
+RIA00199,Publicação Científica 0199,Dissertação,DBIO,2019-10-31,2019,6,8193,124,Restrito
+RIA00200,Publicação Científica 0200,Artigo,DEP,2023-05-07,2023,2,11303,8,Embargado
+RIA00201,Publicação Científica 0201,Artigo,DMAT,2023-07-27,2023,2,1992,268,Open Access
+RIA00202,Publicação Científica 0202,Tese,DEP,2020-06-17,2020,3,7177,185,Restrito
+RIA00203,Publicação Científica 0203,Dissertação,DF,2019-07-18,2019,6,4209,365,Open Access
+RIA00204,Publicação Científica 0204,Tese,DMAT,2018-05-23,2018,3,1996,296,Open Access
+RIA00205,Publicação Científica 0205,Artigo,DLC,2019-04-04,2019,5,2209,350,Open Access
+RIA00206,Publicação Científica 0206,Tese,DCM,2024-07-28,2024,5,2214,22,Embargado
+RIA00207,Publicação Científica 0207,Relatório,DETI,2022-03-11,2022,4,3852,450,Open Access
+RIA00208,Publicação Científica 0208,Artigo,DCM,2025-06-26,2025,7,6984,113,Restrito
+RIA00209,Publicação Científica 0209,Tese,DEGEIT,2019-01-19,2019,7,5041,220,Open Access
+RIA00210,Publicação Científica 0210,Artigo,DLC,2026-02-04,2026,1,10642,115,Open Access
+RIA00211,Publicação Científica 0211,Artigo,DMAT,2023-09-05,2023,4,5485,235,Restrito
+RIA00212,Publicação Científica 0212,Artigo,DLC,2021-10-26,2021,1,4515,251,Open Access
+RIA00213,Publicação Científica 0213,Artigo,DF,2020-01-07,2020,2,2069,16,Restrito
+RIA00214,Publicação Científica 0214,Artigo,DF,2019-03-02,2019,5,2352,98,Restrito
+RIA00215,Publicação Científica 0215,Artigo,DF,2023-11-24,2023,6,2380,346,Open Access
+RIA00216,Publicação Científica 0216,Artigo,DBIO,2018-09-09,2018,4,4153,187,Open Access
+RIA00217,Publicação Científica 0217,Artigo,DCM,2023-08-04,2023,2,4197,200,Open Access
+RIA00218,Publicação Científica 0218,Artigo,DMAT,2025-05-25,2025,4,102,427,Embargado
+RIA00219,Publicação Científica 0219,Artigo,DQ,2018-06-19,2018,9,268,155,Open Access
+RIA00220,Publicação Científica 0220,Artigo,DGEO,2024-01-25,2024,8,4435,175,Restrito
+RIA00221,Publicação Científica 0221,Dissertação,DQ,2025-06-11,2025,3,8661,165,Embargado
+RIA00222,Publicação Científica 0222,Artigo,DCM,2021-07-31,2021,6,11266,119,Embargado
+RIA00223,Publicação Científica 0223,Relatório,DEGEIT,2020-07-15,2020,3,8822,3,Open Access
+RIA00224,Publicação Científica 0224,Dissertação,DLC,2025-11-03,2025,9,1636,416,Embargado
+RIA00225,Publicação Científica 0225,Tese,DF,2020-03-21,2020,2,5960,181,Open Access
+RIA00226,Publicação Científica 0226,Tese,DETI,2018-03-11,2018,2,8692,211,Embargado
+RIA00227,Publicação Científica 0227,Artigo,DQ,2022-07-18,2022,3,8673,194,Restrito
+RIA00228,Publicação Científica 0228,Artigo,DETI,2025-01-03,2025,5,570,14,Embargado
+RIA00229,Publicação Científica 0229,Dissertação,DEGEIT,2022-12-25,2022,2,2073,52,Open Access
+RIA00230,Publicação Científica 0230,Artigo,DETI,2019-07-04,2019,2,4142,241,Open Access
+RIA00231,Publicação Científica 0231,Artigo,DCM,2021-08-25,2021,4,7058,442,Embargado
+RIA00232,Publicação Científica 0232,Dissertação,DF,2023-08-19,2023,7,6326,60,Restrito
+RIA00233,Publicação Científica 0233,Relatório,DCM,2019-02-11,2019,5,1091,15,Restrito
+RIA00234,Publicação Científica 0234,Relatório,DLC,2025-07-02,2025,7,3322,333,Open Access
+RIA00235,Publicação Científica 0235,Tese,DEGEIT,2021-08-28,2021,2,4444,81,Restrito
+RIA00236,Publicação Científica 0236,Artigo,DEP,2019-12-16,2019,8,8529,439,Restrito
+RIA00237,Publicação Científica 0237,Artigo,DBIO,2021-04-26,2021,1,2625,274,Open Access
+RIA00238,Publicação Científica 0238,Tese,DETI,2022-09-10,2022,5,7064,190,Embargado
+RIA00239,Publicação Científica 0239,Relatório,DETI,2024-09-05,2024,8,6904,78,Open Access
+RIA00240,Publicação Científica 0240,Tese,DGEO,2022-06-14,2022,2,2914,208,Open Access
+RIA00241,Publicação Científica 0241,Tese,DF,2023-06-29,2023,3,1194,43,Restrito
+RIA00242,Publicação Científica 0242,Capítulo,DCM,2021-10-10,2021,6,10763,266,Restrito
+RIA00243,Publicação Científica 0243,Capítulo,DEP,2024-04-14,2024,6,1010,60,Embargado
+RIA00244,Publicação Científica 0244,Dissertação,DLC,2024-12-14,2024,8,3803,335,Embargado
+RIA00245,Publicação Científica 0245,Artigo,DCM,2024-09-09,2024,7,8825,93,Open Access
+RIA00246,Publicação Científica 0246,Artigo,DLC,2025-03-02,2025,2,4197,206,Open Access
+RIA00247,Publicação Científica 0247,Artigo,DEGEIT,2023-01-29,2023,8,11305,430,Embargado
+RIA00248,Publicação Científica 0248,Dissertação,DBIO,2021-06-16,2021,2,6328,442,Embargado
+RIA00249,Publicação Científica 0249,Artigo,DMAT,2023-02-08,2023,4,3792,435,Embargado
+RIA00250,Publicação Científica 0250,Dissertação,DGEO,2020-09-17,2020,4,8723,202,Open Access
+RIA00251,Publicação Científica 0251,Artigo,DF,2018-06-16,2018,3,9036,423,Open Access
+RIA00252,Publicação Científica 0252,Tese,DCM,2021-09-07,2021,9,1176,418,Restrito
+RIA00253,Publicação Científica 0253,Tese,DMAT,2020-11-13,2020,1,423,237,Restrito
+RIA00254,Publicação Científica 0254,Artigo,DQ,2022-07-29,2022,9,4843,309,Open Access
+RIA00255,Publicação Científica 0255,Artigo,DCM,2018-10-20,2018,9,6788,208,Open Access
+RIA00256,Publicação Científica 0256,Tese,DETI,2019-09-24,2019,5,11907,315,Open Access
+RIA00257,Publicação Científica 0257,Artigo,DEGEIT,2019-10-21,2019,1,9285,57,Embargado
+RIA00258,Publicação Científica 0258,Artigo,DEP,2024-12-21,2024,7,6618,69,Restrito
+RIA00259,Publicação Científica 0259,Artigo,DEP,2024-12-25,2024,6,1153,180,Open Access
+RIA00260,Publicação Científica 0260,Tese,DETI,2026-01-28,2026,1,10974,315,Open Access
+RIA00261,Publicação Científica 0261,Artigo,DCM,2019-02-24,2019,1,6114,412,Restrito
+RIA00262,Publicação Científica 0262,Artigo,DETI,2018-10-30,2018,9,436,40,Open Access
+RIA00263,Publicação Científica 0263,Artigo,DF,2018-04-11,2018,7,9712,201,Embargado
+RIA00264,Publicação Científica 0264,Tese,DBIO,2025-05-04,2025,2,11337,143,Restrito
+RIA00265,Publicação Científica 0265,Artigo,DCM,2018-05-12,2018,7,3360,155,Restrito
+RIA00266,Publicação Científica 0266,Artigo,DGEO,2026-03-28,2026,5,9904,378,Open Access
+RIA00267,Publicação Científica 0267,Artigo,DETI,2020-08-19,2020,7,1937,378,Embargado
+RIA00268,Publicação Científica 0268,Artigo,DETI,2019-12-26,2019,2,4405,326,Restrito
+RIA00269,Publicação Científica 0269,Artigo,DCM,2022-11-14,2022,2,3149,157,Restrito
+RIA00270,Publicação Científica 0270,Artigo,DMAT,2022-01-02,2022,5,2868,322,Open Access
+RIA00271,Publicação Científica 0271,Dissertação,DQ,2021-10-25,2021,3,6576,294,Restrito
+RIA00272,Publicação Científica 0272,Artigo,DF,2020-04-19,2020,8,11028,361,Embargado
+RIA00273,Publicação Científica 0273,Artigo,DBIO,2020-08-13,2020,1,3227,2,Restrito
+RIA00274,Publicação Científica 0274,Tese,DBIO,2025-04-03,2025,2,3492,265,Embargado
+RIA00275,Publicação Científica 0275,Artigo,DEGEIT,2022-08-23,2022,7,5389,10,Open Access
+RIA00276,Publicação Científica 0276,Capítulo,DMAT,2023-05-16,2023,3,6631,245,Restrito
+RIA00277,Publicação Científica 0277,Tese,DBIO,2024-11-01,2024,3,9715,78,Restrito
+RIA00278,Publicação Científica 0278,Dissertação,DLC,2025-11-24,2025,9,11665,132,Embargado
+RIA00279,Publicação Científica 0279,Capítulo,DGEO,2024-07-05,2024,9,5740,439,Restrito
+RIA00280,Publicação Científica 0280,Dissertação,DGEO,2018-04-23,2018,4,6428,92,Embargado
+RIA00281,Publicação Científica 0281,Capítulo,DGEO,2023-09-09,2023,1,778,49,Restrito
+RIA00282,Publicação Científica 0282,Tese,DEP,2022-06-19,2022,2,5765,273,Restrito
+RIA00283,Publicação Científica 0283,Artigo,DGEO,2023-07-27,2023,8,11741,322,Restrito
+RIA00284,Publicação Científica 0284,Artigo,DEP,2019-04-29,2019,8,9716,295,Restrito
+RIA00285,Publicação Científica 0285,Artigo,DBIO,2018-08-07,2018,8,3483,392,Open Access
+RIA00286,Publicação Científica 0286,Artigo,DGEO,2021-06-24,2021,7,7261,80,Open Access
+RIA00287,Publicação Científica 0287,Artigo,DCM,2024-10-29,2024,3,5118,177,Restrito
+RIA00288,Publicação Científica 0288,Artigo,DGEO,2018-07-09,2018,3,9237,385,Open Access
+RIA00289,Publicação Científica 0289,Dissertação,DETI,2019-04-08,2019,2,10437,206,Embargado
+RIA00290,Publicação Científica 0290,Capítulo,DCM,2025-10-24,2025,3,6491,339,Restrito
+RIA00291,Publicação Científica 0291,Artigo,DEP,2024-01-18,2024,9,5854,119,Embargado
+RIA00292,Publicação Científica 0292,Artigo,DETI,2024-10-01,2024,2,11559,240,Embargado
+RIA00293,Publicação Científica 0293,Capítulo,DEGEIT,2026-01-03,2026,6,8672,285,Restrito
+RIA00294,Publicação Científica 0294,Dissertação,DEP,2020-04-04,2020,8,11183,366,Restrito
+RIA00295,Publicação Científica 0295,Artigo,DEP,2022-12-26,2022,6,838,423,Embargado
+RIA00296,Publicação Científica 0296,Tese,DEP,2020-08-18,2020,6,2481,151,Restrito
+RIA00297,Publicação Científica 0297,Artigo,DGEO,2021-04-04,2021,3,5926,450,Restrito
+RIA00298,Publicação Científica 0298,Artigo,DEGEIT,2026-02-07,2026,3,10469,333,Restrito
+RIA00299,Publicação Científica 0299,Artigo,DEP,2018-04-02,2018,1,2939,358,Restrito
+RIA00300,Publicação Científica 0300,Artigo,DCM,2021-10-13,2021,8,11082,435,Embargado
+RIA00301,Publicação Científica 0301,Artigo,DGEO,2020-12-20,2020,7,6476,349,Open Access
+RIA00302,Publicação Científica 0302,Artigo,DBIO,2020-09-03,2020,6,5089,147,Embargado
+RIA00303,Publicação Científica 0303,Artigo,DEGEIT,2022-01-31,2022,1,3558,382,Restrito
+RIA00304,Publicação Científica 0304,Artigo,DLC,2024-06-18,2024,5,9150,312,Embargado
+RIA00305,Publicação Científica 0305,Artigo,DETI,2022-10-26,2022,2,5096,53,Open Access
+RIA00306,Publicação Científica 0306,Tese,DMAT,2025-11-10,2025,3,1199,369,Open Access
+RIA00307,Publicação Científica 0307,Relatório,DMAT,2020-06-09,2020,1,11333,236,Embargado
+RIA00308,Publicação Científica 0308,Artigo,DMAT,2019-02-25,2019,5,3218,391,Restrito
+RIA00309,Publicação Científica 0309,Artigo,DMAT,2022-06-19,2022,3,1404,419,Embargado
+RIA00310,Publicação Científica 0310,Artigo,DGEO,2020-09-01,2020,1,2495,123,Restrito
+RIA00311,Publicação Científica 0311,Artigo,DQ,2024-08-08,2024,5,7851,37,Restrito
+RIA00312,Publicação Científica 0312,Tese,DEGEIT,2021-12-20,2021,9,538,47,Restrito
+RIA00313,Publicação Científica 0313,Tese,DEP,2025-11-21,2025,9,1072,26,Open Access
+RIA00314,Publicação Científica 0314,Artigo,DF,2025-09-19,2025,4,352,438,Open Access
+RIA00315,Publicação Científica 0315,Artigo,DMAT,2021-12-29,2021,2,6382,385,Embargado
+RIA00316,Publicação Científica 0316,Artigo,DCM,2022-09-30,2022,8,3521,351,Open Access
+RIA00317,Publicação Científica 0317,Artigo,DQ,2021-01-05,2021,2,1328,215,Open Access
+RIA00318,Publicação Científica 0318,Artigo,DEP,2019-07-01,2019,1,280,108,Embargado
+RIA00319,Publicação Científica 0319,Artigo,DMAT,2019-08-25,2019,2,7223,144,Open Access
+RIA00320,Publicação Científica 0320,Tese,DLC,2023-12-10,2023,9,2443,222,Restrito
+RIA00321,Publicação Científica 0321,Relatório,DF,2023-12-03,2023,4,590,412,Embargado
+RIA00322,Publicação Científica 0322,Relatório,DEP,2018-01-10,2018,5,11195,406,Embargado
+RIA00323,Publicação Científica 0323,Tese,DLC,2018-05-09,2018,3,5356,265,Restrito
+RIA00324,Publicação Científica 0324,Artigo,DF,2021-04-28,2021,5,8453,19,Open Access
+RIA00325,Publicação Científica 0325,Artigo,DF,2018-10-06,2018,4,2015,389,Open Access
+RIA00326,Publicação Científica 0326,Artigo,DLC,2024-11-20,2024,7,3435,413,Open Access
+RIA00327,Publicação Científica 0327,Artigo,DBIO,2023-11-14,2023,7,983,328,Restrito
+RIA00328,Publicação Científica 0328,Artigo,DCM,2018-02-05,2018,4,3603,378,Open Access
+RIA00329,Publicação Científica 0329,Artigo,DEP,2021-02-21,2021,5,6356,178,Embargado
+RIA00330,Publicação Científica 0330,Relatório,DEP,2025-04-20,2025,1,5453,331,Embargado
+RIA00331,Publicação Científica 0331,Artigo,DF,2019-02-17,2019,9,7119,114,Embargado
+RIA00332,Publicação Científica 0332,Artigo,DEGEIT,2025-04-20,2025,8,4742,179,Embargado
+RIA00333,Publicação Científica 0333,Artigo,DGEO,2025-05-09,2025,6,9370,272,Embargado
+RIA00334,Publicação Científica 0334,Tese,DGEO,2025-11-09,2025,6,977,111,Open Access
+RIA00335,Publicação Científica 0335,Relatório,DLC,2021-02-04,2021,2,3464,417,Open Access
+RIA00336,Publicação Científica 0336,Relatório,DLC,2021-05-08,2021,5,9217,381,Restrito
+RIA00337,Publicação Científica 0337,Artigo,DEP,2018-07-04,2018,1,10107,143,Embargado
+RIA00338,Publicação Científica 0338,Dissertação,DEP,2020-08-11,2020,4,8888,354,Restrito
+RIA00339,Publicação Científica 0339,Artigo,DCM,2025-01-07,2025,1,9634,289,Restrito
+RIA00340,Publicação Científica 0340,Artigo,DQ,2021-11-03,2021,8,8004,41,Restrito
+RIA00341,Publicação Científica 0341,Artigo,DLC,2018-08-16,2018,9,9430,21,Embargado
+RIA00342,Publicação Científica 0342,Artigo,DEGEIT,2019-10-10,2019,3,10865,46,Open Access
+RIA00343,Publicação Científica 0343,Artigo,DQ,2026-01-24,2026,9,9479,53,Embargado
+RIA00344,Publicação Científica 0344,Artigo,DGEO,2024-02-12,2024,1,11767,274,Open Access
+RIA00345,Publicação Científica 0345,Tese,DETI,2025-10-30,2025,4,3033,350,Restrito
+RIA00346,Publicação Científica 0346,Artigo,DF,2026-01-07,2026,3,5914,245,Embargado
+RIA00347,Publicação Científica 0347,Tese,DLC,2020-01-23,2020,7,2821,241,Embargado
+RIA00348,Publicação Científica 0348,Artigo,DEGEIT,2022-01-17,2022,4,11358,338,Open Access
+RIA00349,Publicação Científica 0349,Tese,DF,2024-12-11,2024,2,631,228,Embargado
+RIA00350,Publicação Científica 0350,Tese,DCM,2021-09-19,2021,5,2276,334,Embargado
+RIA00351,Publicação Científica 0351,Dissertação,DF,2024-09-30,2024,5,8530,235,Embargado
+RIA00352,Publicação Científica 0352,Capítulo,DLC,2021-03-19,2021,6,5959,98,Embargado
+RIA00353,Publicação Científica 0353,Artigo,DEP,2025-08-06,2025,2,6334,255,Open Access
+RIA00354,Publicação Científica 0354,Artigo,DF,2024-03-10,2024,7,11015,317,Restrito
+RIA00355,Publicação Científica 0355,Artigo,DMAT,2019-08-27,2019,8,6569,342,Restrito
+RIA00356,Publicação Científica 0356,Capítulo,DEP,2025-07-10,2025,3,6600,356,Open Access
+RIA00357,Publicação Científica 0357,Capítulo,DETI,2019-11-01,2019,3,10318,387,Embargado
+RIA00358,Publicação Científica 0358,Tese,DLC,2021-12-17,2021,3,5118,56,Embargado
+RIA00359,Publicação Científica 0359,Artigo,DBIO,2024-09-27,2024,3,10255,106,Restrito
+RIA00360,Publicação Científica 0360,Tese,DCM,2023-12-07,2023,8,394,220,Embargado
+RIA00361,Publicação Científica 0361,Artigo,DGEO,2025-01-16,2025,6,207,273,Restrito
+RIA00362,Publicação Científica 0362,Artigo,DLC,2023-07-07,2023,4,6358,430,Restrito
+RIA00363,Publicação Científica 0363,Capítulo,DCM,2025-05-24,2025,4,9769,74,Embargado
+RIA00364,Publicação Científica 0364,Artigo,DGEO,2018-08-20,2018,1,2866,42,Embargado
+RIA00365,Publicação Científica 0365,Dissertação,DBIO,2023-05-11,2023,3,5377,385,Open Access
+RIA00366,Publicação Científica 0366,Artigo,DETI,2019-05-30,2019,6,11967,299,Embargado
+RIA00367,Publicação Científica 0367,Dissertação,DF,2024-06-27,2024,9,5085,80,Open Access
+RIA00368,Publicação Científica 0368,Artigo,DQ,2020-04-07,2020,1,9731,197,Restrito
+RIA00369,Publicação Científica 0369,Dissertação,DCM,2022-09-04,2022,6,6206,301,Open Access
+RIA00370,Publicação Científica 0370,Artigo,DLC,2025-03-18,2025,9,3860,450,Open Access
+RIA00371,Publicação Científica 0371,Tese,DQ,2018-04-01,2018,2,6502,203,Embargado
+RIA00372,Publicação Científica 0372,Relatório,DF,2022-01-09,2022,6,2016,245,Embargado
+RIA00373,Publicação Científica 0373,Artigo,DEP,2020-08-01,2020,5,9448,1,Embargado
+RIA00374,Publicação Científica 0374,Artigo,DCM,2023-04-04,2023,9,11662,270,Open Access
+RIA00375,Publicação Científica 0375,Dissertação,DBIO,2022-03-05,2022,6,1810,16,Restrito
+RIA00376,Publicação Científica 0376,Tese,DEGEIT,2019-07-04,2019,9,6613,328,Restrito
+RIA00377,Publicação Científica 0377,Capítulo,DLC,2025-03-12,2025,4,6225,297,Embargado
+RIA00378,Publicação Científica 0378,Artigo,DETI,2022-10-25,2022,8,3032,64,Embargado
+RIA00379,Publicação Científica 0379,Artigo,DCM,2021-07-22,2021,1,1646,3,Open Access
+RIA00380,Publicação Científica 0380,Tese,DBIO,2021-01-01,2021,5,5721,242,Embargado
+RIA00381,Publicação Científica 0381,Artigo,DF,2018-10-03,2018,1,6564,286,Open Access
+RIA00382,Publicação Científica 0382,Artigo,DLC,2024-12-27,2024,6,10061,263,Restrito
+RIA00383,Publicação Científica 0383,Dissertação,DGEO,2018-05-28,2018,3,11838,18,Embargado
+RIA00384,Publicação Científica 0384,Artigo,DEGEIT,2022-02-11,2022,5,3342,230,Restrito
+RIA00385,Publicação Científica 0385,Artigo,DEP,2022-12-14,2022,2,11017,409,Restrito
+RIA00386,Publicação Científica 0386,Tese,DEGEIT,2024-05-23,2024,4,2193,274,Open Access
+RIA00387,Publicação Científica 0387,Artigo,DCM,2023-07-18,2023,8,3478,395,Restrito
+RIA00388,Publicação Científica 0388,Artigo,DETI,2022-05-03,2022,9,1773,47,Embargado
+RIA00389,Publicação Científica 0389,Artigo,DEGEIT,2018-10-02,2018,3,1651,59,Embargado
+RIA00390,Publicação Científica 0390,Tese,DLC,2023-04-13,2023,1,5561,447,Restrito
+RIA00391,Publicação Científica 0391,Artigo,DQ,2020-12-06,2020,6,337,173,Open Access
+RIA00392,Publicação Científica 0392,Dissertação,DETI,2021-11-25,2021,3,9240,336,Open Access
+RIA00393,Publicação Científica 0393,Artigo,DGEO,2018-10-13,2018,8,11485,2,Restrito
+RIA00394,Publicação Científica 0394,Dissertação,DCM,2022-07-25,2022,2,10570,184,Open Access
+RIA00395,Publicação Científica 0395,Artigo,DEGEIT,2018-12-14,2018,6,9201,287,Open Access
+RIA00396,Publicação Científica 0396,Dissertação,DQ,2019-05-02,2019,2,3919,41,Restrito
+RIA00397,Publicação Científica 0397,Relatório,DCM,2020-11-02,2020,6,4339,360,Open Access
+RIA00398,Publicação Científica 0398,Artigo,DCM,2022-03-18,2022,8,9180,147,Embargado
+RIA00399,Publicação Científica 0399,Dissertação,DEGEIT,2025-10-19,2025,6,1835,265,Open Access
+RIA00400,Publicação Científica 0400,Artigo,DMAT,2020-06-12,2020,6,10134,151,Open Access
+RIA00401,Publicação Científica 0401,Artigo,DBIO,2024-08-13,2024,9,1347,152,Restrito
+RIA00402,Publicação Científica 0402,Artigo,DETI,2020-05-12,2020,2,7557,367,Open Access
+RIA00403,Publicação Científica 0403,Tese,DCM,2023-05-26,2023,4,372,397,Restrito
+RIA00404,Publicação Científica 0404,Tese,DMAT,2019-01-30,2019,8,7307,108,Open Access
+RIA00405,Publicação Científica 0405,Artigo,DEGEIT,2018-11-23,2018,9,4934,151,Restrito
+RIA00406,Publicação Científica 0406,Artigo,DQ,2020-11-01,2020,8,498,197,Open Access
+RIA00407,Publicação Científica 0407,Artigo,DLC,2019-06-04,2019,5,4886,214,Restrito
+RIA00408,Publicação Científica 0408,Tese,DLC,2018-09-13,2018,1,2964,185,Embargado
+RIA00409,Publicação Científica 0409,Artigo,DEGEIT,2022-03-01,2022,8,6957,225,Open Access
+RIA00410,Publicação Científica 0410,Dissertação,DETI,2018-02-01,2018,2,6946,79,Restrito
+RIA00411,Publicação Científica 0411,Artigo,DLC,2018-01-29,2018,2,8136,432,Embargado
+RIA00412,Publicação Científica 0412,Artigo,DLC,2018-01-01,2018,3,7169,225,Embargado
+RIA00413,Publicação Científica 0413,Tese,DF,2019-07-31,2019,2,3054,17,Open Access
+RIA00414,Publicação Científica 0414,Artigo,DF,2026-03-13,2026,5,2885,104,Open Access
+RIA00415,Publicação Científica 0415,Artigo,DEGEIT,2021-12-29,2021,4,10367,22,Restrito
+RIA00416,Publicação Científica 0416,Tese,DF,2018-08-30,2018,6,5066,226,Embargado
+RIA00417,Publicação Científica 0417,Artigo,DBIO,2021-01-07,2021,7,4676,98,Restrito
+RIA00418,Publicação Científica 0418,Artigo,DBIO,2025-04-02,2025,8,6107,43,Open Access
+RIA00419,Publicação Científica 0419,Artigo,DEGEIT,2025-01-21,2025,3,679,440,Open Access
+RIA00420,Publicação Científica 0420,Artigo,DLC,2022-06-03,2022,4,7642,125,Embargado
+RIA00421,Publicação Científica 0421,Artigo,DGEO,2019-10-07,2019,2,7897,369,Restrito
+RIA00422,Publicação Científica 0422,Capítulo,DLC,2026-03-02,2026,5,6263,447,Embargado
+RIA00423,Publicação Científica 0423,Capítulo,DCM,2023-08-26,2023,8,6333,262,Embargado
+RIA00424,Publicação Científica 0424,Capítulo,DLC,2019-10-18,2019,2,3003,143,Embargado
+RIA00425,Publicação Científica 0425,Tese,DGEO,2021-10-08,2021,9,10715,263,Open Access
+RIA00426,Publicação Científica 0426,Dissertação,DF,2020-03-27,2020,4,2114,65,Embargado
+RIA00427,Publicação Científica 0427,Tese,DF,2023-06-29,2023,7,9590,254,Embargado
+RIA00428,Publicação Científica 0428,Artigo,DMAT,2024-09-07,2024,3,1676,233,Open Access
+RIA00429,Publicação Científica 0429,Tese,DGEO,2020-04-06,2020,4,9726,234,Open Access
+RIA00430,Publicação Científica 0430,Dissertação,DEGEIT,2024-03-15,2024,2,2294,365,Open Access
+RIA00431,Publicação Científica 0431,Relatório,DLC,2022-05-21,2022,8,10981,410,Embargado
+RIA00432,Publicação Científica 0432,Tese,DCM,2019-06-18,2019,7,8069,148,Open Access
+RIA00433,Publicação Científica 0433,Relatório,DEP,2020-12-02,2020,2,84,417,Restrito
+RIA00434,Publicação Científica 0434,Capítulo,DF,2022-05-31,2022,7,10812,47,Embargado
+RIA00435,Publicação Científica 0435,Artigo,DEP,2023-07-03,2023,3,3534,418,Embargado
+RIA00436,Publicação Científica 0436,Artigo,DMAT,2021-05-24,2021,2,3411,194,Open Access
+RIA00437,Publicação Científica 0437,Capítulo,DMAT,2023-02-17,2023,2,10132,426,Restrito
+RIA00438,Publicação Científica 0438,Capítulo,DBIO,2018-02-24,2018,7,4581,69,Embargado
+RIA00439,Publicação Científica 0439,Artigo,DF,2024-05-10,2024,9,10149,167,Open Access
+RIA00440,Publicação Científica 0440,Tese,DF,2018-09-07,2018,9,90,81,Open Access
+RIA00441,Publicação Científica 0441,Capítulo,DEGEIT,2021-09-10,2021,5,7628,406,Open Access
+RIA00442,Publicação Científica 0442,Tese,DMAT,2024-10-07,2024,3,10600,390,Embargado
+RIA00443,Publicação Científica 0443,Artigo,DQ,2023-02-19,2023,5,293,77,Open Access
+RIA00444,Publicação Científica 0444,Dissertação,DCM,2022-02-23,2022,1,8410,435,Restrito
+RIA00445,Publicação Científica 0445,Artigo,DEP,2025-06-09,2025,8,10489,230,Restrito
+RIA00446,Publicação Científica 0446,Artigo,DETI,2018-05-13,2018,5,1323,301,Open Access
+RIA00447,Publicação Científica 0447,Artigo,DBIO,2020-08-07,2020,3,10016,426,Restrito
+RIA00448,Publicação Científica 0448,Artigo,DMAT,2021-06-13,2021,1,8433,440,Open Access
+RIA00449,Publicação Científica 0449,Artigo,DEP,2022-12-02,2022,1,6073,220,Embargado
+RIA00450,Publicação Científica 0450,Tese,DQ,2021-12-31,2021,9,7041,424,Embargado
+RIA00451,Publicação Científica 0451,Tese,DF,2020-04-26,2020,5,8609,421,Embargado
+RIA00452,Publicação Científica 0452,Tese,DQ,2019-12-07,2019,9,329,54,Embargado
+RIA00453,Publicação Científica 0453,Artigo,DQ,2019-08-18,2019,1,3555,398,Restrito
+RIA00454,Publicação Científica 0454,Relatório,DF,2018-10-23,2018,2,340,291,Restrito
+RIA00455,Publicação Científica 0455,Artigo,DBIO,2020-01-19,2020,3,2259,382,Open Access
+RIA00456,Publicação Científica 0456,Dissertação,DCM,2018-10-07,2018,9,10992,167,Restrito
+RIA00457,Publicação Científica 0457,Dissertação,DBIO,2023-04-23,2023,5,3055,219,Open Access
+RIA00458,Publicação Científica 0458,Dissertação,DBIO,2021-06-19,2021,9,4938,341,Open Access
+RIA00459,Publicação Científica 0459,Artigo,DEGEIT,2024-08-10,2024,8,130,194,Open Access
+RIA00460,Publicação Científica 0460,Artigo,DLC,2023-12-10,2023,6,402,220,Restrito
+RIA00461,Publicação Científica 0461,Artigo,DQ,2019-08-04,2019,2,11481,257,Open Access
+RIA00462,Publicação Científica 0462,Relatório,DLC,2025-01-10,2025,4,5723,389,Restrito
+RIA00463,Publicação Científica 0463,Relatório,DETI,2018-07-11,2018,8,1372,56,Restrito
+RIA00464,Publicação Científica 0464,Artigo,DCM,2018-10-04,2018,7,10217,201,Restrito
+RIA00465,Publicação Científica 0465,Tese,DCM,2018-05-07,2018,3,188,298,Open Access
+RIA00466,Publicação Científica 0466,Capítulo,DMAT,2025-03-11,2025,7,701,221,Restrito
+RIA00467,Publicação Científica 0467,Dissertação,DMAT,2025-02-15,2025,1,5201,228,Embargado
+RIA00468,Publicação Científica 0468,Artigo,DBIO,2020-10-30,2020,7,1466,293,Embargado
+RIA00469,Publicação Científica 0469,Artigo,DLC,2019-10-11,2019,9,7289,203,Embargado
+RIA00470,Publicação Científica 0470,Capítulo,DCM,2023-04-22,2023,4,3666,199,Open Access
+RIA00471,Publicação Científica 0471,Artigo,DEP,2018-12-02,2018,8,2938,49,Open Access
+RIA00472,Publicação Científica 0472,Tese,DEGEIT,2020-01-06,2020,2,1592,218,Restrito
+RIA00473,Publicação Científica 0473,Artigo,DGEO,2018-07-30,2018,4,10524,116,Embargado
+RIA00474,Publicação Científica 0474,Capítulo,DCM,2025-09-15,2025,1,8087,214,Open Access
+RIA00475,Publicação Científica 0475,Artigo,DCM,2018-10-16,2018,6,10840,265,Embargado
+RIA00476,Publicação Científica 0476,Tese,DEP,2022-05-14,2022,9,8174,159,Restrito
+RIA00477,Publicação Científica 0477,Artigo,DCM,2022-05-24,2022,8,10381,270,Embargado
+RIA00478,Publicação Científica 0478,Artigo,DGEO,2021-01-28,2021,4,4194,3,Open Access
+RIA00479,Publicação Científica 0479,Artigo,DETI,2021-04-07,2021,2,6991,60,Embargado
+RIA00480,Publicação Científica 0480,Artigo,DEP,2024-01-21,2024,9,8290,217,Embargado
+RIA00481,Publicação Científica 0481,Artigo,DBIO,2025-08-22,2025,5,572,160,Open Access
+RIA00482,Publicação Científica 0482,Artigo,DEP,2018-09-13,2018,5,11209,239,Open Access
+RIA00483,Publicação Científica 0483,Artigo,DF,2024-03-29,2024,7,3477,335,Restrito
+RIA00484,Publicação Científica 0484,Artigo,DEP,2022-10-08,2022,1,8117,446,Open Access
+RIA00485,Publicação Científica 0485,Tese,DETI,2020-12-02,2020,4,130,173,Restrito
+RIA00486,Publicação Científica 0486,Artigo,DCM,2025-02-19,2025,2,5055,238,Embargado
+RIA00487,Publicação Científica 0487,Artigo,DF,2024-04-23,2024,3,10057,42,Open Access
+RIA00488,Publicação Científica 0488,Artigo,DQ,2024-10-18,2024,5,7512,168,Embargado
+RIA00489,Publicação Científica 0489,Tese,DGEO,2021-01-29,2021,8,1137,401,Embargado
+RIA00490,Publicação Científica 0490,Artigo,DEGEIT,2023-07-16,2023,2,585,50,Open Access
+RIA00491,Publicação Científica 0491,Artigo,DCM,2021-03-04,2021,8,2762,86,Restrito
+RIA00492,Publicação Científica 0492,Artigo,DGEO,2024-09-20,2024,3,7982,157,Embargado
+RIA00493,Publicação Científica 0493,Artigo,DF,2018-02-05,2018,7,4482,7,Open Access
+RIA00494,Publicação Científica 0494,Artigo,DF,2023-01-23,2023,7,5955,184,Open Access
+RIA00495,Publicação Científica 0495,Artigo,DLC,2020-04-09,2020,3,9025,283,Restrito
+RIA00496,Publicação Científica 0496,Artigo,DQ,2020-06-15,2020,4,5031,165,Restrito
+RIA00497,Publicação Científica 0497,Artigo,DBIO,2025-07-02,2025,2,4210,370,Open Access
+RIA00498,Publicação Científica 0498,Tese,DQ,2021-08-21,2021,6,5411,93,Open Access
+RIA00499,Publicação Científica 0499,Tese,DQ,2023-01-28,2023,5,5741,449,Open Access
+RIA00500,Publicação Científica 0500,Capítulo,DEP,2024-07-23,2024,2,9633,53,Embargado
+RIA00501,Publicação Científica 0501,Artigo,DF,2025-09-15,2025,8,4943,86,Restrito
+RIA00502,Publicação Científica 0502,Tese,DEP,2018-12-21,2018,5,1211,359,Embargado
+RIA00503,Publicação Científica 0503,Capítulo,DF,2022-02-01,2022,1,8114,148,Restrito
+RIA00504,Publicação Científica 0504,Tese,DEP,2019-05-11,2019,8,8119,192,Restrito
+RIA00505,Publicação Científica 0505,Artigo,DMAT,2024-12-22,2024,4,9432,376,Embargado
+RIA00506,Publicação Científica 0506,Artigo,DQ,2023-08-20,2023,1,2123,392,Restrito
+RIA00507,Publicação Científica 0507,Dissertação,DLC,2023-10-18,2023,6,4685,344,Embargado
+RIA00508,Publicação Científica 0508,Artigo,DBIO,2023-12-12,2023,7,10713,445,Embargado
+RIA00509,Publicação Científica 0509,Artigo,DBIO,2019-02-18,2019,1,6603,261,Embargado
+RIA00510,Publicação Científica 0510,Artigo,DETI,2020-03-13,2020,3,6430,69,Restrito
+RIA00511,Publicação Científica 0511,Artigo,DGEO,2021-06-29,2021,3,314,363,Embargado
+RIA00512,Publicação Científica 0512,Artigo,DETI,2024-12-01,2024,3,3709,403,Embargado
+RIA00513,Publicação Científica 0513,Artigo,DEGEIT,2020-10-01,2020,5,2643,240,Restrito
+RIA00514,Publicação Científica 0514,Artigo,DCM,2020-01-21,2020,3,5450,110,Restrito
+RIA00515,Publicação Científica 0515,Artigo,DLC,2025-05-17,2025,4,889,303,Open Access
+RIA00516,Publicação Científica 0516,Artigo,DCM,2018-09-16,2018,5,6092,411,Restrito
+RIA00517,Publicação Científica 0517,Artigo,DQ,2021-07-05,2021,1,3230,353,Embargado
+RIA00518,Publicação Científica 0518,Relatório,DQ,2024-01-07,2024,2,8459,92,Embargado
+RIA00519,Publicação Científica 0519,Artigo,DCM,2023-08-22,2023,6,3178,320,Open Access
+RIA00520,Publicação Científica 0520,Artigo,DEGEIT,2019-09-28,2019,2,11352,231,Open Access
+RIA00521,Publicação Científica 0521,Artigo,DEP,2019-06-23,2019,5,1343,134,Embargado
+RIA00522,Publicação Científica 0522,Artigo,DETI,2021-11-02,2021,9,1219,19,Restrito
+RIA00523,Publicação Científica 0523,Artigo,DBIO,2019-12-10,2019,1,10100,92,Restrito
+RIA00524,Publicação Científica 0524,Artigo,DBIO,2019-09-23,2019,4,9903,112,Open Access
+RIA00525,Publicação Científica 0525,Relatório,DEGEIT,2020-06-17,2020,2,4380,431,Restrito
+RIA00526,Publicação Científica 0526,Artigo,DBIO,2019-04-17,2019,9,2383,280,Embargado
+RIA00527,Publicação Científica 0527,Relatório,DLC,2019-11-29,2019,3,8764,44,Restrito
+RIA00528,Publicação Científica 0528,Capítulo,DCM,2018-08-13,2018,4,8910,87,Restrito
+RIA00529,Publicação Científica 0529,Artigo,DMAT,2021-07-07,2021,5,504,286,Embargado
+RIA00530,Publicação Científica 0530,Artigo,DLC,2025-11-29,2025,8,8726,291,Embargado
+RIA00531,Publicação Científica 0531,Artigo,DGEO,2022-01-06,2022,6,11461,301,Restrito
+RIA00532,Publicação Científica 0532,Artigo,DF,2022-06-12,2022,9,11875,93,Open Access
+RIA00533,Publicação Científica 0533,Relatório,DMAT,2024-11-24,2024,5,5800,315,Embargado
+RIA00534,Publicação Científica 0534,Tese,DEP,2020-04-26,2020,3,4136,237,Restrito
+RIA00535,Publicação Científica 0535,Relatório,DGEO,2022-08-18,2022,4,1536,173,Embargado
+RIA00536,Publicação Científica 0536,Artigo,DEGEIT,2019-06-22,2019,5,8362,304,Restrito
+RIA00537,Publicação Científica 0537,Capítulo,DQ,2022-08-15,2022,6,7792,66,Restrito
+RIA00538,Publicação Científica 0538,Artigo,DMAT,2020-02-19,2020,5,5118,146,Open Access
+RIA00539,Publicação Científica 0539,Artigo,DF,2024-05-14,2024,5,7868,240,Open Access
+RIA00540,Publicação Científica 0540,Artigo,DBIO,2019-05-31,2019,1,11483,393,Restrito
+RIA00541,Publicação Científica 0541,Dissertação,DF,2021-08-02,2021,5,9893,34,Open Access
+RIA00542,Publicação Científica 0542,Artigo,DF,2018-07-05,2018,5,10093,369,Embargado
+RIA00543,Publicação Científica 0543,Artigo,DGEO,2019-01-19,2019,2,76,270,Restrito
+RIA00544,Publicação Científica 0544,Artigo,DGEO,2025-01-25,2025,2,605,262,Restrito
+RIA00545,Publicação Científica 0545,Capítulo,DEGEIT,2021-08-08,2021,5,5667,137,Restrito
+RIA00546,Publicação Científica 0546,Artigo,DEGEIT,2024-11-30,2024,6,1528,389,Embargado
+RIA00547,Publicação Científica 0547,Artigo,DQ,2025-03-02,2025,5,574,14,Restrito
+RIA00548,Publicação Científica 0548,Dissertação,DBIO,2022-12-10,2022,9,5579,16,Embargado
+RIA00549,Publicação Científica 0549,Artigo,DETI,2024-04-23,2024,8,7276,364,Restrito
+RIA00550,Publicação Científica 0550,Relatório,DBIO,2018-04-06,2018,7,5653,199,Restrito
+RIA00551,Publicação Científica 0551,Relatório,DEP,2021-06-20,2021,8,7843,342,Restrito
+RIA00552,Publicação Científica 0552,Artigo,DEGEIT,2021-12-10,2021,6,1630,352,Open Access
+RIA00553,Publicação Científica 0553,Artigo,DF,2018-03-12,2018,9,11587,185,Restrito
+RIA00554,Publicação Científica 0554,Capítulo,DGEO,2021-09-01,2021,2,6499,388,Embargado
+RIA00555,Publicação Científica 0555,Artigo,DCM,2024-12-05,2024,1,9658,429,Embargado
+RIA00556,Publicação Científica 0556,Dissertação,DF,2024-09-05,2024,9,3383,158,Restrito
+RIA00557,Publicação Científica 0557,Artigo,DLC,2018-05-24,2018,3,10328,25,Embargado
+RIA00558,Publicação Científica 0558,Relatório,DQ,2020-01-06,2020,5,6331,37,Embargado
+RIA00559,Publicação Científica 0559,Artigo,DF,2022-10-29,2022,2,9327,323,Open Access
+RIA00560,Publicação Científica 0560,Artigo,DGEO,2018-11-10,2018,1,7161,312,Restrito
+RIA00561,Publicação Científica 0561,Artigo,DMAT,2019-04-11,2019,9,8268,223,Embargado
+RIA00562,Publicação Científica 0562,Artigo,DQ,2018-08-01,2018,7,2522,128,Restrito
+RIA00563,Publicação Científica 0563,Artigo,DGEO,2018-06-14,2018,1,2435,80,Open Access
+RIA00564,Publicação Científica 0564,Tese,DCM,2022-11-25,2022,7,4860,113,Embargado
+RIA00565,Publicação Científica 0565,Tese,DGEO,2025-05-28,2025,2,4037,180,Embargado
+RIA00566,Publicação Científica 0566,Relatório,DQ,2025-01-22,2025,5,7446,248,Embargado
+RIA00567,Publicação Científica 0567,Tese,DCM,2019-07-01,2019,5,2550,285,Open Access
+RIA00568,Publicação Científica 0568,Artigo,DLC,2024-09-17,2024,7,11359,113,Open Access
+RIA00569,Publicação Científica 0569,Dissertação,DQ,2018-05-03,2018,2,4200,387,Open Access
+RIA00570,Publicação Científica 0570,Dissertação,DQ,2020-12-24,2020,6,6471,7,Embargado
+RIA00571,Publicação Científica 0571,Artigo,DETI,2023-12-26,2023,2,10087,181,Restrito
+RIA00572,Publicação Científica 0572,Artigo,DF,2023-03-27,2023,6,6596,59,Open Access
+RIA00573,Publicação Científica 0573,Artigo,DETI,2024-09-21,2024,9,6654,260,Restrito
+RIA00574,Publicação Científica 0574,Artigo,DEGEIT,2022-09-07,2022,7,5534,127,Open Access
+RIA00575,Publicação Científica 0575,Artigo,DBIO,2019-12-22,2019,2,1913,396,Open Access
+RIA00576,Publicação Científica 0576,Artigo,DETI,2019-01-25,2019,1,2632,240,Open Access
+RIA00577,Publicação Científica 0577,Artigo,DBIO,2022-12-02,2022,7,4709,347,Embargado
+RIA00578,Publicação Científica 0578,Artigo,DGEO,2019-10-02,2019,1,7131,151,Open Access
+RIA00579,Publicação Científica 0579,Capítulo,DCM,2019-11-29,2019,5,8040,37,Open Access
+RIA00580,Publicação Científica 0580,Tese,DGEO,2024-10-27,2024,6,11239,348,Restrito
+RIA00581,Publicação Científica 0581,Tese,DBIO,2020-08-31,2020,4,11540,343,Restrito
+RIA00582,Publicação Científica 0582,Artigo,DF,2025-11-24,2025,6,4901,40,Embargado
+RIA00583,Publicação Científica 0583,Tese,DLC,2022-11-16,2022,1,6869,343,Open Access
+RIA00584,Publicação Científica 0584,Artigo,DMAT,2025-10-04,2025,7,8260,405,Restrito
+RIA00585,Publicação Científica 0585,Artigo,DCM,2018-05-08,2018,3,6959,354,Restrito
+RIA00586,Publicação Científica 0586,Capítulo,DEGEIT,2021-12-14,2021,7,2235,184,Restrito
+RIA00587,Publicação Científica 0587,Artigo,DEGEIT,2025-06-13,2025,3,9314,200,Embargado
+RIA00588,Publicação Científica 0588,Artigo,DETI,2018-02-03,2018,7,1608,330,Restrito
+RIA00589,Publicação Científica 0589,Tese,DEGEIT,2021-01-04,2021,6,4954,62,Open Access
+RIA00590,Publicação Científica 0590,Artigo,DF,2024-03-10,2024,7,2548,250,Open Access
+RIA00591,Publicação Científica 0591,Artigo,DETI,2021-05-14,2021,8,2092,120,Restrito
+RIA00592,Publicação Científica 0592,Artigo,DF,2022-06-26,2022,7,10194,96,Open Access
+RIA00593,Publicação Científica 0593,Artigo,DEP,2022-02-17,2022,2,9832,387,Open Access
+RIA00594,Publicação Científica 0594,Artigo,DQ,2024-11-08,2024,5,7461,163,Restrito
+RIA00595,Publicação Científica 0595,Tese,DCM,2020-11-14,2020,1,6459,262,Open Access
+RIA00596,Publicação Científica 0596,Artigo,DETI,2018-10-15,2018,1,11185,440,Open Access
+RIA00597,Publicação Científica 0597,Tese,DF,2021-03-04,2021,7,11902,131,Restrito
+RIA00598,Publicação Científica 0598,Artigo,DLC,2023-04-20,2023,5,5852,425,Open Access
+RIA00599,Publicação Científica 0599,Artigo,DETI,2023-06-01,2023,1,6439,355,Embargado
+RIA00600,Publicação Científica 0600,Artigo,DCM,2025-11-13,2025,1,1198,123,Embargado
+RIA00601,Publicação Científica 0601,Artigo,DF,2024-09-27,2024,3,1138,291,Embargado
+RIA00602,Publicação Científica 0602,Artigo,DGEO,2025-09-23,2025,2,5253,275,Open Access
+RIA00603,Publicação Científica 0603,Artigo,DEP,2023-10-19,2023,9,4387,396,Open Access
+RIA00604,Publicação Científica 0604,Artigo,DLC,2018-12-17,2018,3,3489,21,Restrito
+RIA00605,Publicação Científica 0605,Dissertação,DF,2022-06-26,2022,6,7332,338,Embargado
+RIA00606,Publicação Científica 0606,Artigo,DQ,2024-11-30,2024,2,10446,400,Embargado
+RIA00607,Publicação Científica 0607,Artigo,DEP,2023-02-02,2023,5,10519,41,Embargado
+RIA00608,Publicação Científica 0608,Tese,DEGEIT,2022-04-26,2022,7,5590,376,Open Access
+RIA00609,Publicação Científica 0609,Artigo,DEP,2025-04-23,2025,1,9481,395,Open Access
+RIA00610,Publicação Científica 0610,Artigo,DEGEIT,2019-05-20,2019,1,6071,450,Embargado
+RIA00611,Publicação Científica 0611,Artigo,DEP,2020-08-18,2020,1,11386,327,Open Access
+RIA00612,Publicação Científica 0612,Tese,DETI,2019-07-04,2019,3,3217,354,Open Access
+RIA00613,Publicação Científica 0613,Artigo,DCM,2023-09-21,2023,2,11301,99,Restrito
+RIA00614,Publicação Científica 0614,Dissertação,DF,2018-10-09,2018,4,8428,259,Open Access
+RIA00615,Publicação Científica 0615,Artigo,DEGEIT,2019-01-26,2019,1,5110,162,Open Access
+RIA00616,Publicação Científica 0616,Artigo,DCM,2020-05-04,2020,1,8030,352,Restrito
+RIA00617,Publicação Científica 0617,Artigo,DLC,2023-04-15,2023,8,10264,101,Embargado
+RIA00618,Publicação Científica 0618,Artigo,DQ,2022-03-28,2022,4,3244,29,Open Access
+RIA00619,Publicação Científica 0619,Artigo,DMAT,2021-08-17,2021,3,10767,315,Embargado
+RIA00620,Publicação Científica 0620,Dissertação,DEP,2018-01-08,2018,2,4550,398,Restrito
+RIA00621,Publicação Científica 0621,Dissertação,DETI,2020-01-16,2020,3,8609,222,Restrito
+RIA00622,Publicação Científica 0622,Tese,DEP,2019-03-15,2019,7,9302,248,Embargado
+RIA00623,Publicação Científica 0623,Tese,DQ,2020-09-13,2020,7,4166,130,Open Access
+RIA00624,Publicação Científica 0624,Dissertação,DGEO,2022-10-29,2022,5,2221,349,Open Access
+RIA00625,Publicação Científica 0625,Artigo,DGEO,2024-12-10,2024,4,11301,375,Embargado
+RIA00626,Publicação Científica 0626,Artigo,DBIO,2018-09-03,2018,2,4820,44,Restrito
+RIA00627,Publicação Científica 0627,Artigo,DBIO,2023-12-07,2023,8,11949,375,Restrito
+RIA00628,Publicação Científica 0628,Artigo,DQ,2023-02-10,2023,5,3204,280,Embargado
+RIA00629,Publicação Científica 0629,Artigo,DGEO,2025-06-25,2025,6,4157,38,Embargado
+RIA00630,Publicação Científica 0630,Artigo,DF,2019-11-05,2019,8,2314,285,Open Access
+RIA00631,Publicação Científica 0631,Artigo,DBIO,2023-03-30,2023,1,4299,277,Embargado
+RIA00632,Publicação Científica 0632,Capítulo,DEGEIT,2019-01-01,2019,7,11331,263,Embargado
+RIA00633,Publicação Científica 0633,Tese,DLC,2020-09-26,2020,8,7624,57,Embargado
+RIA00634,Publicação Científica 0634,Artigo,DMAT,2024-08-30,2024,5,4957,369,Embargado
+RIA00635,Publicação Científica 0635,Tese,DQ,2021-04-22,2021,1,3218,264,Open Access
+RIA00636,Publicação Científica 0636,Artigo,DQ,2024-11-10,2024,5,92,314,Embargado
+RIA00637,Publicação Científica 0637,Artigo,DEP,2024-04-07,2024,7,3215,395,Restrito
+RIA00638,Publicação Científica 0638,Artigo,DCM,2022-04-03,2022,2,9789,190,Open Access
+RIA00639,Publicação Científica 0639,Artigo,DGEO,2021-02-18,2021,9,9500,43,Restrito
+RIA00640,Publicação Científica 0640,Artigo,DEP,2024-07-11,2024,9,10863,148,Open Access
+RIA00641,Publicação Científica 0641,Tese,DETI,2024-10-16,2024,6,3316,39,Open Access
+RIA00642,Publicação Científica 0642,Artigo,DGEO,2019-11-13,2019,5,4982,381,Embargado
+RIA00643,Publicação Científica 0643,Tese,DBIO,2023-09-29,2023,5,3127,293,Embargado
+RIA00644,Publicação Científica 0644,Tese,DGEO,2018-11-30,2018,6,9431,306,Embargado
+RIA00645,Publicação Científica 0645,Dissertação,DF,2019-08-20,2019,5,6709,156,Open Access
+RIA00646,Publicação Científica 0646,Artigo,DEP,2020-09-30,2020,8,5668,277,Open Access
+RIA00647,Publicação Científica 0647,Dissertação,DBIO,2018-09-22,2018,3,6376,405,Open Access
+RIA00648,Publicação Científica 0648,Capítulo,DF,2024-09-01,2024,1,2918,433,Embargado
+RIA00649,Publicação Científica 0649,Artigo,DMAT,2019-02-13,2019,4,565,115,Restrito
+RIA00650,Publicação Científica 0650,Relatório,DLC,2018-02-14,2018,8,5806,183,Restrito
+RIA00651,Publicação Científica 0651,Artigo,DMAT,2021-02-16,2021,5,8715,213,Embargado
+RIA00652,Publicação Científica 0652,Dissertação,DBIO,2022-01-06,2022,1,1770,439,Open Access
+RIA00653,Publicação Científica 0653,Capítulo,DGEO,2024-03-19,2024,4,9827,208,Restrito
+RIA00654,Publicação Científica 0654,Capítulo,DBIO,2019-05-14,2019,3,9205,381,Open Access
+RIA00655,Publicação Científica 0655,Dissertação,DLC,2020-01-29,2020,8,4582,183,Restrito
+RIA00656,Publicação Científica 0656,Artigo,DBIO,2018-10-01,2018,1,9656,150,Embargado
+RIA00657,Publicação Científica 0657,Relatório,DETI,2022-10-12,2022,4,5830,101,Restrito
+RIA00658,Publicação Científica 0658,Artigo,DGEO,2022-09-10,2022,2,5771,96,Embargado
+RIA00659,Publicação Científica 0659,Artigo,DGEO,2022-02-11,2022,3,9553,80,Open Access
+RIA00660,Publicação Científica 0660,Artigo,DCM,2018-07-09,2018,4,5465,288,Open Access
+RIA00661,Publicação Científica 0661,Artigo,DBIO,2021-01-23,2021,7,8103,21,Restrito
+RIA00662,Publicação Científica 0662,Tese,DEGEIT,2024-08-06,2024,3,337,403,Open Access
+RIA00663,Publicação Científica 0663,Artigo,DQ,2021-12-31,2021,5,6391,333,Restrito
+RIA00664,Publicação Científica 0664,Capítulo,DQ,2018-12-11,2018,7,1792,264,Embargado
+RIA00665,Publicação Científica 0665,Artigo,DEGEIT,2023-03-09,2023,7,10411,90,Restrito
+RIA00666,Publicação Científica 0666,Artigo,DMAT,2019-03-26,2019,3,3081,240,Open Access
+RIA00667,Publicação Científica 0667,Capítulo,DCM,2019-08-30,2019,8,2472,263,Open Access
+RIA00668,Publicação Científica 0668,Artigo,DEP,2020-03-26,2020,1,8505,310,Restrito
+RIA00669,Publicação Científica 0669,Dissertação,DF,2018-09-06,2018,5,2602,304,Embargado
+RIA00670,Publicação Científica 0670,Artigo,DETI,2018-08-22,2018,3,10523,308,Embargado
+RIA00671,Publicação Científica 0671,Tese,DEP,2025-04-26,2025,8,10424,168,Restrito
+RIA00672,Publicação Científica 0672,Artigo,DQ,2025-04-22,2025,3,5056,314,Embargado
+RIA00673,Publicação Científica 0673,Artigo,DLC,2024-06-12,2024,4,6594,155,Restrito
+RIA00674,Publicação Científica 0674,Artigo,DQ,2025-08-15,2025,9,4767,273,Open Access
+RIA00675,Publicação Científica 0675,Artigo,DCM,2019-12-08,2019,8,3204,33,Embargado
+RIA00676,Publicação Científica 0676,Tese,DQ,2023-04-04,2023,2,5237,179,Restrito
+RIA00677,Publicação Científica 0677,Relatório,DCM,2025-03-13,2025,3,10825,54,Open Access
+RIA00678,Publicação Científica 0678,Artigo,DF,2020-01-11,2020,4,11531,251,Embargado
+RIA00679,Publicação Científica 0679,Tese,DQ,2019-12-28,2019,8,5641,387,Embargado
+RIA00680,Publicação Científica 0680,Artigo,DQ,2018-09-19,2018,3,11045,312,Embargado
+RIA00681,Publicação Científica 0681,Dissertação,DF,2019-06-04,2019,7,2423,49,Embargado
+RIA00682,Publicação Científica 0682,Artigo,DGEO,2021-12-12,2021,7,2171,43,Open Access
+RIA00683,Publicação Científica 0683,Dissertação,DETI,2022-01-19,2022,3,3910,108,Embargado
+RIA00684,Publicação Científica 0684,Capítulo,DEGEIT,2024-03-20,2024,9,9781,430,Open Access
+RIA00685,Publicação Científica 0685,Artigo,DLC,2024-02-23,2024,5,162,280,Open Access
+RIA00686,Publicação Científica 0686,Artigo,DETI,2024-08-31,2024,2,9535,300,Open Access
+RIA00687,Publicação Científica 0687,Relatório,DGEO,2018-11-20,2018,4,9370,350,Open Access
+RIA00688,Publicação Científica 0688,Artigo,DEGEIT,2025-05-07,2025,6,4196,224,Restrito
+RIA00689,Publicação Científica 0689,Artigo,DETI,2019-11-04,2019,6,7517,281,Open Access
+RIA00690,Publicação Científica 0690,Artigo,DF,2021-02-04,2021,8,2978,339,Embargado
+RIA00691,Publicação Científica 0691,Artigo,DEGEIT,2019-08-03,2019,1,11098,161,Open Access
+RIA00692,Publicação Científica 0692,Artigo,DCM,2021-12-21,2021,8,5978,182,Restrito
+RIA00693,Publicação Científica 0693,Artigo,DGEO,2021-04-25,2021,6,2523,398,Embargado
+RIA00694,Publicação Científica 0694,Artigo,DBIO,2022-10-20,2022,2,11375,95,Open Access
+RIA00695,Publicação Científica 0695,Artigo,DQ,2026-03-22,2026,6,3045,408,Open Access
+RIA00696,Publicação Científica 0696,Artigo,DQ,2019-03-25,2019,4,7828,443,Open Access
+RIA00697,Publicação Científica 0697,Tese,DMAT,2018-08-23,2018,8,3973,33,Restrito
+RIA00698,Publicação Científica 0698,Capítulo,DBIO,2021-04-17,2021,3,4087,76,Embargado
+RIA00699,Publicação Científica 0699,Artigo,DBIO,2018-09-17,2018,8,9200,299,Restrito
+RIA00700,Publicação Científica 0700,Artigo,DQ,2026-02-10,2026,5,2826,372,Embargado
+RIA00701,Publicação Científica 0701,Artigo,DEP,2023-05-04,2023,8,3253,427,Open Access
+RIA00702,Publicação Científica 0702,Artigo,DEGEIT,2021-03-22,2021,3,10852,292,Open Access
+RIA00703,Publicação Científica 0703,Relatório,DEGEIT,2018-02-13,2018,1,2816,32,Restrito
+RIA00704,Publicação Científica 0704,Dissertação,DMAT,2022-01-13,2022,9,1697,72,Embargado
+RIA00705,Publicação Científica 0705,Artigo,DF,2019-03-05,2019,5,5795,347,Embargado
+RIA00706,Publicação Científica 0706,Tese,DLC,2022-05-16,2022,5,6240,179,Embargado
+RIA00707,Publicação Científica 0707,Relatório,DMAT,2021-12-10,2021,7,2957,386,Embargado
+RIA00708,Publicação Científica 0708,Dissertação,DEGEIT,2018-07-05,2018,4,5074,150,Restrito
+RIA00709,Publicação Científica 0709,Artigo,DEGEIT,2020-02-19,2020,4,807,347,Embargado
+RIA00710,Publicação Científica 0710,Artigo,DETI,2024-03-17,2024,1,8715,185,Open Access
+RIA00711,Publicação Científica 0711,Artigo,DLC,2023-01-24,2023,7,953,33,Restrito
+RIA00712,Publicação Científica 0712,Artigo,DEP,2021-05-28,2021,9,4551,284,Embargado
+RIA00713,Publicação Científica 0713,Artigo,DETI,2024-02-21,2024,6,1447,445,Embargado
+RIA00714,Publicação Científica 0714,Artigo,DMAT,2026-03-13,2026,8,9205,393,Embargado
+RIA00715,Publicação Científica 0715,Artigo,DGEO,2025-04-16,2025,9,9725,238,Open Access
+RIA00716,Publicação Científica 0716,Relatório,DGEO,2020-02-10,2020,8,5957,255,Restrito
+RIA00717,Publicação Científica 0717,Tese,DGEO,2022-05-13,2022,9,6363,192,Restrito
+RIA00718,Publicação Científica 0718,Relatório,DBIO,2025-01-24,2025,4,583,337,Embargado
+RIA00719,Publicação Científica 0719,Tese,DLC,2025-07-08,2025,1,6805,429,Restrito
+RIA00720,Publicação Científica 0720,Tese,DLC,2025-09-09,2025,3,9376,276,Open Access
+RIA00721,Publicação Científica 0721,Artigo,DEGEIT,2025-12-30,2025,4,7247,257,Restrito
+RIA00722,Publicação Científica 0722,Dissertação,DEGEIT,2021-08-20,2021,9,1113,324,Embargado
+RIA00723,Publicação Científica 0723,Relatório,DCM,2025-06-12,2025,4,6344,170,Embargado
+RIA00724,Publicação Científica 0724,Artigo,DLC,2023-05-22,2023,5,963,306,Embargado
+RIA00725,Publicação Científica 0725,Artigo,DLC,2022-07-24,2022,8,4260,212,Open Access
+RIA00726,Publicação Científica 0726,Dissertação,DEP,2019-06-20,2019,7,9127,264,Open Access
+RIA00727,Publicação Científica 0727,Artigo,DMAT,2019-10-03,2019,1,4600,448,Open Access
+RIA00728,Publicação Científica 0728,Artigo,DBIO,2025-05-01,2025,2,7985,381,Embargado
+RIA00729,Publicação Científica 0729,Tese,DF,2021-05-02,2021,4,6370,128,Embargado
+RIA00730,Publicação Científica 0730,Artigo,DGEO,2023-06-25,2023,3,704,87,Open Access
+RIA00731,Publicação Científica 0731,Dissertação,DGEO,2023-09-21,2023,7,8671,231,Embargado
+RIA00732,Publicação Científica 0732,Tese,DQ,2019-07-31,2019,8,813,225,Restrito
+RIA00733,Publicação Científica 0733,Artigo,DLC,2024-12-15,2024,3,2890,182,Open Access
+RIA00734,Publicação Científica 0734,Dissertação,DBIO,2022-06-26,2022,3,864,199,Open Access
+RIA00735,Publicação Científica 0735,Tese,DBIO,2019-04-28,2019,3,6656,127,Embargado
+RIA00736,Publicação Científica 0736,Artigo,DETI,2023-05-19,2023,6,11783,218,Embargado
+RIA00737,Publicação Científica 0737,Artigo,DETI,2026-02-07,2026,7,10953,136,Restrito
+RIA00738,Publicação Científica 0738,Dissertação,DETI,2026-01-01,2026,8,7108,429,Embargado
+RIA00739,Publicação Científica 0739,Dissertação,DGEO,2020-11-30,2020,9,9020,192,Embargado
+RIA00740,Publicação Científica 0740,Capítulo,DEGEIT,2021-10-02,2021,9,9134,294,Embargado
+RIA00741,Publicação Científica 0741,Artigo,DF,2022-09-17,2022,2,3202,187,Embargado
+RIA00742,Publicação Científica 0742,Relatório,DEGEIT,2022-08-05,2022,8,11741,143,Restrito
+RIA00743,Publicação Científica 0743,Artigo,DQ,2026-03-31,2026,2,1888,359,Restrito
+RIA00744,Publicação Científica 0744,Artigo,DLC,2020-06-29,2020,8,5787,307,Restrito
+RIA00745,Publicação Científica 0745,Tese,DGEO,2025-02-24,2025,5,2196,12,Open Access
+RIA00746,Publicação Científica 0746,Artigo,DGEO,2024-12-26,2024,4,6814,58,Open Access
+RIA00747,Publicação Científica 0747,Artigo,DF,2024-03-21,2024,6,5473,398,Open Access
+RIA00748,Publicação Científica 0748,Artigo,DF,2023-09-06,2023,9,1778,333,Open Access
+RIA00749,Publicação Científica 0749,Artigo,DLC,2022-02-03,2022,2,920,208,Restrito
+RIA00750,Publicação Científica 0750,Artigo,DMAT,2020-12-08,2020,3,3612,260,Open Access
+RIA00751,Publicação Científica 0751,Relatório,DMAT,2024-02-05,2024,7,4710,430,Restrito
+RIA00752,Publicação Científica 0752,Artigo,DQ,2019-01-07,2019,7,2509,276,Restrito
+RIA00753,Publicação Científica 0753,Capítulo,DGEO,2024-12-05,2024,6,7869,337,Restrito
+RIA00754,Publicação Científica 0754,Tese,DEP,2025-09-01,2025,4,4831,236,Restrito
+RIA00755,Publicação Científica 0755,Artigo,DEGEIT,2024-02-08,2024,9,698,117,Restrito
+RIA00756,Publicação Científica 0756,Dissertação,DBIO,2020-07-18,2020,7,1278,393,Restrito
+RIA00757,Publicação Científica 0757,Dissertação,DBIO,2025-07-30,2025,6,7145,158,Open Access
+RIA00758,Publicação Científica 0758,Tese,DBIO,2020-09-30,2020,6,1102,164,Embargado
+RIA00759,Publicação Científica 0759,Artigo,DBIO,2022-12-09,2022,5,5175,18,Restrito
+RIA00760,Publicação Científica 0760,Artigo,DGEO,2021-04-05,2021,1,8585,234,Open Access
+RIA00761,Publicação Científica 0761,Artigo,DEGEIT,2023-02-18,2023,5,9412,246,Embargado
+RIA00762,Publicação Científica 0762,Artigo,DGEO,2019-09-16,2019,3,10932,320,Embargado
+RIA00763,Publicação Científica 0763,Artigo,DMAT,2025-12-29,2025,1,8375,133,Embargado
+RIA00764,Publicação Científica 0764,Artigo,DBIO,2022-10-06,2022,2,4808,235,Restrito
+RIA00765,Publicação Científica 0765,Artigo,DLC,2025-09-06,2025,8,6626,214,Restrito
+RIA00766,Publicação Científica 0766,Artigo,DETI,2023-09-03,2023,1,10222,5,Open Access
+RIA00767,Publicação Científica 0767,Artigo,DLC,2018-04-08,2018,3,1549,400,Restrito
+RIA00768,Publicação Científica 0768,Dissertação,DGEO,2018-03-12,2018,6,6785,316,Open Access
+RIA00769,Publicação Científica 0769,Artigo,DLC,2018-07-07,2018,5,6679,316,Embargado
+RIA00770,Publicação Científica 0770,Capítulo,DQ,2023-09-15,2023,1,5140,442,Open Access
+RIA00771,Publicação Científica 0771,Tese,DLC,2018-07-27,2018,3,5891,176,Open Access
+RIA00772,Publicação Científica 0772,Artigo,DCM,2025-05-13,2025,9,4631,433,Open Access
+RIA00773,Publicação Científica 0773,Artigo,DEGEIT,2020-11-30,2020,2,2647,40,Restrito
+RIA00774,Publicação Científica 0774,Artigo,DCM,2025-09-27,2025,5,4721,10,Restrito
+RIA00775,Publicação Científica 0775,Artigo,DETI,2019-09-27,2019,9,5493,5,Restrito
+RIA00776,Publicação Científica 0776,Artigo,DF,2021-05-10,2021,5,3464,87,Embargado
+RIA00777,Publicação Científica 0777,Artigo,DGEO,2020-02-07,2020,2,824,103,Embargado
+RIA00778,Publicação Científica 0778,Artigo,DBIO,2018-05-14,2018,4,6628,312,Embargado
+RIA00779,Publicação Científica 0779,Relatório,DEGEIT,2022-04-23,2022,1,10508,145,Open Access
+RIA00780,Publicação Científica 0780,Tese,DBIO,2018-09-23,2018,7,9665,358,Restrito
+RIA00781,Publicação Científica 0781,Artigo,DEP,2020-01-31,2020,5,10005,164,Embargado
+RIA00782,Publicação Científica 0782,Artigo,DF,2019-11-21,2019,7,11554,312,Open Access
+RIA00783,Publicação Científica 0783,Relatório,DCM,2018-02-21,2018,9,6772,135,Embargado
+RIA00784,Publicação Científica 0784,Capítulo,DF,2025-05-15,2025,2,826,21,Restrito
+RIA00785,Publicação Científica 0785,Tese,DLC,2026-03-03,2026,2,1428,189,Restrito
+RIA00786,Publicação Científica 0786,Artigo,DBIO,2025-12-22,2025,9,4451,198,Embargado
+RIA00787,Publicação Científica 0787,Artigo,DQ,2022-05-25,2022,5,2672,440,Restrito
+RIA00788,Publicação Científica 0788,Artigo,DLC,2025-05-23,2025,9,6942,62,Open Access
+RIA00789,Publicação Científica 0789,Tese,DETI,2021-11-07,2021,2,1573,335,Open Access
+RIA00790,Publicação Científica 0790,Dissertação,DLC,2020-10-01,2020,2,9594,244,Open Access
+RIA00791,Publicação Científica 0791,Capítulo,DETI,2018-12-21,2018,7,2525,224,Embargado
+RIA00792,Publicação Científica 0792,Artigo,DCM,2022-01-01,2022,1,6050,224,Open Access
+RIA00793,Publicação Científica 0793,Relatório,DEP,2019-11-19,2019,6,6460,136,Embargado
+RIA00794,Publicação Científica 0794,Artigo,DF,2018-12-29,2018,2,8977,372,Restrito
+RIA00795,Publicação Científica 0795,Tese,DETI,2021-06-20,2021,2,7358,233,Open Access
+RIA00796,Publicação Científica 0796,Relatório,DQ,2025-06-04,2025,1,10566,21,Open Access
+RIA00797,Publicação Científica 0797,Tese,DMAT,2023-09-18,2023,2,6246,13,Open Access
+RIA00798,Publicação Científica 0798,Capítulo,DF,2020-01-21,2020,9,5238,195,Restrito
+RIA00799,Publicação Científica 0799,Tese,DGEO,2022-07-23,2022,7,1087,125,Restrito
+RIA00800,Publicação Científica 0800,Artigo,DMAT,2021-03-27,2021,6,99,14,Restrito
+RIA00801,Publicação Científica 0801,Artigo,DETI,2019-11-18,2019,9,6080,439,Restrito
+RIA00802,Publicação Científica 0802,Artigo,DCM,2021-02-20,2021,4,5349,46,Embargado
+RIA00803,Publicação Científica 0803,Dissertação,DQ,2018-12-20,2018,7,5419,268,Embargado
+RIA00804,Publicação Científica 0804,Tese,DEP,2020-12-08,2020,7,8165,21,Open Access
+RIA00805,Publicação Científica 0805,Artigo,DQ,2021-03-14,2021,2,4290,31,Open Access
+RIA00806,Publicação Científica 0806,Dissertação,DEP,2019-04-23,2019,3,337,20,Embargado
+RIA00807,Publicação Científica 0807,Artigo,DMAT,2023-11-28,2023,6,1102,346,Embargado
+RIA00808,Publicação Científica 0808,Relatório,DCM,2021-06-24,2021,9,4808,143,Open Access
+RIA00809,Publicação Científica 0809,Relatório,DQ,2021-08-25,2021,5,9957,69,Open Access
+RIA00810,Publicação Científica 0810,Artigo,DLC,2018-12-31,2018,2,9925,446,Open Access
+RIA00811,Publicação Científica 0811,Dissertação,DBIO,2021-08-16,2021,3,3297,346,Open Access
+RIA00812,Publicação Científica 0812,Artigo,DLC,2021-12-28,2021,9,10658,323,Open Access
+RIA00813,Publicação Científica 0813,Tese,DETI,2023-08-07,2023,7,11234,164,Open Access
+RIA00814,Publicação Científica 0814,Artigo,DEGEIT,2021-09-13,2021,1,154,132,Open Access
+RIA00815,Publicação Científica 0815,Capítulo,DGEO,2018-02-01,2018,6,7711,273,Embargado
+RIA00816,Publicação Científica 0816,Tese,DLC,2025-07-25,2025,2,8263,416,Restrito
+RIA00817,Publicação Científica 0817,Artigo,DLC,2020-08-02,2020,2,10198,211,Embargado
+RIA00818,Publicação Científica 0818,Artigo,DEP,2023-10-25,2023,8,2734,386,Restrito
+RIA00819,Publicação Científica 0819,Artigo,DBIO,2021-12-16,2021,4,2289,304,Open Access
+RIA00820,Publicação Científica 0820,Artigo,DMAT,2023-10-21,2023,3,10254,386,Open Access
+RIA00821,Publicação Científica 0821,Tese,DQ,2024-04-18,2024,5,9777,432,Open Access
+RIA00822,Publicação Científica 0822,Artigo,DGEO,2024-05-11,2024,1,4147,81,Open Access
+RIA00823,Publicação Científica 0823,Dissertação,DETI,2024-04-05,2024,9,772,234,Restrito
+RIA00824,Publicação Científica 0824,Tese,DCM,2019-11-23,2019,5,7238,255,Restrito
+RIA00825,Publicação Científica 0825,Tese,DLC,2020-03-11,2020,9,8964,27,Restrito
+RIA00826,Publicação Científica 0826,Artigo,DBIO,2022-10-07,2022,9,7967,446,Restrito
+RIA00827,Publicação Científica 0827,Dissertação,DEGEIT,2019-06-08,2019,9,6695,25,Embargado
+RIA00828,Publicação Científica 0828,Artigo,DEGEIT,2020-02-21,2020,8,5568,352,Restrito
+RIA00829,Publicação Científica 0829,Artigo,DMAT,2021-09-10,2021,1,8639,129,Embargado
+RIA00830,Publicação Científica 0830,Tese,DF,2021-08-24,2021,4,870,235,Restrito
+RIA00831,Publicação Científica 0831,Tese,DCM,2020-11-27,2020,4,5534,293,Open Access
+RIA00832,Publicação Científica 0832,Dissertação,DBIO,2018-09-20,2018,5,7195,312,Restrito
+RIA00833,Publicação Científica 0833,Artigo,DGEO,2024-11-15,2024,1,1730,246,Open Access
+RIA00834,Publicação Científica 0834,Dissertação,DQ,2024-07-26,2024,3,8544,338,Embargado
+RIA00835,Publicação Científica 0835,Tese,DETI,2022-06-13,2022,8,8210,86,Embargado
+RIA00836,Publicação Científica 0836,Artigo,DMAT,2024-09-09,2024,2,4145,374,Embargado
+RIA00837,Publicação Científica 0837,Relatório,DLC,2025-12-12,2025,2,21,36,Open Access
+RIA00838,Publicação Científica 0838,Dissertação,DEP,2020-08-14,2020,1,4907,50,Embargado
+RIA00839,Publicação Científica 0839,Artigo,DQ,2023-06-30,2023,1,11323,190,Restrito
+RIA00840,Publicação Científica 0840,Artigo,DF,2024-07-14,2024,9,8367,405,Open Access
+RIA00841,Publicação Científica 0841,Tese,DBIO,2026-03-30,2026,7,1717,304,Embargado
+RIA00842,Publicação Científica 0842,Artigo,DGEO,2022-07-27,2022,3,8948,391,Open Access
+RIA00843,Publicação Científica 0843,Dissertação,DMAT,2025-06-01,2025,1,2328,240,Open Access
+RIA00844,Publicação Científica 0844,Tese,DEP,2018-06-26,2018,1,4038,428,Restrito
+RIA00845,Publicação Científica 0845,Dissertação,DGEO,2019-05-25,2019,4,10161,181,Embargado
+RIA00846,Publicação Científica 0846,Relatório,DGEO,2025-04-27,2025,1,3728,121,Open Access
+RIA00847,Publicação Científica 0847,Artigo,DEP,2019-06-16,2019,7,4739,412,Open Access
+RIA00848,Publicação Científica 0848,Dissertação,DCM,2018-04-10,2018,6,216,51,Embargado
+RIA00849,Publicação Científica 0849,Artigo,DQ,2025-09-27,2025,1,1533,132,Embargado
+RIA00850,Publicação Científica 0850,Tese,DQ,2023-07-21,2023,1,3556,369,Open Access
+RIA00851,Publicação Científica 0851,Artigo,DF,2018-02-28,2018,9,9583,300,Open Access
+RIA00852,Publicação Científica 0852,Artigo,DF,2018-06-27,2018,3,11059,434,Open Access
+RIA00853,Publicação Científica 0853,Artigo,DF,2025-06-15,2025,3,11335,197,Embargado
+RIA00854,Publicação Científica 0854,Artigo,DQ,2020-06-06,2020,8,1949,290,Embargado
+RIA00855,Publicação Científica 0855,Dissertação,DCM,2023-10-28,2023,1,9528,207,Restrito
+RIA00856,Publicação Científica 0856,Artigo,DF,2024-03-16,2024,6,2592,411,Embargado
+RIA00857,Publicação Científica 0857,Artigo,DETI,2022-06-25,2022,9,1459,425,Embargado
+RIA00858,Publicação Científica 0858,Relatório,DMAT,2020-04-02,2020,8,7093,8,Embargado
+RIA00859,Publicação Científica 0859,Dissertação,DEGEIT,2025-06-25,2025,5,2777,248,Restrito
+RIA00860,Publicação Científica 0860,Dissertação,DGEO,2022-03-22,2022,4,7438,46,Open Access
+RIA00861,Publicação Científica 0861,Artigo,DQ,2022-02-09,2022,5,10149,401,Restrito
+RIA00862,Publicação Científica 0862,Artigo,DETI,2021-09-03,2021,2,1024,322,Open Access
+RIA00863,Publicação Científica 0863,Artigo,DETI,2018-07-10,2018,5,4647,439,Open Access
+RIA00864,Publicação Científica 0864,Artigo,DLC,2025-06-15,2025,8,10812,138,Restrito
+RIA00865,Publicação Científica 0865,Artigo,DLC,2023-12-06,2023,9,9986,258,Open Access
+RIA00866,Publicação Científica 0866,Artigo,DEGEIT,2022-08-20,2022,7,5409,425,Open Access
+RIA00867,Publicação Científica 0867,Artigo,DBIO,2026-01-03,2026,6,618,33,Open Access
+RIA00868,Publicação Científica 0868,Artigo,DGEO,2018-11-17,2018,9,10173,300,Embargado
+RIA00869,Publicação Científica 0869,Relatório,DLC,2018-07-24,2018,4,6247,173,Open Access
+RIA00870,Publicação Científica 0870,Artigo,DMAT,2022-04-03,2022,9,3814,385,Restrito
+RIA00871,Publicação Científica 0871,Relatório,DEGEIT,2019-07-16,2019,7,390,234,Restrito
+RIA00872,Publicação Científica 0872,Artigo,DQ,2018-11-19,2018,9,6844,246,Restrito
+RIA00873,Publicação Científica 0873,Artigo,DEP,2018-07-10,2018,5,921,162,Restrito
+RIA00874,Publicação Científica 0874,Artigo,DEP,2018-08-21,2018,2,9862,89,Restrito
+RIA00875,Publicação Científica 0875,Artigo,DCM,2018-05-31,2018,2,9946,100,Restrito
+RIA00876,Publicação Científica 0876,Artigo,DETI,2024-03-05,2024,1,9200,370,Open Access
+RIA00877,Publicação Científica 0877,Relatório,DETI,2025-05-14,2025,8,3664,44,Restrito
+RIA00878,Publicação Científica 0878,Artigo,DCM,2019-02-14,2019,7,5839,392,Restrito
+RIA00879,Publicação Científica 0879,Tese,DMAT,2025-11-02,2025,3,3592,305,Open Access
+RIA00880,Publicação Científica 0880,Relatório,DCM,2025-06-30,2025,7,1652,114,Restrito
+RIA00881,Publicação Científica 0881,Capítulo,DQ,2024-08-04,2024,3,9701,248,Embargado
+RIA00882,Publicação Científica 0882,Capítulo,DQ,2020-10-04,2020,7,6633,228,Restrito
+RIA00883,Publicação Científica 0883,Artigo,DEGEIT,2019-09-21,2019,8,8552,448,Restrito
+RIA00884,Publicação Científica 0884,Artigo,DEP,2025-03-30,2025,1,1990,117,Embargado
+RIA00885,Publicação Científica 0885,Artigo,DCM,2020-06-16,2020,1,10122,324,Embargado
+RIA00886,Publicação Científica 0886,Relatório,DQ,2018-10-22,2018,2,1433,65,Restrito
+RIA00887,Publicação Científica 0887,Artigo,DGEO,2026-01-29,2026,7,5811,360,Open Access
+RIA00888,Publicação Científica 0888,Artigo,DEP,2024-01-23,2024,8,10229,31,Embargado
+RIA00889,Publicação Científica 0889,Artigo,DETI,2020-07-28,2020,1,8380,63,Open Access
+RIA00890,Publicação Científica 0890,Artigo,DF,2022-08-05,2022,9,1252,422,Restrito
+RIA00891,Publicação Científica 0891,Artigo,DMAT,2020-07-17,2020,7,1299,20,Restrito
+RIA00892,Publicação Científica 0892,Relatório,DQ,2019-04-26,2019,7,3598,161,Open Access
+RIA00893,Publicação Científica 0893,Artigo,DEGEIT,2024-02-07,2024,6,4265,352,Restrito
+RIA00894,Publicação Científica 0894,Artigo,DMAT,2020-06-24,2020,9,6082,65,Open Access
+RIA00895,Publicação Científica 0895,Artigo,DGEO,2026-02-02,2026,9,10438,55,Embargado
+RIA00896,Publicação Científica 0896,Relatório,DBIO,2018-07-10,2018,9,3088,87,Restrito
+RIA00897,Publicação Científica 0897,Dissertação,DMAT,2021-03-28,2021,2,752,360,Open Access
+RIA00898,Publicação Científica 0898,Artigo,DF,2024-11-22,2024,9,8998,335,Restrito
+RIA00899,Publicação Científica 0899,Relatório,DF,2023-11-13,2023,9,9959,116,Open Access
+RIA00900,Publicação Científica 0900,Tese,DCM,2018-04-08,2018,2,2340,402,Embargado
+RIA00901,Publicação Científica 0901,Dissertação,DEGEIT,2021-03-09,2021,6,1009,12,Embargado
+RIA00902,Publicação Científica 0902,Relatório,DMAT,2023-07-31,2023,4,9856,66,Restrito
+RIA00903,Publicação Científica 0903,Artigo,DQ,2021-04-06,2021,8,3311,342,Open Access
+RIA00904,Publicação Científica 0904,Dissertação,DMAT,2023-07-06,2023,1,6050,366,Open Access
+RIA00905,Publicação Científica 0905,Artigo,DGEO,2023-04-14,2023,9,10358,69,Restrito
+RIA00906,Publicação Científica 0906,Artigo,DETI,2024-02-12,2024,1,2735,396,Open Access
+RIA00907,Publicação Científica 0907,Relatório,DLC,2023-06-27,2023,6,852,78,Embargado
+RIA00908,Publicação Científica 0908,Dissertação,DMAT,2023-11-05,2023,7,9657,251,Open Access
+RIA00909,Publicação Científica 0909,Dissertação,DF,2019-10-16,2019,6,860,353,Embargado
+RIA00910,Publicação Científica 0910,Tese,DBIO,2020-04-28,2020,6,8043,47,Embargado
+RIA00911,Publicação Científica 0911,Artigo,DEGEIT,2018-08-30,2018,4,1992,403,Embargado
+RIA00912,Publicação Científica 0912,Artigo,DCM,2022-02-17,2022,2,9084,380,Embargado
+RIA00913,Publicação Científica 0913,Artigo,DMAT,2024-07-28,2024,3,6188,29,Embargado
+RIA00914,Publicação Científica 0914,Artigo,DEP,2025-07-12,2025,1,9231,398,Open Access
+RIA00915,Publicação Científica 0915,Dissertação,DEGEIT,2019-04-16,2019,2,2127,433,Embargado
+RIA00916,Publicação Científica 0916,Dissertação,DLC,2025-05-21,2025,4,1846,115,Open Access
+RIA00917,Publicação Científica 0917,Artigo,DETI,2024-07-18,2024,5,7098,168,Open Access
+RIA00918,Publicação Científica 0918,Artigo,DCM,2019-10-14,2019,1,11930,108,Embargado
+RIA00919,Publicação Científica 0919,Artigo,DEP,2022-06-02,2022,3,8066,316,Embargado
+RIA00920,Publicação Científica 0920,Dissertação,DQ,2019-09-23,2019,7,9757,296,Restrito
+RIA00921,Publicação Científica 0921,Artigo,DGEO,2019-09-21,2019,5,4104,9,Restrito
+RIA00922,Publicação Científica 0922,Artigo,DGEO,2023-10-17,2023,3,4434,383,Embargado
+RIA00923,Publicação Científica 0923,Dissertação,DF,2023-01-23,2023,2,2447,442,Embargado
+RIA00924,Publicação Científica 0924,Tese,DGEO,2021-06-20,2021,3,4373,221,Embargado
+RIA00925,Publicação Científica 0925,Artigo,DMAT,2025-10-12,2025,2,4956,47,Open Access
+RIA00926,Publicação Científica 0926,Artigo,DGEO,2022-01-31,2022,4,7462,432,Embargado
+RIA00927,Publicação Científica 0927,Artigo,DQ,2023-01-13,2023,9,4869,89,Embargado
+RIA00928,Publicação Científica 0928,Capítulo,DF,2023-02-04,2023,6,5691,21,Open Access
+RIA00929,Publicação Científica 0929,Artigo,DGEO,2019-03-12,2019,9,1415,104,Restrito
+RIA00930,Publicação Científica 0930,Artigo,DBIO,2025-03-13,2025,1,10517,325,Embargado
+RIA00931,Publicação Científica 0931,Dissertação,DETI,2020-05-09,2020,5,1969,165,Restrito
+RIA00932,Publicação Científica 0932,Artigo,DBIO,2020-12-01,2020,4,5328,142,Restrito
+RIA00933,Publicação Científica 0933,Relatório,DMAT,2019-04-21,2019,7,3773,39,Restrito
+RIA00934,Publicação Científica 0934,Artigo,DMAT,2023-02-02,2023,5,51,119,Open Access
+RIA00935,Publicação Científica 0935,Artigo,DGEO,2019-01-08,2019,7,6411,282,Open Access
+RIA00936,Publicação Científica 0936,Artigo,DEP,2025-07-21,2025,2,5506,70,Restrito
+RIA00937,Publicação Científica 0937,Tese,DGEO,2022-03-02,2022,5,5283,164,Restrito
+RIA00938,Publicação Científica 0938,Relatório,DQ,2024-08-01,2024,1,2325,344,Restrito
+RIA00939,Publicação Científica 0939,Artigo,DGEO,2020-07-30,2020,4,1933,6,Open Access
+RIA00940,Publicação Científica 0940,Tese,DF,2025-07-01,2025,7,9121,366,Embargado
+RIA00941,Publicação Científica 0941,Tese,DQ,2024-06-19,2024,2,4142,381,Restrito
+RIA00942,Publicação Científica 0942,Tese,DBIO,2025-01-07,2025,5,636,4,Embargado
+RIA00943,Publicação Científica 0943,Artigo,DCM,2022-02-11,2022,3,5847,212,Embargado
+RIA00944,Publicação Científica 0944,Artigo,DMAT,2019-08-31,2019,9,3902,344,Restrito
+RIA00945,Publicação Científica 0945,Tese,DGEO,2018-05-31,2018,4,5336,211,Open Access
+RIA00946,Publicação Científica 0946,Relatório,DLC,2024-09-20,2024,8,5750,227,Embargado
+RIA00947,Publicação Científica 0947,Artigo,DF,2024-10-31,2024,9,3662,155,Restrito
+RIA00948,Publicação Científica 0948,Artigo,DGEO,2025-05-29,2025,6,7100,146,Open Access
+RIA00949,Publicação Científica 0949,Artigo,DQ,2021-01-20,2021,1,5075,392,Open Access
+RIA00950,Publicação Científica 0950,Tese,DETI,2020-02-07,2020,6,284,105,Embargado
+RIA00951,Publicação Científica 0951,Relatório,DEGEIT,2023-01-30,2023,9,9868,347,Open Access
+RIA00952,Publicação Científica 0952,Relatório,DQ,2024-09-09,2024,9,7312,240,Embargado
+RIA00953,Publicação Científica 0953,Artigo,DQ,2019-07-30,2019,2,3681,314,Embargado
+RIA00954,Publicação Científica 0954,Artigo,DGEO,2018-09-12,2018,2,11597,19,Restrito
+RIA00955,Publicação Científica 0955,Artigo,DMAT,2022-03-28,2022,7,61,110,Open Access
+RIA00956,Publicação Científica 0956,Dissertação,DF,2022-09-17,2022,5,4950,218,Restrito
+RIA00957,Publicação Científica 0957,Artigo,DCM,2023-02-13,2023,7,2968,79,Embargado
+RIA00958,Publicação Científica 0958,Relatório,DCM,2025-10-13,2025,9,9275,436,Open Access
+RIA00959,Publicação Científica 0959,Artigo,DEP,2024-01-01,2024,2,6572,11,Open Access
+RIA00960,Publicação Científica 0960,Artigo,DQ,2021-02-25,2021,1,1638,414,Restrito
+RIA00961,Publicação Científica 0961,Artigo,DMAT,2025-01-08,2025,5,6823,294,Open Access
+RIA00962,Publicação Científica 0962,Artigo,DGEO,2021-09-08,2021,7,11851,339,Restrito
+RIA00963,Publicação Científica 0963,Dissertação,DEP,2022-09-24,2022,7,10267,181,Restrito
+RIA00964,Publicação Científica 0964,Tese,DETI,2019-11-16,2019,7,10669,323,Restrito
+RIA00965,Publicação Científica 0965,Artigo,DEGEIT,2018-06-07,2018,8,7828,318,Open Access
+RIA00966,Publicação Científica 0966,Artigo,DBIO,2022-10-11,2022,3,368,423,Embargado
+RIA00967,Publicação Científica 0967,Artigo,DETI,2026-02-06,2026,5,30,222,Restrito
+RIA00968,Publicação Científica 0968,Artigo,DEP,2022-10-25,2022,3,7135,431,Embargado
+RIA00969,Publicação Científica 0969,Artigo,DF,2022-04-10,2022,7,4632,432,Embargado
+RIA00970,Publicação Científica 0970,Capítulo,DQ,2024-02-15,2024,7,6780,414,Open Access
+RIA00971,Publicação Científica 0971,Tese,DGEO,2025-06-20,2025,1,6799,363,Embargado
+RIA00972,Publicação Científica 0972,Artigo,DBIO,2021-02-28,2021,1,9561,258,Embargado
+RIA00973,Publicação Científica 0973,Artigo,DEGEIT,2018-07-24,2018,9,5760,407,Restrito
+RIA00974,Publicação Científica 0974,Artigo,DF,2022-08-23,2022,4,7163,14,Open Access
+RIA00975,Publicação Científica 0975,Artigo,DGEO,2022-12-06,2022,4,10115,196,Restrito
+RIA00976,Publicação Científica 0976,Capítulo,DMAT,2022-07-29,2022,6,7771,396,Restrito
+RIA00977,Publicação Científica 0977,Artigo,DEGEIT,2018-04-09,2018,2,4454,179,Restrito
+RIA00978,Publicação Científica 0978,Artigo,DLC,2023-12-03,2023,1,11311,352,Open Access
+RIA00979,Publicação Científica 0979,Artigo,DEGEIT,2025-02-21,2025,1,472,248,Open Access
+RIA00980,Publicação Científica 0980,Artigo,DBIO,2018-01-01,2018,6,5834,237,Embargado
+RIA00981,Publicação Científica 0981,Artigo,DETI,2021-12-04,2021,2,5260,361,Embargado
+RIA00982,Publicação Científica 0982,Artigo,DQ,2024-12-12,2024,8,6820,36,Embargado
+RIA00983,Publicação Científica 0983,Dissertação,DEGEIT,2022-10-17,2022,4,4361,69,Embargado
+RIA00984,Publicação Científica 0984,Artigo,DEP,2022-12-11,2022,3,5659,51,Embargado
+RIA00985,Publicação Científica 0985,Artigo,DCM,2022-04-19,2022,2,2161,91,Restrito
+RIA00986,Publicação Científica 0986,Artigo,DQ,2018-06-24,2018,6,3713,432,Embargado
+RIA00987,Publicação Científica 0987,Artigo,DETI,2023-05-12,2023,8,11117,439,Embargado
+RIA00988,Publicação Científica 0988,Artigo,DQ,2021-03-18,2021,2,1878,134,Restrito
+RIA00989,Publicação Científica 0989,Artigo,DMAT,2021-04-06,2021,9,1579,370,Restrito
+RIA00990,Publicação Científica 0990,Artigo,DBIO,2025-11-08,2025,7,1818,318,Open Access
+RIA00991,Publicação Científica 0991,Artigo,DGEO,2023-07-06,2023,5,1058,412,Embargado
+RIA00992,Publicação Científica 0992,Artigo,DETI,2020-04-29,2020,7,3542,181,Open Access
+RIA00993,Publicação Científica 0993,Artigo,DF,2023-07-21,2023,6,9659,229,Restrito
+RIA00994,Publicação Científica 0994,Artigo,DCM,2018-10-01,2018,2,8810,42,Embargado
+RIA00995,Publicação Científica 0995,Artigo,DMAT,2020-12-01,2020,2,11478,408,Embargado
+RIA00996,Publicação Científica 0996,Artigo,DQ,2019-09-23,2019,1,7372,98,Restrito
+RIA00997,Publicação Científica 0997,Dissertação,DGEO,2018-04-08,2018,7,10695,0,Embargado
+RIA00998,Publicação Científica 0998,Artigo,DEP,2020-02-04,2020,7,8816,403,Embargado
+RIA00999,Publicação Científica 0999,Dissertação,DF,2018-09-01,2018,9,6821,206,Open Access
+RIA01000,Publicação Científica 1000,Artigo,DETI,2021-02-05,2021,1,7288,403,Open Access
+RIA01001,Publicação Científica 1001,Dissertação,DF,2023-03-09,2023,7,7449,24,Embargado
+RIA01002,Publicação Científica 1002,Artigo,DEGEIT,2025-02-11,2025,8,5172,351,Restrito
+RIA01003,Publicação Científica 1003,Tese,DEGEIT,2020-08-29,2020,6,772,293,Restrito
+RIA01004,Publicação Científica 1004,Artigo,DEGEIT,2022-06-04,2022,8,11313,430,Open Access
+RIA01005,Publicação Científica 1005,Artigo,DEP,2023-05-29,2023,5,4799,52,Restrito
+RIA01006,Publicação Científica 1006,Artigo,DEGEIT,2025-02-22,2025,7,11877,161,Open Access
+RIA01007,Publicação Científica 1007,Artigo,DMAT,2020-06-03,2020,6,9933,86,Restrito
+RIA01008,Publicação Científica 1008,Artigo,DETI,2025-11-08,2025,6,2560,38,Restrito
+RIA01009,Publicação Científica 1009,Dissertação,DBIO,2025-03-17,2025,5,3579,373,Open Access
+RIA01010,Publicação Científica 1010,Artigo,DCM,2025-01-23,2025,2,11765,173,Embargado
+RIA01011,Publicação Científica 1011,Relatório,DMAT,2023-06-10,2023,5,9675,41,Restrito
+RIA01012,Publicação Científica 1012,Dissertação,DETI,2022-04-21,2022,4,9412,339,Embargado
+RIA01013,Publicação Científica 1013,Dissertação,DMAT,2025-08-13,2025,3,7382,373,Embargado
+RIA01014,Publicação Científica 1014,Artigo,DMAT,2023-10-09,2023,5,626,314,Restrito
+RIA01015,Publicação Científica 1015,Tese,DEGEIT,2020-03-24,2020,6,928,416,Open Access
+RIA01016,Publicação Científica 1016,Dissertação,DQ,2019-01-08,2019,1,11006,73,Restrito
+RIA01017,Publicação Científica 1017,Relatório,DBIO,2025-04-11,2025,5,8678,383,Restrito
+RIA01018,Publicação Científica 1018,Tese,DMAT,2019-03-23,2019,8,6012,233,Restrito
+RIA01019,Publicação Científica 1019,Artigo,DMAT,2018-05-01,2018,7,238,421,Restrito
+RIA01020,Publicação Científica 1020,Artigo,DF,2024-03-13,2024,3,7761,32,Embargado
+RIA01021,Publicação Científica 1021,Dissertação,DBIO,2022-04-13,2022,5,11950,172,Open Access
+RIA01022,Publicação Científica 1022,Artigo,DLC,2018-01-15,2018,6,1881,184,Restrito
+RIA01023,Publicação Científica 1023,Dissertação,DCM,2025-01-05,2025,9,8359,377,Embargado
+RIA01024,Publicação Científica 1024,Artigo,DMAT,2023-10-30,2023,1,965,320,Restrito
+RIA01025,Publicação Científica 1025,Artigo,DQ,2022-06-08,2022,7,11383,425,Open Access
+RIA01026,Publicação Científica 1026,Artigo,DF,2020-05-23,2020,9,9453,203,Embargado
+RIA01027,Publicação Científica 1027,Artigo,DLC,2020-08-20,2020,1,8657,255,Restrito
+RIA01028,Publicação Científica 1028,Artigo,DLC,2023-11-15,2023,1,10904,71,Restrito
+RIA01029,Publicação Científica 1029,Capítulo,DBIO,2024-01-31,2024,8,10483,51,Embargado
+RIA01030,Publicação Científica 1030,Artigo,DEGEIT,2024-01-09,2024,4,5683,145,Embargado
+RIA01031,Publicação Científica 1031,Artigo,DBIO,2024-01-04,2024,9,549,337,Embargado
+RIA01032,Publicação Científica 1032,Capítulo,DEGEIT,2021-07-07,2021,6,3030,127,Embargado
+RIA01033,Publicação Científica 1033,Artigo,DETI,2025-10-01,2025,3,8566,74,Restrito
+RIA01034,Publicação Científica 1034,Tese,DLC,2020-05-03,2020,8,6059,380,Open Access
+RIA01035,Publicação Científica 1035,Capítulo,DQ,2019-06-21,2019,4,11979,43,Open Access
+RIA01036,Publicação Científica 1036,Artigo,DEGEIT,2019-05-09,2019,7,9049,350,Restrito
+RIA01037,Publicação Científica 1037,Artigo,DMAT,2023-03-10,2023,9,3105,73,Restrito
+RIA01038,Publicação Científica 1038,Artigo,DQ,2024-05-13,2024,3,11228,308,Restrito
+RIA01039,Publicação Científica 1039,Capítulo,DQ,2018-07-28,2018,9,10498,315,Open Access
+RIA01040,Publicação Científica 1040,Artigo,DQ,2021-09-05,2021,2,10028,377,Embargado
+RIA01041,Publicação Científica 1041,Artigo,DEGEIT,2024-12-28,2024,6,3916,283,Embargado
+RIA01042,Publicação Científica 1042,Tese,DF,2025-04-12,2025,9,10872,159,Embargado
+RIA01043,Publicação Científica 1043,Artigo,DGEO,2026-03-30,2026,7,7269,188,Embargado
+RIA01044,Publicação Científica 1044,Artigo,DBIO,2020-04-30,2020,2,7621,142,Embargado
+RIA01045,Publicação Científica 1045,Dissertação,DGEO,2022-12-09,2022,7,1257,55,Open Access
+RIA01046,Publicação Científica 1046,Artigo,DEGEIT,2024-02-24,2024,8,9009,127,Restrito
+RIA01047,Publicação Científica 1047,Artigo,DQ,2024-11-10,2024,9,1532,221,Embargado
+RIA01048,Publicação Científica 1048,Capítulo,DGEO,2023-12-16,2023,4,3437,244,Open Access
+RIA01049,Publicação Científica 1049,Artigo,DMAT,2020-09-28,2020,2,11322,306,Restrito
+RIA01050,Publicação Científica 1050,Artigo,DEGEIT,2022-06-07,2022,9,3516,83,Open Access
+RIA01051,Publicação Científica 1051,Artigo,DQ,2020-06-06,2020,6,9178,192,Restrito
+RIA01052,Publicação Científica 1052,Artigo,DEP,2024-08-29,2024,4,8630,83,Open Access
+RIA01053,Publicação Científica 1053,Relatório,DCM,2024-09-05,2024,9,8132,31,Embargado
+RIA01054,Publicação Científica 1054,Dissertação,DF,2025-12-02,2025,5,8235,174,Embargado
+RIA01055,Publicação Científica 1055,Tese,DEP,2023-08-05,2023,1,7206,320,Embargado
+RIA01056,Publicação Científica 1056,Dissertação,DCM,2019-11-23,2019,1,1869,369,Restrito
+RIA01057,Publicação Científica 1057,Capítulo,DEGEIT,2018-06-24,2018,8,3332,74,Open Access
+RIA01058,Publicação Científica 1058,Artigo,DEGEIT,2024-03-22,2024,2,758,200,Open Access
+RIA01059,Publicação Científica 1059,Relatório,DQ,2021-05-16,2021,4,1059,212,Open Access
+RIA01060,Publicação Científica 1060,Artigo,DCM,2023-07-10,2023,4,762,161,Restrito
+RIA01061,Publicação Científica 1061,Dissertação,DETI,2019-12-17,2019,4,11417,103,Embargado
+RIA01062,Publicação Científica 1062,Tese,DBIO,2021-01-09,2021,8,6389,236,Embargado
+RIA01063,Publicação Científica 1063,Relatório,DEGEIT,2023-08-28,2023,2,8923,12,Open Access
+RIA01064,Publicação Científica 1064,Artigo,DETI,2021-03-19,2021,2,560,412,Embargado
+RIA01065,Publicação Científica 1065,Dissertação,DEGEIT,2021-02-10,2021,4,1844,1,Embargado
+RIA01066,Publicação Científica 1066,Artigo,DETI,2020-01-14,2020,3,245,251,Restrito
+RIA01067,Publicação Científica 1067,Artigo,DQ,2019-03-17,2019,1,8553,123,Embargado
+RIA01068,Publicação Científica 1068,Artigo,DGEO,2022-11-11,2022,3,1397,322,Restrito
+RIA01069,Publicação Científica 1069,Artigo,DQ,2022-04-23,2022,6,3606,436,Restrito
+RIA01070,Publicação Científica 1070,Relatório,DEP,2025-09-14,2025,3,2584,102,Restrito
+RIA01071,Publicação Científica 1071,Tese,DF,2019-05-21,2019,8,1573,416,Embargado
+RIA01072,Publicação Científica 1072,Capítulo,DGEO,2023-07-01,2023,9,11015,295,Embargado
+RIA01073,Publicação Científica 1073,Artigo,DLC,2019-03-16,2019,4,8739,259,Embargado
+RIA01074,Publicação Científica 1074,Tese,DBIO,2021-12-18,2021,7,9289,387,Restrito
+RIA01075,Publicação Científica 1075,Dissertação,DGEO,2019-05-17,2019,9,9755,64,Restrito
+RIA01076,Publicação Científica 1076,Artigo,DETI,2026-02-13,2026,7,2665,314,Restrito
+RIA01077,Publicação Científica 1077,Tese,DQ,2018-10-16,2018,2,5858,136,Embargado
+RIA01078,Publicação Científica 1078,Artigo,DLC,2025-10-11,2025,2,3894,419,Restrito
+RIA01079,Publicação Científica 1079,Capítulo,DBIO,2018-10-22,2018,3,9755,143,Embargado
+RIA01080,Publicação Científica 1080,Capítulo,DLC,2024-11-21,2024,2,5184,89,Embargado
+RIA01081,Publicação Científica 1081,Artigo,DLC,2021-05-16,2021,4,9112,289,Restrito
+RIA01082,Publicação Científica 1082,Artigo,DLC,2021-03-20,2021,2,2883,229,Open Access
+RIA01083,Publicação Científica 1083,Artigo,DETI,2023-11-30,2023,3,2992,333,Open Access
+RIA01084,Publicação Científica 1084,Artigo,DBIO,2018-09-29,2018,5,1734,154,Open Access
+RIA01085,Publicação Científica 1085,Artigo,DETI,2021-07-15,2021,5,3082,419,Embargado
+RIA01086,Publicação Científica 1086,Artigo,DCM,2023-12-17,2023,8,1046,246,Restrito
+RIA01087,Publicação Científica 1087,Relatório,DQ,2021-11-23,2021,7,11538,158,Embargado
+RIA01088,Publicação Científica 1088,Capítulo,DLC,2020-12-24,2020,7,9616,146,Restrito
+RIA01089,Publicação Científica 1089,Artigo,DQ,2022-07-27,2022,6,6228,220,Open Access
+RIA01090,Publicação Científica 1090,Artigo,DCM,2025-11-21,2025,5,4141,416,Restrito
+RIA01091,Publicação Científica 1091,Artigo,DF,2022-03-25,2022,9,10123,241,Embargado
+RIA01092,Publicação Científica 1092,Tese,DEP,2021-04-20,2021,5,11831,186,Open Access
+RIA01093,Publicação Científica 1093,Tese,DEGEIT,2019-03-05,2019,3,3721,303,Embargado
+RIA01094,Publicação Científica 1094,Dissertação,DMAT,2024-08-06,2024,4,10408,306,Restrito
+RIA01095,Publicação Científica 1095,Artigo,DEGEIT,2022-01-09,2022,4,3027,374,Open Access
+RIA01096,Publicação Científica 1096,Artigo,DMAT,2019-01-01,2019,5,6506,388,Open Access
+RIA01097,Publicação Científica 1097,Dissertação,DEGEIT,2023-11-29,2023,3,7028,39,Open Access
+RIA01098,Publicação Científica 1098,Tese,DCM,2023-02-09,2023,2,6512,347,Open Access
+RIA01099,Publicação Científica 1099,Artigo,DGEO,2018-06-12,2018,5,1969,154,Open Access
+RIA01100,Publicação Científica 1100,Tese,DQ,2024-09-12,2024,7,891,306,Restrito
+RIA01101,Publicação Científica 1101,Artigo,DQ,2025-01-20,2025,4,2705,306,Open Access
+RIA01102,Publicação Científica 1102,Relatório,DEGEIT,2019-12-22,2019,2,2996,270,Restrito
+RIA01103,Publicação Científica 1103,Artigo,DF,2021-04-05,2021,5,1240,337,Embargado
+RIA01104,Publicação Científica 1104,Artigo,DEP,2019-07-25,2019,2,377,262,Embargado
+RIA01105,Publicação Científica 1105,Artigo,DCM,2020-01-06,2020,3,3343,387,Embargado
+RIA01106,Publicação Científica 1106,Tese,DQ,2022-12-17,2022,9,6994,216,Open Access
+RIA01107,Publicação Científica 1107,Tese,DCM,2019-11-27,2019,6,3597,379,Restrito
+RIA01108,Publicação Científica 1108,Relatório,DQ,2021-10-19,2021,1,8997,0,Open Access
+RIA01109,Publicação Científica 1109,Tese,DCM,2025-10-08,2025,5,9631,157,Embargado
+RIA01110,Publicação Científica 1110,Relatório,DETI,2026-03-26,2026,1,97,14,Open Access
+RIA01111,Publicação Científica 1111,Artigo,DEP,2019-01-16,2019,6,9431,317,Restrito
+RIA01112,Publicação Científica 1112,Artigo,DGEO,2023-10-13,2023,4,10504,87,Embargado
+RIA01113,Publicação Científica 1113,Artigo,DLC,2022-06-16,2022,9,7158,111,Embargado
+RIA01114,Publicação Científica 1114,Artigo,DEGEIT,2020-09-08,2020,9,11974,10,Restrito
+RIA01115,Publicação Científica 1115,Artigo,DCM,2025-08-27,2025,1,1881,435,Embargado
+RIA01116,Publicação Científica 1116,Artigo,DETI,2023-05-13,2023,1,8090,310,Embargado
+RIA01117,Publicação Científica 1117,Tese,DEGEIT,2026-01-12,2026,7,4621,50,Embargado
+RIA01118,Publicação Científica 1118,Dissertação,DQ,2018-03-29,2018,7,4589,373,Embargado
+RIA01119,Publicação Científica 1119,Artigo,DQ,2023-08-02,2023,3,8374,338,Open Access
+RIA01120,Publicação Científica 1120,Artigo,DGEO,2025-07-13,2025,8,1600,407,Restrito
+RIA01121,Publicação Científica 1121,Artigo,DQ,2019-08-01,2019,9,3613,67,Restrito
+RIA01122,Publicação Científica 1122,Tese,DF,2019-02-18,2019,7,4609,342,Embargado
+RIA01123,Publicação Científica 1123,Relatório,DETI,2018-03-04,2018,2,2148,210,Embargado
+RIA01124,Publicação Científica 1124,Dissertação,DBIO,2018-03-25,2018,5,2968,246,Restrito
+RIA01125,Publicação Científica 1125,Relatório,DF,2019-01-22,2019,3,6128,86,Embargado
+RIA01126,Publicação Científica 1126,Artigo,DF,2024-07-10,2024,2,10226,374,Restrito
+RIA01127,Publicação Científica 1127,Artigo,DLC,2023-07-29,2023,1,5361,345,Restrito
+RIA01128,Publicação Científica 1128,Artigo,DEP,2019-01-17,2019,7,10469,369,Open Access
+RIA01129,Publicação Científica 1129,Artigo,DQ,2019-07-01,2019,6,2779,253,Open Access
+RIA01130,Publicação Científica 1130,Tese,DQ,2023-11-24,2023,2,7609,11,Embargado
+RIA01131,Publicação Científica 1131,Artigo,DGEO,2024-09-27,2024,4,657,186,Open Access
+RIA01132,Publicação Científica 1132,Dissertação,DETI,2018-07-15,2018,3,4364,247,Embargado
+RIA01133,Publicação Científica 1133,Capítulo,DF,2024-02-26,2024,2,8129,339,Open Access
+RIA01134,Publicação Científica 1134,Artigo,DCM,2021-06-30,2021,9,4290,23,Open Access
+RIA01135,Publicação Científica 1135,Artigo,DCM,2022-09-22,2022,8,3559,237,Restrito
+RIA01136,Publicação Científica 1136,Capítulo,DCM,2023-04-11,2023,4,705,3,Embargado
+RIA01137,Publicação Científica 1137,Tese,DQ,2025-06-21,2025,5,278,147,Embargado
+RIA01138,Publicação Científica 1138,Artigo,DETI,2024-12-10,2024,6,7965,14,Open Access
+RIA01139,Publicação Científica 1139,Artigo,DETI,2018-04-11,2018,8,6761,89,Open Access
+RIA01140,Publicação Científica 1140,Artigo,DEP,2018-06-19,2018,1,492,190,Embargado
+RIA01141,Publicação Científica 1141,Dissertação,DLC,2021-06-17,2021,8,6862,129,Open Access
+RIA01142,Publicação Científica 1142,Tese,DBIO,2023-07-15,2023,3,5993,436,Restrito
+RIA01143,Publicação Científica 1143,Dissertação,DETI,2025-05-08,2025,9,11696,247,Embargado
+RIA01144,Publicação Científica 1144,Tese,DGEO,2025-10-07,2025,9,10843,48,Embargado
+RIA01145,Publicação Científica 1145,Dissertação,DEP,2021-05-09,2021,7,7557,60,Open Access
+RIA01146,Publicação Científica 1146,Artigo,DEP,2018-01-15,2018,3,11233,380,Embargado
+RIA01147,Publicação Científica 1147,Artigo,DMAT,2018-10-02,2018,7,398,260,Open Access
+RIA01148,Publicação Científica 1148,Artigo,DEP,2020-03-28,2020,5,9609,314,Open Access
+RIA01149,Publicação Científica 1149,Relatório,DEP,2019-10-21,2019,8,6427,49,Restrito
+RIA01150,Publicação Científica 1150,Tese,DMAT,2021-07-24,2021,5,683,346,Embargado
+RIA01151,Publicação Científica 1151,Artigo,DF,2025-12-15,2025,9,9340,183,Open Access
+RIA01152,Publicação Científica 1152,Artigo,DQ,2020-03-30,2020,1,6170,353,Embargado
+RIA01153,Publicação Científica 1153,Tese,DQ,2026-03-29,2026,6,1886,444,Open Access
+RIA01154,Publicação Científica 1154,Artigo,DF,2020-09-09,2020,3,5404,322,Open Access
+RIA01155,Publicação Científica 1155,Dissertação,DEP,2018-04-17,2018,1,442,65,Embargado
+RIA01156,Publicação Científica 1156,Artigo,DEGEIT,2018-08-18,2018,6,11151,376,Embargado
+RIA01157,Publicação Científica 1157,Artigo,DBIO,2023-04-28,2023,3,6221,87,Restrito
+RIA01158,Publicação Científica 1158,Tese,DF,2023-03-24,2023,3,7280,187,Restrito
+RIA01159,Publicação Científica 1159,Artigo,DLC,2023-05-17,2023,5,2948,31,Open Access
+RIA01160,Publicação Científica 1160,Relatório,DF,2020-04-10,2020,9,6433,428,Restrito
+RIA01161,Publicação Científica 1161,Artigo,DGEO,2024-10-11,2024,9,1188,444,Restrito
+RIA01162,Publicação Científica 1162,Artigo,DETI,2020-08-07,2020,2,10167,253,Embargado
+RIA01163,Publicação Científica 1163,Artigo,DEP,2025-02-23,2025,6,1187,396,Open Access
+RIA01164,Publicação Científica 1164,Relatório,DMAT,2022-07-15,2022,8,6097,66,Embargado
+RIA01165,Publicação Científica 1165,Artigo,DF,2020-11-18,2020,1,6850,351,Embargado
+RIA01166,Publicação Científica 1166,Artigo,DGEO,2023-11-25,2023,2,2639,355,Open Access
+RIA01167,Publicação Científica 1167,Dissertação,DGEO,2018-08-31,2018,2,11951,50,Open Access
+RIA01168,Publicação Científica 1168,Relatório,DQ,2019-08-08,2019,4,5712,160,Open Access
+RIA01169,Publicação Científica 1169,Artigo,DF,2022-05-24,2022,8,10911,437,Embargado
+RIA01170,Publicação Científica 1170,Artigo,DBIO,2023-12-06,2023,8,8655,189,Open Access
+RIA01171,Publicação Científica 1171,Artigo,DCM,2024-06-01,2024,6,7717,33,Embargado
+RIA01172,Publicação Científica 1172,Artigo,DETI,2025-11-14,2025,1,8326,442,Open Access
+RIA01173,Publicação Científica 1173,Artigo,DCM,2021-06-03,2021,9,9672,365,Embargado
+RIA01174,Publicação Científica 1174,Artigo,DF,2023-03-04,2023,2,4523,10,Open Access
+RIA01175,Publicação Científica 1175,Artigo,DQ,2018-02-07,2018,9,122,287,Open Access
+RIA01176,Publicação Científica 1176,Artigo,DEP,2024-06-12,2024,7,5940,424,Open Access
+RIA01177,Publicação Científica 1177,Tese,DCM,2025-02-17,2025,3,1618,309,Embargado
+RIA01178,Publicação Científica 1178,Artigo,DF,2022-06-17,2022,3,4467,267,Open Access
+RIA01179,Publicação Científica 1179,Dissertação,DLC,2022-12-21,2022,6,7936,154,Open Access
+RIA01180,Publicação Científica 1180,Capítulo,DEGEIT,2024-11-25,2024,9,1516,433,Embargado
+RIA01181,Publicação Científica 1181,Tese,DQ,2024-07-14,2024,7,220,42,Embargado
+RIA01182,Publicação Científica 1182,Artigo,DEP,2018-10-28,2018,2,1353,198,Restrito
+RIA01183,Publicação Científica 1183,Tese,DQ,2025-10-12,2025,3,9674,157,Restrito
+RIA01184,Publicação Científica 1184,Artigo,DEP,2021-07-06,2021,8,2043,127,Open Access
+RIA01185,Publicação Científica 1185,Artigo,DEP,2019-05-15,2019,4,758,309,Open Access
+RIA01186,Publicação Científica 1186,Artigo,DGEO,2024-05-14,2024,5,10505,431,Open Access
+RIA01187,Publicação Científica 1187,Dissertação,DBIO,2021-08-09,2021,5,10001,111,Embargado
+RIA01188,Publicação Científica 1188,Tese,DCM,2023-01-24,2023,3,3734,0,Embargado
+RIA01189,Publicação Científica 1189,Relatório,DETI,2019-12-10,2019,1,2341,236,Open Access
+RIA01190,Publicação Científica 1190,Artigo,DF,2024-04-13,2024,1,7349,322,Open Access
+RIA01191,Publicação Científica 1191,Tese,DQ,2018-10-16,2018,8,10815,187,Restrito
+RIA01192,Publicação Científica 1192,Artigo,DQ,2019-10-11,2019,3,1558,410,Restrito
+RIA01193,Publicação Científica 1193,Artigo,DLC,2020-01-28,2020,9,2605,22,Open Access
+RIA01194,Publicação Científica 1194,Artigo,DEP,2019-05-31,2019,3,808,85,Open Access
+RIA01195,Publicação Científica 1195,Artigo,DBIO,2023-07-29,2023,2,10695,199,Restrito
+RIA01196,Publicação Científica 1196,Tese,DLC,2019-07-30,2019,6,241,25,Embargado
+RIA01197,Publicação Científica 1197,Artigo,DGEO,2019-08-04,2019,5,169,270,Open Access
+RIA01198,Publicação Científica 1198,Tese,DQ,2023-04-26,2023,6,2475,101,Embargado
+RIA01199,Publicação Científica 1199,Capítulo,DBIO,2019-09-10,2019,4,11302,98,Embargado
+RIA01200,Publicação Científica 1200,Relatório,DBIO,2023-01-07,2023,2,5709,99,Restrito
