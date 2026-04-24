@@ -1,0 +1,149 @@
+{
+  "themeName": "UA Institutional Light",
+  "token": {
+    "colorPrimary": "#84BD00",
+    "colorSuccess": "#84BD00",
+    "colorInfo": "#1677FF",
+    "colorWarning": "#FAAD14",
+    "colorError": "#FF4D4F",
+
+    "colorBgBase": "#F5F5F5",
+    "colorBgLayout": "#F2F2F2",
+    "colorBgContainer": "#FFFFFF",
+    "colorBgElevated": "#FFFFFF",
+    "colorBgSpotlight": "#FAFAFA",
+
+    "colorText": "#1F1F1F",
+    "colorTextSecondary": "#595959",
+    "colorTextTertiary": "#8C8C8C",
+    "colorTextDescription": "#595959",
+    "colorTextLightSolid": "#1F1F1F",
+
+    "colorBorder": "#D9D9D9",
+    "colorBorderSecondary": "#E8E8E8",
+
+    "colorLink": "#6EA000",
+    "colorLinkHover": "#84BD00",
+    "colorLinkActive": "#5C8500",
+
+    "colorFillSecondary": "#F5F5F5",
+    "colorFillTertiary": "#FAFAFA",
+    "colorFillQuaternary": "#FCFCFC",
+
+    "controlItemBgActive": "#F0F7E6",
+    "controlItemBgActiveHover": "#E7F2D5",
+    "controlItemBgHover": "#F5F5F5",
+    "controlOutline": "#84BD00",
+
+    "borderRadius": 6,
+    "wireframe": false,
+
+    "fontFamily": "Arial, Helvetica, sans-serif",
+    "fontSize": 14
+  },
+
+  "components": {
+    "Layout": {
+      "headerBg": "#000000",
+      "bodyBg": "#F2F2F2",
+      "siderBg": "#FFFFFF",
+      "triggerBg": "#F5F5F5"
+    },
+    "Menu": {
+      "itemBg": "#FFFFFF",
+      "itemColor": "#1F1F1F",
+      "itemHoverBg": "#F5F5F5",
+      "itemSelectedBg": "#F0F7E6",
+      "itemSelectedColor": "#6EA000"
+    },
+    "Card": {
+      "colorBgContainer": "#FFFFFF"
+    },
+    "Button": {
+      "colorPrimary": "#84BD00",
+      "colorPrimaryHover": "#97D600",
+      "colorPrimaryActive": "#6E9F00"
+    },
+    "Input": {
+      "colorBgContainer": "#FFFFFF"
+    },
+    "Table": {
+      "headerBg": "#F5F5F5",
+      "rowHoverBg": "#FAFAFA"
+    },
+    "Message": {
+      "colorText": "#1F1F1F",
+      "contentBg": "#FFFFFF"
+    },
+    "Notification": {
+      "colorText": "#1F1F1F",
+      "colorBgElevated": "#FFFFFF"
+    }
+  },
+
+  "superset": {
+    "colorChartLabel": "#1F1F1F",
+    "colorChartGrid": "#D9D9D9",
+    "colorChartAxis": "#595959",
+    "colorChartTitle": "#1F1F1F",
+    "colorChartTooltipBg": "#FFFFFF",
+    "colorChartTooltipText": "#1F1F1F"
+  },
+
+  "echartsOptionsOverrides": {
+    "color": [
+      "#84BD00",
+      "#1677FF",
+      "#FAAD14",
+      "#FF6B6B",
+      "#7A5AF8",
+      "#2FBF71",
+      "#F28C28",
+      "#8C8C8C"
+    ],
+    "backgroundColor": "transparent",
+    "textStyle": {
+      "color": "#1F1F1F"
+    },
+    "title": {
+      "textStyle": {
+        "color": "#1F1F1F"
+      }
+    },
+    "legend": {
+      "textStyle": {
+        "color": "#595959"
+      }
+    },
+    "xAxis": {
+      "axisLine": {
+        "lineStyle": {
+          "color": "#BFBFBF"
+        }
+      },
+      "axisLabel": {
+        "color": "#595959"
+      },
+      "splitLine": {
+        "lineStyle": {
+          "color": "#E8E8E8"
+        }
+      }
+    },
+    "yAxis": {
+      "axisLine": {
+        "lineStyle": {
+          "color": "#BFBFBF"
+        }
+      },
+      "axisLabel": {
+        "color": "#595959"
+      },
+      "splitLine": {
+        "lineStyle": {
+          "color": "#E8E8E8"
+        }
+      }
+    }
+  }
+}
