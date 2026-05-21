@@ -1,0 +1,793 @@
+BEGIN;
+
+-- ============================================================
+-- ETL REFRESH SCRIPT
+-- BI UA - Apache Superset + PostgreSQL
+--
+-- Objetivo:
+-- 1. Carregar os CSVs para tabelas raw no schema staging.
+-- 2. Transformar, limpar e validar os dados.
+-- 3. Inserir os dados tratados nas tabelas finais consumidas pelo Superset.
+--
+-- Nota:
+-- Este script assume que as tabelas finais já existem:
+-- cursos, alunos, unidades_curriculares, inscricoes_uc,
+-- orcamento, despesas, colaboradores, ausencias,
+-- projetos, publicacoes_ria.
+-- ============================================================
+
+
+-- ============================================================
+-- 1. SCHEMA STAGING
+-- ============================================================
+
+CREATE SCHEMA IF NOT EXISTS staging;
+
+
+-- ============================================================
+-- 2. FUNÇÕES AUXILIARES DE CONVERSÃO
+-- ============================================================
+
+CREATE OR REPLACE FUNCTION staging.to_int(value TEXT)
+RETURNS INTEGER
+LANGUAGE plpgsql
+IMMUTABLE
+AS $$
+BEGIN
+    IF value IS NULL OR BTRIM(value) = '' THEN
+        RETURN NULL;
+    END IF;
+
+    RETURN BTRIM(value)::INTEGER;
+
+EXCEPTION WHEN OTHERS THEN
+    RETURN NULL;
+END;
+$$;
+
+
+CREATE OR REPLACE FUNCTION staging.to_numeric(value TEXT)
+RETURNS NUMERIC
+LANGUAGE plpgsql
+IMMUTABLE
+AS $$
+BEGIN
+    IF value IS NULL OR BTRIM(value) = '' THEN
+        RETURN NULL;
+    END IF;
+
+    RETURN REPLACE(BTRIM(value), ',', '.')::NUMERIC;
+
+EXCEPTION WHEN OTHERS THEN
+    RETURN NULL;
+END;
+$$;
+
+
+CREATE OR REPLACE FUNCTION staging.to_date_iso(value TEXT)
+RETURNS DATE
+LANGUAGE plpgsql
+IMMUTABLE
+AS $$
+BEGIN
+    IF value IS NULL OR BTRIM(value) = '' THEN
+        RETURN NULL;
+    END IF;
+
+    RETURN BTRIM(value)::DATE;
+
+EXCEPTION WHEN OTHERS THEN
+    RETURN NULL;
+END;
+$$;
+
+
+CREATE OR REPLACE FUNCTION staging.to_bool(value TEXT)
+RETURNS BOOLEAN
+LANGUAGE plpgsql
+IMMUTABLE
+AS $$
+DECLARE
+    normalized TEXT;
+BEGIN
+    IF value IS NULL OR BTRIM(value) = '' THEN
+        RETURN NULL;
+    END IF;
+
+    normalized := LOWER(BTRIM(value));
+
+    IF normalized IN ('true', 't', '1', 'yes', 'y', 'sim', 's') THEN
+        RETURN TRUE;
+    END IF;
+
+    IF normalized IN ('false', 'f', '0', 'no', 'n', 'nao', 'não') THEN
+        RETURN FALSE;
+    END IF;
+
+    RETURN NULL;
+END;
+$$;
+
+
+-- ============================================================
+-- 3. LIMPEZA DAS TABELAS RAW
+-- ============================================================
+
+DROP TABLE IF EXISTS staging.cursos_raw;
+DROP TABLE IF EXISTS staging.alunos_raw;
+DROP TABLE IF EXISTS staging.unidades_curriculares_raw;
+DROP TABLE IF EXISTS staging.inscricoes_uc_raw;
+DROP TABLE IF EXISTS staging.orcamento_raw;
+DROP TABLE IF EXISTS staging.despesas_raw;
+DROP TABLE IF EXISTS staging.colaboradores_raw;
+DROP TABLE IF EXISTS staging.ausencias_raw;
+DROP TABLE IF EXISTS staging.projetos_raw;
+DROP TABLE IF EXISTS staging.publicacoes_ria_raw;
+
+
+-- ============================================================
+-- 4. CRIAÇÃO DAS TABELAS RAW
+-- Todas as colunas ficam como TEXT para representar dados brutos.
+-- ============================================================
+
+CREATE TABLE staging.cursos_raw (
+    curso_id TEXT,
+    designacao TEXT,
+    departamento TEXT,
+    ects_totais TEXT,
+    numero_vagas TEXT,
+    numero_inscritos_atual TEXT,
+    grau TEXT,
+    ativo TEXT
+);
+
+CREATE TABLE staging.alunos_raw (
+    aluno_id TEXT,
+    nome_completo TEXT,
+    genero TEXT,
+    data_nascimento TEXT,
+    curso_id TEXT,
+    departamento TEXT,
+    ano_matricula TEXT,
+    estatuto TEXT,
+    email_institucional TEXT,
+    nacionalidade TEXT,
+    regime TEXT
+);
+
+CREATE TABLE staging.unidades_curriculares_raw (
+    uc_id TEXT,
+    designacao TEXT,
+    ects TEXT,
+    departamento TEXT,
+    ano_curricular TEXT,
+    semestre TEXT,
+    obrigatoria TEXT
+);
+
+CREATE TABLE staging.inscricoes_uc_raw (
+    inscricao_id TEXT,
+    aluno_id TEXT,
+    uc_id TEXT,
+    semestre TEXT,
+    ano_letivo TEXT,
+    nota_final TEXT,
+    resultado TEXT,
+    epoca TEXT
+);
+
+CREATE TABLE staging.orcamento_raw (
+    orcamento_id TEXT,
+    ano TEXT,
+    departamento TEXT,
+    rubrica TEXT,
+    dotacao_inicial TEXT,
+    dotacao_atual TEXT,
+    execucao_acumulada TEXT,
+    percentagem_execucao TEXT
+);
+
+CREATE TABLE staging.despesas_raw (
+    despesa_id TEXT,
+    data_despesa TEXT,
+    departamento TEXT,
+    rubrica TEXT,
+    fornecedor TEXT,
+    valor TEXT,
+    estado TEXT,
+    centro_custo TEXT
+);
+
+CREATE TABLE staging.colaboradores_raw (
+    colaborador_id TEXT,
+    nome_completo TEXT,
+    categoria TEXT,
+    departamento TEXT,
+    regime TEXT,
+    data_inicio_contrato TEXT,
+    tipo_contrato TEXT,
+    estado TEXT
+);
+
+CREATE TABLE staging.ausencias_raw (
+    ausencia_id TEXT,
+    colaborador_id TEXT,
+    tipo_ausencia TEXT,
+    data_inicio TEXT,
+    data_fim TEXT,
+    duracao_dias TEXT,
+    aprovada TEXT
+);
+
+CREATE TABLE staging.projetos_raw (
+    projeto_id TEXT,
+    titulo TEXT,
+    departamento_lider TEXT,
+    fonte_financiamento TEXT,
+    orcamento_total TEXT,
+    data_inicio TEXT,
+    data_fim TEXT,
+    estado TEXT,
+    equipa_elementos TEXT
+);
+
+CREATE TABLE staging.publicacoes_ria_raw (
+    ria_id TEXT,
+    titulo TEXT,
+    tipo_publicacao TEXT,
+    departamento TEXT,
+    data_publicacao TEXT,
+    ano_publicacao TEXT,
+    autores_numero TEXT,
+    downloads TEXT,
+    citacoes TEXT,
+    licenca_acesso TEXT
+);
+
+
+-- ============================================================
+-- 5. EXTRACT / LOAD PARA STAGING
+-- Os CSVs são tratados como exports sintéticos dos sistemas da UA.
+-- ============================================================
+
+COPY staging.cursos_raw (
+    curso_id,
+    designacao,
+    departamento,
+    ects_totais,
+    numero_vagas,
+    numero_inscritos_atual,
+    grau,
+    ativo
+)
+FROM '/data/cursos.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.alunos_raw (
+    aluno_id,
+    nome_completo,
+    genero,
+    data_nascimento,
+    curso_id,
+    departamento,
+    ano_matricula,
+    estatuto,
+    email_institucional,
+    nacionalidade,
+    regime
+)
+FROM '/data/alunos.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.unidades_curriculares_raw (
+    uc_id,
+    designacao,
+    ects,
+    departamento,
+    ano_curricular,
+    semestre,
+    obrigatoria
+)
+FROM '/data/unidades_curriculares.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.inscricoes_uc_raw (
+    inscricao_id,
+    aluno_id,
+    uc_id,
+    semestre,
+    ano_letivo,
+    nota_final,
+    resultado,
+    epoca
+)
+FROM '/data/inscricoes_uc.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.orcamento_raw (
+    orcamento_id,
+    ano,
+    departamento,
+    rubrica,
+    dotacao_inicial,
+    dotacao_atual,
+    execucao_acumulada,
+    percentagem_execucao
+)
+FROM '/data/orcamento.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.despesas_raw (
+    despesa_id,
+    data_despesa,
+    departamento,
+    rubrica,
+    fornecedor,
+    valor,
+    estado,
+    centro_custo
+)
+FROM '/data/despesas.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.colaboradores_raw (
+    colaborador_id,
+    nome_completo,
+    categoria,
+    departamento,
+    regime,
+    data_inicio_contrato,
+    tipo_contrato,
+    estado
+)
+FROM '/data/colaboradores.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.ausencias_raw (
+    ausencia_id,
+    colaborador_id,
+    tipo_ausencia,
+    data_inicio,
+    data_fim,
+    duracao_dias,
+    aprovada
+)
+FROM '/data/ausencias.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.projetos_raw (
+    projeto_id,
+    titulo,
+    departamento_lider,
+    fonte_financiamento,
+    orcamento_total,
+    data_inicio,
+    data_fim,
+    estado,
+    equipa_elementos
+)
+FROM '/data/projetos.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging.publicacoes_ria_raw (
+    ria_id,
+    titulo,
+    tipo_publicacao,
+    departamento,
+    data_publicacao,
+    ano_publicacao,
+    autores_numero,
+    downloads,
+    citacoes,
+    licenca_acesso
+)
+FROM '/data/publicacoes_ria.csv'
+DELIMITER ','
+CSV HEADER;
+
+
+-- ============================================================
+-- 6. LIMPEZA DAS TABELAS FINAIS
+-- Estas são as tabelas consumidas pelo Apache Superset.
+-- ============================================================
+
+TRUNCATE TABLE
+    inscricoes_uc,
+    ausencias,
+    alunos,
+    unidades_curriculares,
+    cursos,
+    orcamento,
+    despesas,
+    colaboradores,
+    projetos,
+    publicacoes_ria
+RESTART IDENTITY;
+
+
+-- ============================================================
+-- 7. TRANSFORM / LOAD PARA TABELAS FINAIS
+-- ============================================================
+
+
+-- ----------------------------
+-- Cursos
+-- ----------------------------
+
+INSERT INTO cursos (
+    curso_id,
+    designacao,
+    departamento,
+    ects_totais,
+    numero_vagas,
+    numero_inscritos_atual,
+    grau,
+    ativo
+)
+SELECT DISTINCT ON (TRIM(curso_id))
+    TRIM(curso_id),
+    TRIM(designacao),
+    TRIM(departamento),
+    staging.to_int(ects_totais),
+    staging.to_int(numero_vagas),
+    staging.to_int(numero_inscritos_atual),
+    TRIM(grau),
+    staging.to_bool(ativo)
+FROM staging.cursos_raw
+WHERE NULLIF(TRIM(curso_id), '') IS NOT NULL
+ORDER BY TRIM(curso_id);
+
+
+-- ----------------------------
+-- Unidades curriculares
+-- ----------------------------
+
+INSERT INTO unidades_curriculares (
+    uc_id,
+    designacao,
+    ects,
+    departamento,
+    ano_curricular,
+    semestre,
+    obrigatoria
+)
+SELECT DISTINCT ON (TRIM(uc_id))
+    TRIM(uc_id),
+    TRIM(designacao),
+    staging.to_int(ects),
+    TRIM(departamento),
+    staging.to_int(ano_curricular),
+    staging.to_int(semestre),
+    staging.to_bool(obrigatoria)
+FROM staging.unidades_curriculares_raw
+WHERE NULLIF(TRIM(uc_id), '') IS NOT NULL
+ORDER BY TRIM(uc_id);
+
+
+-- ----------------------------
+-- Alunos
+-- Só entram alunos cujo curso existe na tabela cursos.
+-- ----------------------------
+
+INSERT INTO alunos (
+    aluno_id,
+    nome_completo,
+    genero,
+    data_nascimento,
+    curso_id,
+    departamento,
+    ano_matricula,
+    estatuto,
+    email_institucional,
+    nacionalidade,
+    regime
+)
+SELECT DISTINCT ON (TRIM(a.aluno_id))
+    TRIM(a.aluno_id),
+    TRIM(a.nome_completo),
+    TRIM(a.genero),
+    staging.to_date_iso(a.data_nascimento),
+    TRIM(a.curso_id),
+    TRIM(a.departamento),
+    staging.to_int(a.ano_matricula),
+    TRIM(a.estatuto),
+    LOWER(TRIM(a.email_institucional)),
+    TRIM(a.nacionalidade),
+    TRIM(a.regime)
+FROM staging.alunos_raw a
+JOIN cursos c
+    ON c.curso_id = TRIM(a.curso_id)
+WHERE NULLIF(TRIM(a.aluno_id), '') IS NOT NULL
+ORDER BY TRIM(a.aluno_id);
+
+
+-- ----------------------------
+-- Inscrições em UCs
+-- Só entram inscrições cujo aluno e UC existem.
+-- Também validamos notas entre 0 e 20.
+-- ----------------------------
+
+INSERT INTO inscricoes_uc (
+    inscricao_id,
+    aluno_id,
+    uc_id,
+    semestre,
+    ano_letivo,
+    nota_final,
+    resultado,
+    epoca
+)
+SELECT DISTINCT ON (TRIM(i.inscricao_id))
+    TRIM(i.inscricao_id),
+    TRIM(i.aluno_id),
+    TRIM(i.uc_id),
+    staging.to_int(i.semestre),
+    TRIM(i.ano_letivo),
+    CASE
+        WHEN staging.to_int(i.nota_final) BETWEEN 0 AND 20
+            THEN staging.to_int(i.nota_final)
+        ELSE NULL
+    END AS nota_final,
+    INITCAP(LOWER(TRIM(i.resultado))),
+    TRIM(i.epoca)
+FROM staging.inscricoes_uc_raw i
+JOIN alunos a
+    ON a.aluno_id = TRIM(i.aluno_id)
+JOIN unidades_curriculares uc
+    ON uc.uc_id = TRIM(i.uc_id)
+WHERE NULLIF(TRIM(i.inscricao_id), '') IS NOT NULL
+ORDER BY TRIM(i.inscricao_id);
+
+
+-- ----------------------------
+-- Orçamento
+-- Percentagem de execução limitada a valores entre 0 e 100.
+-- ----------------------------
+
+INSERT INTO orcamento (
+    orcamento_id,
+    ano,
+    departamento,
+    rubrica,
+    dotacao_inicial,
+    dotacao_atual,
+    execucao_acumulada,
+    percentagem_execucao
+)
+SELECT DISTINCT ON (TRIM(orcamento_id))
+    TRIM(orcamento_id),
+    staging.to_int(ano),
+    TRIM(departamento),
+    TRIM(rubrica),
+    staging.to_numeric(dotacao_inicial)::NUMERIC(14,2),
+    staging.to_numeric(dotacao_atual)::NUMERIC(14,2),
+    staging.to_numeric(execucao_acumulada)::NUMERIC(14,2),
+    CASE
+        WHEN staging.to_numeric(percentagem_execucao) BETWEEN 0 AND 100
+            THEN staging.to_numeric(percentagem_execucao)::NUMERIC(6,2)
+        ELSE NULL
+    END AS percentagem_execucao
+FROM staging.orcamento_raw
+WHERE NULLIF(TRIM(orcamento_id), '') IS NOT NULL
+ORDER BY TRIM(orcamento_id);
+
+
+-- ----------------------------
+-- Despesas
+-- ----------------------------
+
+INSERT INTO despesas (
+    despesa_id,
+    data_despesa,
+    departamento,
+    rubrica,
+    fornecedor,
+    valor,
+    estado,
+    centro_custo
+)
+SELECT DISTINCT ON (TRIM(despesa_id))
+    TRIM(despesa_id),
+    staging.to_date_iso(data_despesa),
+    TRIM(departamento),
+    TRIM(rubrica),
+    TRIM(fornecedor),
+    staging.to_numeric(valor)::NUMERIC(14,2),
+    INITCAP(LOWER(TRIM(estado))),
+    TRIM(centro_custo)
+FROM staging.despesas_raw
+WHERE NULLIF(TRIM(despesa_id), '') IS NOT NULL
+ORDER BY TRIM(despesa_id);
+
+
+-- ----------------------------
+-- Colaboradores
+-- ----------------------------
+
+INSERT INTO colaboradores (
+    colaborador_id,
+    nome_completo,
+    categoria,
+    departamento,
+    regime,
+    data_inicio_contrato,
+    tipo_contrato,
+    estado
+)
+SELECT DISTINCT ON (TRIM(colaborador_id))
+    TRIM(colaborador_id),
+    TRIM(nome_completo),
+    TRIM(categoria),
+    TRIM(departamento),
+    TRIM(regime),
+    staging.to_date_iso(data_inicio_contrato),
+    TRIM(tipo_contrato),
+    INITCAP(LOWER(TRIM(estado)))
+FROM staging.colaboradores_raw
+WHERE NULLIF(TRIM(colaborador_id), '') IS NOT NULL
+ORDER BY TRIM(colaborador_id);
+
+
+-- ----------------------------
+-- Ausências
+-- Só entram ausências cujo colaborador existe.
+-- ----------------------------
+
+INSERT INTO ausencias (
+    ausencia_id,
+    colaborador_id,
+    tipo_ausencia,
+    data_inicio,
+    data_fim,
+    duracao_dias,
+    aprovada
+)
+SELECT DISTINCT ON (TRIM(aus.ausencia_id))
+    TRIM(aus.ausencia_id),
+    TRIM(aus.colaborador_id),
+    TRIM(aus.tipo_ausencia),
+    staging.to_date_iso(aus.data_inicio),
+    staging.to_date_iso(aus.data_fim),
+    staging.to_int(aus.duracao_dias),
+    staging.to_bool(aus.aprovada)
+FROM staging.ausencias_raw aus
+JOIN colaboradores c
+    ON c.colaborador_id = TRIM(aus.colaborador_id)
+WHERE NULLIF(TRIM(aus.ausencia_id), '') IS NOT NULL
+ORDER BY TRIM(aus.ausencia_id);
+
+
+-- ----------------------------
+-- Projetos
+-- ----------------------------
+
+INSERT INTO projetos (
+    projeto_id,
+    titulo,
+    departamento_lider,
+    fonte_financiamento,
+    orcamento_total,
+    data_inicio,
+    data_fim,
+    estado,
+    equipa_elementos
+)
+SELECT DISTINCT ON (TRIM(projeto_id))
+    TRIM(projeto_id),
+    TRIM(titulo),
+    TRIM(departamento_lider),
+    TRIM(fonte_financiamento),
+    staging.to_numeric(orcamento_total)::NUMERIC(14,2),
+    staging.to_date_iso(data_inicio),
+    staging.to_date_iso(data_fim),
+    INITCAP(LOWER(TRIM(estado))),
+    staging.to_int(equipa_elementos)
+FROM staging.projetos_raw
+WHERE NULLIF(TRIM(projeto_id), '') IS NOT NULL
+ORDER BY TRIM(projeto_id);
+
+
+-- ----------------------------
+-- Publicações RIA
+-- ----------------------------
+
+INSERT INTO publicacoes_ria (
+    ria_id,
+    titulo,
+    tipo_publicacao,
+    departamento,
+    data_publicacao,
+    ano_publicacao,
+    autores_numero,
+    downloads,
+    citacoes,
+    licenca_acesso
+)
+SELECT DISTINCT ON (TRIM(ria_id))
+    TRIM(ria_id),
+    TRIM(titulo),
+    TRIM(tipo_publicacao),
+    TRIM(departamento),
+    staging.to_date_iso(data_publicacao),
+    staging.to_int(ano_publicacao),
+    staging.to_int(autores_numero),
+    staging.to_int(downloads),
+    staging.to_int(citacoes),
+    TRIM(licenca_acesso)
+FROM staging.publicacoes_ria_raw
+WHERE NULLIF(TRIM(ria_id), '') IS NOT NULL
+ORDER BY TRIM(ria_id);
+
+
+-- ============================================================
+-- 8. ATUALIZAÇÃO DE ESTATÍSTICAS PARA MELHOR PERFORMANCE
+-- ============================================================
+
+ANALYZE cursos;
+ANALYZE alunos;
+ANALYZE unidades_curriculares;
+ANALYZE inscricoes_uc;
+ANALYZE orcamento;
+ANALYZE despesas;
+ANALYZE colaboradores;
+ANALYZE ausencias;
+ANALYZE projetos;
+ANALYZE publicacoes_ria;
+
+COMMIT;
+
+
+-- ============================================================
+-- 9. VALIDAÇÃO FINAL
+-- Contagens para confirmar que o ETL carregou os dados.
+-- ============================================================
+
+SELECT 'staging.cursos_raw' AS tabela, COUNT(*) AS total_registos FROM staging.cursos_raw
+UNION ALL
+SELECT 'staging.alunos_raw', COUNT(*) FROM staging.alunos_raw
+UNION ALL
+SELECT 'staging.unidades_curriculares_raw', COUNT(*) FROM staging.unidades_curriculares_raw
+UNION ALL
+SELECT 'staging.inscricoes_uc_raw', COUNT(*) FROM staging.inscricoes_uc_raw
+UNION ALL
+SELECT 'staging.orcamento_raw', COUNT(*) FROM staging.orcamento_raw
+UNION ALL
+SELECT 'staging.despesas_raw', COUNT(*) FROM staging.despesas_raw
+UNION ALL
+SELECT 'staging.colaboradores_raw', COUNT(*) FROM staging.colaboradores_raw
+UNION ALL
+SELECT 'staging.ausencias_raw', COUNT(*) FROM staging.ausencias_raw
+UNION ALL
+SELECT 'staging.projetos_raw', COUNT(*) FROM staging.projetos_raw
+UNION ALL
+SELECT 'staging.publicacoes_ria_raw', COUNT(*) FROM staging.publicacoes_ria_raw
+UNION ALL
+SELECT 'final.cursos', COUNT(*) FROM cursos
+UNION ALL
+SELECT 'final.alunos', COUNT(*) FROM alunos
+UNION ALL
+SELECT 'final.unidades_curriculares', COUNT(*) FROM unidades_curriculares
+UNION ALL
+SELECT 'final.inscricoes_uc', COUNT(*) FROM inscricoes_uc
+UNION ALL
+SELECT 'final.orcamento', COUNT(*) FROM orcamento
+UNION ALL
+SELECT 'final.despesas', COUNT(*) FROM despesas
+UNION ALL
+SELECT 'final.colaboradores', COUNT(*) FROM colaboradores
+UNION ALL
+SELECT 'final.ausencias', COUNT(*) FROM ausencias
+UNION ALL
+SELECT 'final.projetos', COUNT(*) FROM projetos
+UNION ALL
+SELECT 'final.publicacoes_ria', COUNT(*) FROM publicacoes_ria
+ORDER BY tabela;

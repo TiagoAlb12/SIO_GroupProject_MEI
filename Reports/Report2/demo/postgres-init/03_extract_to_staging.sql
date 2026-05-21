@@ -1,4 +1,27 @@
-COPY cursos (
+\set ON_ERROR_STOP on
+
+-- ============================================================
+-- 03_extract_to_staging.sql
+-- Carrega os CSVs para as tabelas raw da camada staging.
+-- Os CSVs representam exports sintéticos dos sistemas da UA.
+-- ============================================================
+
+BEGIN;
+
+TRUNCATE TABLE
+    staging.cursos_raw,
+    staging.alunos_raw,
+    staging.unidades_curriculares_raw,
+    staging.inscricoes_uc_raw,
+    staging.orcamento_raw,
+    staging.despesas_raw,
+    staging.colaboradores_raw,
+    staging.ausencias_raw,
+    staging.projetos_raw,
+    staging.publicacoes_ria_raw;
+
+
+COPY staging.cursos_raw (
     curso_id,
     designacao,
     departamento,
@@ -12,7 +35,8 @@ FROM '/data/cursos.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY alunos (
+
+COPY staging.alunos_raw (
     aluno_id,
     nome_completo,
     genero,
@@ -29,7 +53,8 @@ FROM '/data/alunos.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY unidades_curriculares (
+
+COPY staging.unidades_curriculares_raw (
     uc_id,
     designacao,
     ects,
@@ -42,7 +67,8 @@ FROM '/data/unidades_curriculares.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY inscricoes_uc (
+
+COPY staging.inscricoes_uc_raw (
     inscricao_id,
     aluno_id,
     uc_id,
@@ -56,7 +82,8 @@ FROM '/data/inscricoes_uc.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY orcamento (
+
+COPY staging.orcamento_raw (
     orcamento_id,
     ano,
     departamento,
@@ -70,7 +97,8 @@ FROM '/data/orcamento.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY despesas (
+
+COPY staging.despesas_raw (
     despesa_id,
     data_despesa,
     departamento,
@@ -84,7 +112,8 @@ FROM '/data/despesas.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY colaboradores (
+
+COPY staging.colaboradores_raw (
     colaborador_id,
     nome_completo,
     categoria,
@@ -98,7 +127,8 @@ FROM '/data/colaboradores.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY ausencias (
+
+COPY staging.ausencias_raw (
     ausencia_id,
     colaborador_id,
     tipo_ausencia,
@@ -111,7 +141,8 @@ FROM '/data/ausencias.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY projetos (
+
+COPY staging.projetos_raw (
     projeto_id,
     titulo,
     departamento_lider,
@@ -126,7 +157,8 @@ FROM '/data/projetos.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY publicacoes_ria (
+
+COPY staging.publicacoes_ria_raw (
     ria_id,
     titulo,
     tipo_publicacao,
@@ -141,3 +173,5 @@ COPY publicacoes_ria (
 FROM '/data/publicacoes_ria.csv'
 DELIMITER ','
 CSV HEADER;
+
+COMMIT;

@@ -13,10 +13,6 @@ services:
       - ./postgres-init:/docker-entrypoint-initdb.d
       - ./data:/data
 
-  redis:
-    image: redis:7
-    container_name: biua_redis
-
   superset:
     image: apache/superset:6.0.0-dev
     container_name: biua_superset
@@ -26,7 +22,6 @@ services:
       SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
     depends_on:
       - db
-      - redis
     volumes:
       - superset_home:/app/superset_home
       - ./init.sh:/app/init.sh
