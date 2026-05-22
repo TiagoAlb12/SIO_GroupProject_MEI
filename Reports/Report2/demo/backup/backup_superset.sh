@@ -17,15 +17,15 @@ docker cp biua_superset:/app/superset_home/dashboards.zip backups/dashboards.zip
 docker cp biua_superset:/app/superset_home/datasources.zip backups/datasources.zip
 
 echo "Exporting data warehouse database..."
-docker exec -e PGPASSWORD=superset -t biua_postgres pg_dump \
+docker exec -e PGPASSWORD=superset biua_postgres pg_dump \
   -U superset \
   -d biua_dw \
   --no-owner \
   --no-privileges \
-  > backups/biua_dw.sql
+  | gzip -9 > backups/biua_dw.sql.gz
 
 echo "Backup completed!"
 echo "Files created:"
 echo " - backups/dashboards.zip"
 echo " - backups/datasources.zip"
-echo " - backups/biua_dw.sql"
+echo " - backups/biua_dw.sql.gz"
