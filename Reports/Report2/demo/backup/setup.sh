@@ -15,7 +15,7 @@ until docker exec biua_superset curl -s http://localhost:8088 > /dev/null 2>&1; 
   sleep 2
 done
 
-echo "Restoring database..."
+echo "Restoring data warehouse..."
 docker exec -i biua_postgres psql -U superset -d biua_dw < backups/biua_dw.sql
 
 echo "Importing datasources..."
@@ -27,3 +27,4 @@ docker cp backups/dashboards.zip biua_superset:/app/dashboards.zip
 docker exec biua_superset superset import-dashboards -p /app/dashboards.zip -u admin
 
 echo "Setup complete!"
+echo "Open Superset at: http://localhost:8088"
