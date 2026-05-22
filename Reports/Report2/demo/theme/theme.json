@@ -1,6 +1,13 @@
 {
   "themeName": "UA Institutional Light",
   "token": {
+    "brandAppName": "UA BI",
+    "brandLogoUrl": "/ua-logo.png",
+    "brandLogoAlt": "Universidade de Aveiro",
+    "brandLogoHref": "/superset/welcome/",
+    "brandLogoHeight": "65px",
+    "brandIconMaxWidth": 230,
+
     "colorPrimary": "#84BD00",
     "colorSuccess": "#84BD00",
     "colorInfo": "#1677FF",

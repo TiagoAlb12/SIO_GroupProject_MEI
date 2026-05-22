@@ -26,6 +26,7 @@ services:
       - superset_home:/app/superset_home
       - ./init.sh:/app/init.sh
       - ./superset_config.py:/app/pythonpath/superset_config.py
+      - ./branding:/app/branding:ro
     command: ["/bin/sh", "-c", "/app/init.sh"]
 
 volumes:
