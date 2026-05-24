@@ -13,15 +13,35 @@ services:
       - ./postgres-init:/docker-entrypoint-initdb.d
       - ./data:/data
 
+  keycloak:
+    image: quay.io/keycloak/keycloak:26.6.2
+    container_name: biua_keycloak
+    command: start-dev --import-realm
+    environment:
+      KC_BOOTSTRAP_ADMIN_USERNAME: admin
+      KC_BOOTSTRAP_ADMIN_PASSWORD: admin
+      KC_HOSTNAME: http://localhost:8081
+      KC_HOSTNAME_BACKCHANNEL_DYNAMIC: "true"
+    ports:
+      - "8081:8080"
+    volumes:
+      - keycloak_data:/opt/keycloak/data
+      - ./backup/keycloak/import:/opt/keycloak/data/import:ro
+
   superset:
-    image: apache/superset:6.0.0-dev
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: biua_superset_oauth:latest
     container_name: biua_superset
     ports:
       - "8088:8088"
     environment:
       SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
+      KEYCLOAK_CLIENT_SECRET: ${KEYCLOAK_CLIENT_SECRET}
     depends_on:
       - db
+      - keycloak
     volumes:
       - superset_home:/app/superset_home
       - ./init.sh:/app/init.sh
@@ -32,3 +52,4 @@ services:
 volumes:
   postgres_data:
   superset_home:
+  keycloak_data:
